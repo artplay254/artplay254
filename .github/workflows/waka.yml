@@ -3,39 +3,34 @@ name: Update WakaTime Stats
 on:
   schedule:
     - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:
+  workflow_dispatch:  # Manual trigger
 
 jobs:
   update-readme:
-    name: Update WakaTime Stats
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
+          # Required
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Required!
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
-          # === ONLY USE VALID INPUTS ===
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_EDITORS: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_COMMIT: "True"
+          # Valid Customization (start minimal, add more later)
           SHOW_LANGUAGE: "True"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "True"
           SHOW_DAYS_OF_WEEK: "True"
-          SHOW_PROFILE_VIEWS: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_UPDATED_DATE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_LOC_CHART: "True"
           SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_COMMIT: "True"
           
-          # === Customization ===
+          # Other valid options
           LOCALE: "en"
-          SYMBOL_VERSION: "2"  # Use modern icons
+          SYMBOL_VERSION: "2"  # Modern progress bars
           COMMIT_MESSAGE: "Updated WakaTime stats"
-          COMMIT_BY_ME: "True"
-
-          # === Optional: Ignore repos ===
-          # IGNORED_REPOS: "old-project, test-repo"
+          COMMIT_BY_ME: "False"  # Uses bot by default
+          DEBUG_LOGGING: "True"  # Enable for troubleshooting (remove later)
