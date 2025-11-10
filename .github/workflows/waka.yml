@@ -1,9 +1,9 @@
-name: WakaTime Stats
+name: Waka Readme
 
 on:
+  workflow_dispatch:  # Manual runs
   schedule:
-    - cron: '0 */6 * * *'
-  workflow_dispatch:
+    - cron: '0 */6 * * *'  # Every 6 hours
 
 jobs:
   update-readme:
@@ -11,18 +11,24 @@ jobs:
     steps:
       - uses: athul/waka-readme@master
         with:
+          # Required
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          
-          # === SHOW TIME ===
-          SHOW_TIME: true
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Now with proper scopes
+
+          # Show your 54 mins
           SHOW_TOTAL: true
-          
-          # === HIDE COMMITS ===
-          COMMITS: false
-          
-          # === LOOK & FEEL ===
-          LOCALE: en
-          SYMBOL_VERSION: 2
-          
-          # === DEBUG ===
-          DEBUG: true
+          SHOW_TIME: true
+
+          # Data tweaks to capture your activity
+          TIME_RANGE: all_time  # Pulls everything, not just last 7 days
+          LANG_COUNT: 5  # Top 5 languages (adjust if needed)
+          STOP_AT_OTHER: true  # Stops at "Other" to avoid clutter
+
+          # Commit tweaks
+          COMMIT_MESSAGE: 'Updated WakaTime metrics'
+          TARGET_BRANCH: main  # Or 'master' if your default branch
+          TARGET_PATH: README.md  # Ensures it hits the right file
+
+          # Optional: Hide annoyances
+          SHOW_TITLE: false  # No extra header
+          IGNORED_LANGUAGES: 'Binary YAML JSON TOML'  # Common junk to skip
