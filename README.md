@@ -53,8 +53,25 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 ---
 
 ### 📊 WakaTime Stats
+
 <p align="center">
-  <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" alt="WakaTime" />
+  <!-- Total Time (All Time) - Your existing one, fixed -->
+  <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" alt="Total Time" />
+  
+  <!-- Top Languages -->
+  <img src="https://wakatime.com/share/embed/user/72b1c550-60d3-405b-ac99-8959268a85f2/all_time/languages.svg" alt="Top Languages" />
+  
+  <!-- Top Editors -->
+  <img src="https://wakatime.com/share/embed/user/72b1c550-60d3-405b-ac99-8959268a85f2/all_time/editors.svg" alt="Top Editors" />
+  
+  <!-- Top OS -->
+  <img src="https://wakatime.com/share/embed/user/72b1c550-60d3-405b-ac99-8959268a85f2/all_time/operating_systems.svg" alt="Top OS" />
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@72b1c550-60d3-405b-ac99-8959268a85f2">
+    <img src="https://img.shields.io/badge/View%20Full%20Stats-2dd4bf?style=for-the-badge" alt="Full Stats" />
+  </a>
 </p>
 
 ---
