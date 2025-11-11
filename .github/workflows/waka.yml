@@ -2,8 +2,8 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs once a day at midnight UTC
-  workflow_dispatch:     # Allows manual trigger
+    - cron: "0 0 * * *" # runs daily at midnight UTC
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -20,25 +20,28 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-          # Basic display settings
+          # Show only coding-related stats
           SHOW_TOTAL_CODE_TIME: "true"
-          SHOW_PROFILE_VIEWS: "false"
-          SHOW_COMMIT: "true"
-          SHOW_DAYS_OF_WEEK: "true"
           SHOW_LANGUAGE: "true"
-          SHOW_OS: "true"
-          SHOW_PROJECTS: "true"
           SHOW_EDITORS: "true"
-          SHOW_LOC_CHART: "false"
+          SHOW_PROJECTS: "true"
+          SHOW_OS: "true"
           SHOW_TIMEZONE: "true"
-          SHOW_LANGUAGE_PER_REPO: "false"
-          SHOW_SHORT_INFO: "false"
-
-          # Visual customization
-          LOCALE: "en"
-          COMMIT_MESSAGE: "📊 Update WakaTime stats"
           SHOW_UPDATED_DATE: "true"
+
+          # Optional visuals
+          LOCALE: "en"
+          COMMIT_MESSAGE: "📊 Update WakaTime coding stats"
           UPDATED_DATE_FORMAT: "%d %b %Y %H:%M UTC"
 
-          # Hide optional less-important sections
-          SHOW_LINES_OF_CODE: "false"
+          # Disable commit stats (you don't want them)
+          SHOW_COMMIT: "false"
+          SHOW_DAYS_OF_WEEK: "false"
+
+          # Prevent crash
+          SHOW_LOC_CHART: "false"
+
+          # Keep things clean
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_LANGUAGE_PER_REPO: "false"
+          SHOW_SHORT_INFO: "false"
