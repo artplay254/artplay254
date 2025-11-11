@@ -1,5 +1,7 @@
 <!-- Artem's GitHub README -->
 
+<hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2dd4bf&center=true&vCenter=true&width=600&lines=Future+Fullstack+Developer;From+Russia+to+Norway;Challenge+%3D+Growth;Keep+Shipping." alt="Typing SVG" />
 </p>
