@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-- 🎂 Born on **December 7th, 2010**
+- 👦 Teenage developer passionate about growth and learning
 - 🏠 Living in **Lipetsk, Russia**
 - 🌍 Dreaming to move to **Norway**
 - 💪 I love **sports, parkour, cold showers at 5am, and pushing my limits**
@@ -23,13 +23,11 @@
 
 ### 🧰 Tech Stack
 
-#### 💻 Languages & Frameworks
+#### 🚀 Currently Learning & Exploring
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### ⚙️ Tools & Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
@@ -106,6 +104,8 @@ Linux                    54 mins             ███████████�
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artplay254)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1418269293489033256)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artplay254@gmail.com)
+
 
 <hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
 
