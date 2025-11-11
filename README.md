@@ -54,7 +54,18 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 
 ### 📊 WakaTime Stats
 
+<p align="center">
+  <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" alt="Total Time" />
+</p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <a href="https://wakatime.com/@72b1c550-60d3-405b-ac99-8959268a85f2">
+    <img src="https://img.shields.io/badge/View%20Full%20Dashboard-2dd4bf?style=for-the-badge&logo=wakatime&logoColor=white" />
+  </a>
+</p>
 
 ---
 
