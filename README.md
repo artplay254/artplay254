@@ -109,7 +109,7 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=artplay254&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
