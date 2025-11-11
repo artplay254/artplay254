@@ -1,7 +1,7 @@
 <!-- Artem's GitHub README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=42&fontColor=0f172a&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=230&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=48&fontColor=0f172a&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <h3 align="center">💻 Future Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
@@ -64,10 +64,6 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 
 ### 🚀 Goals
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
 - 🌐 Become a Fullstack Developer
 - 🇳🇴 Move to Norway
 - 💻 Contribute to open-source projects
@@ -108,8 +104,10 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
   <img src="https://github-profile-trophy.vercel.app/?username=artplay254&theme=tokyonight&no-frame=true&margin-w=15" />
 </p>
 
+---
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=artplay254&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github.com/artplay254/artplay254/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
