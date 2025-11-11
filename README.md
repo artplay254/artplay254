@@ -1,5 +1,6 @@
 <!-- Artem's GitHub README -->
 
+<h1 align="center">Hey there 👋, I'm Artem</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=120&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=36&fontColor=0f172a&animation=fadeIn&fontAlignY=35"/>
 </p>
@@ -15,7 +16,7 @@
 
 - 👦 Teenage developer passionate about growth and learning
 - 🏠 Living in Lipetsk, Russia
-- 🌍 Dreaming of Norway 🇳🇴
+- 🌍 Dreaming of moving to Norway 🇳🇴
 - 💪 I love sports, parkour, 5am cold showers, and pushing limits
 - 💡 Passionate about building, creating, and learning every day
 - 🐧 Using Arch Linux, btw
@@ -43,7 +44,7 @@
 
 - 🧠 Learning **HTML, CSS, JS**
 - ⚒️ Building **Weather App**
-- 📚 Exploring **Development Basics**
+- 📚 Exploring **Fullstack Development Basics**
 - 💭 “Discipline beats motivation.”
 
 ---
