@@ -1,9 +1,9 @@
 <!-- Artem's GitHub README -->
 
-<h1 align="center">Hey there 👋, I'm Artem</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=120&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=36&fontColor=0f172a&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=42&fontColor=0f172a&animation=fadeIn&fontAlignY=40"/>
 </p>
+
 <h3 align="center">💻 Future Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
 
 <p align="center">
@@ -42,9 +42,9 @@
 
 ### ⏳ Currently
 
-- 🧠 Learning **HTML, CSS, JS**
+- 🧠 Learning **HTML, CSS & JavaScript**
 - ⚒️ Building **Weather App**
-- 📚 Exploring **Fullstack Development Basics**
+- 📚 Exploring **Fullstack Fundamentals**
 - 💭 “Discipline beats motivation.”
 
 ---
@@ -63,6 +63,10 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 ---
 
 ### 🚀 Goals
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 - 🌐 Become a Fullstack Developer
 - 🇳🇴 Move to Norway
@@ -102,6 +106,10 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=artplay254&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
