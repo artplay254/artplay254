@@ -20,28 +20,28 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-          # What to show
+          # ---- Core visibility ----
           SHOW_TOTAL_CODE_TIME: "true"
 
-          # Time of Day: "I'm an Early Bird"
-          SHOW_TIME_OF_DAY: "true"           # This enables the section
-          SHOW_TIME_OF_DAY_COMMIT: "false"   # Use time, not commits
-          SHOW_TIME_OF_DAY_TIME: "true"      # Explicitly use minutes
+          # ---- "I'm an Early Bird" (time-of-day) ----
+          SHOW_TIME_OF_DAY: "true"          # enable the whole block
+          SHOW_TIME_OF_DAY_TIME: "true"     # **show minutes**
+          SHOW_TIME_OF_DAY_COMMIT: "false"  # hide commits
 
-          # Days of Week: "I'm Most Productive on..."
+          # ---- "I'm Most Productive on …" (days of week) ----
           SHOW_DAYS_OF_WEEK: "true"
-          SHOW_DAYS_OF_WEEK_COMMIT: "false"
-          SHOW_DAYS_OF_WEEK_TIME: "true"     # This is what you were missing!
+          SHOW_DAYS_OF_WEEK_TIME: "true"    # **show minutes**
+          SHOW_DAYS_OF_WEEK_COMMIT: "false" # hide commits
 
-          # Other sections
+          # ---- Other sections (keep them) ----
           SHOW_LANGUAGE: "true"
-          SHOW_OS: "true"
-          SHOW_PROJECTS: "true"
           SHOW_EDITORS: "true"
+          SHOW_PROJECTS: "true"
+          SHOW_OS: "true"
           SHOW_TIMEZONE: "true"
           SHOW_UPDATED_DATE: "true"
 
-          # Visuals
+          # ---- Optional tweaks ----
           LOCALE: "en"
           COMMIT_MESSAGE: "Update WakaTime stats"
           UPDATED_DATE_FORMAT: "%d %b %Y %H:%M UTC"
