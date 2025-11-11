@@ -84,11 +84,6 @@ Linux                    54 mins             ███████████�
  Last Updated on 11 Nov 2025 14:58 UTC UTC
 <!--END_SECTION:waka-->
 
-<p align="center">
-  <img src="./assets/code-flip.gif" width="250" alt="Code hard, flip harder"/>
-  <br><i>Code hard, flip harder.</i>
-</p>
-
 ---
 
 ### 🚀 Goals
