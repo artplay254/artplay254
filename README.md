@@ -1,10 +1,10 @@
 <!-- Artem's GitHub README -->
 
 <h1 align="center">Hey there 👋, I'm Artem</h1>
-<h3 align="center">💻 Future Fullstack Developer | 🏋️‍♂️ Challenge Lover | 🇷🇺 From Lipetsk, Russia</h3>
+<h3 align="center">💻 Future Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2dd4bf&center=true&vCenter=true&width=600&lines=Future+Fullstack+Developer;From+Russia+to+Norway;Challenge+%3D+Growth;Keep+Shipping." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Future+Fullstack+Developer;From+Russia+to+Norway;Challenge+%3D+Growth;Keep+Shipping" />
 </p>
 
 <p align="center">
@@ -17,9 +17,9 @@
 
 - 👦 Teenage developer passionate about growth and learning
 - 🏠 Living in Lipetsk, Russia
-- 🌍 Dreaming of Norway ❄️
+- 🌍 Dreaming of Norway 🇳🇴
 - 💪 I love sports, parkour, 5am cold showers, and pushing limits
-- 💡 Passionate about coding, creating, and learning every day
+- 💡 Passionate about building, creating, and learning every day
 - 🐧 Using Arch Linux, btw
 - ⚡️ Favorite shows: *Dragon Ball* & *The Flash*
 
@@ -54,15 +54,9 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 
 ### 📊 WakaTime Stats
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 09 November 2025 - To: 10 November 2025
-
-HTML   56 mins         █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime" />
+</p>
 
 ---
 
@@ -100,15 +94,8 @@ HTML   56 mins         ███████████████████
 ### 🧩 GitHub Stats
 
 <div align="center">
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=artplay254&theme=tokyo-night&hide_border=true&point=ffffff&area=true&area_color=2dd4bf)
-
-<br>
-
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </div>
 
 ---
