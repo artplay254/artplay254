@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-```text
+```txt
 From: 03 November 2025 - To: 10 November 2025
 
 Total Time: 54 mins
