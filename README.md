@@ -1,6 +1,5 @@
 <!-- Artem's GitHub README -->
 
-<h1 align="center">Hey there 👋, I'm Artem</h1>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=120&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=36&fontColor=0f172a&animation=fadeIn&fontAlignY=35"/>
 </p>
@@ -97,11 +96,8 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </div>
-
----
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=artplay254&theme=tokyonight&no-frame=true&margin-w=15" />
