@@ -3,7 +3,7 @@ name: Update WakaTime Stats
 on:
   schedule:
     - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:    # Allows manual run
+  workflow_dispatch:
 
 jobs:
   update:
@@ -14,14 +14,24 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
 
-          # Show your real coding time
-          SHOW_TOTAL: true
+          # === CORE STATS ===
           SHOW_TIME: true
+          SHOW_TOTAL: true
+          TIME_RANGE: last_7_days
 
-          # Pull ALL your data (not just last 7 days)
-          TIME_RANGE: all_time
-
-          # Clean output
+          # === DETAILED BREAKDOWNS ===
+          SHOW_TITLE: true
           LANG_COUNT: 10
-          SHOW_TITLE: false
+          SHOW_PROJECTS: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
+          SHOW_DAYS: true
+
+          # === FORMATTING ===
+          BLOCKS: █░
+          CODE_LANG: text
+          STOP_AT_OTHER: false
+
+          # === COMMIT ===
           COMMIT_MESSAGE: "Updated WakaTime stats"
+          TARGET_BRANCH: main
