@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋, I'm Artem</h1>
 <h3 align="center">💻 Future Fullstack Developer | 🏋️‍♂️ Challenge Lover | 🇷🇺 From Lipetsk, Russia</h3>
 
----
+<hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
 
 ### 🧠 About Me
 
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Learning-React%20%26%20Node.js-blue?style=for-the-badge" alt="Learning React & Node.js"/>
 </p>
 
----
+<hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
 
 ### 🧰 Tech Stack
 
@@ -35,7 +35,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
+<hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
 
 ### 📊 WakaTime Stats
 
@@ -85,7 +85,7 @@ Linux                    54 mins             ███████████�
  Last Updated on 11 Nov 2025 14:58 UTC UTC
 <!--END_SECTION:waka-->
 
----
+<hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
 
 ### 🚀 Goals
 
@@ -94,20 +94,20 @@ Linux                    54 mins             ███████████�
 - 💻 Contribute to **open-source projects**
 - 🔥 Keep challenging myself every day
 
----
+<hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
 
 ### ⚡ My Motto
 
 > “Comfort is a slow death. Live for the challenge.”
 
----
+<hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
 
 ### 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artplay254)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1418269293489033256)
 
----
+<hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
 
 ### 🧩 GitHub Stats
 
@@ -123,4 +123,4 @@ Linux                    54 mins             ███████████�
 
 </div>
 
----
+<hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
