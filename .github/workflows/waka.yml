@@ -1,40 +1,52 @@
-name: WakaTime Stats
+# Your waka-week: https://waka.dev
+# My public waka: https://waka.dev/@yourusername
 
+# This file is for scheduling automatic publishing of WakaTime stats.
+# Learn more at https://github.com/marketplace/wakatime-hub/actions
+
+# Schedule type (branches by default)
 on:
   schedule:
-    - cron: "0 0 * * *" # daily update
+    # Schedule daily updates at 1:00 AM UTC
+    - cron: "0 1 * * *"
+  repository_dispatch:
+    types: [waka]
   workflow_dispatch:
+
+# Allow use of GITHUB_TOKEN
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Update README with WakaTime Stats
-        uses: anmol098/waka-readme-stats@master
+      - uses: athul/waka-readme@master
         with:
+          # Your WakaTime API key (get from waketime.com/settings/api-key)
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
-          SECTION_NAME: "waka"
-          COMMIT_MESSAGE: "📊 Update WakaTime stats"
-
-          # --- Display settings ---
-          SHOW_TOTAL_CODE_TIME: "true"
-          SHOW_LANGUAGE: "true"
-          SHOW_EDITORS: "true"
-          SHOW_PROJECTS: "true"
-          SHOW_OS: "true"
-          SHOW_TIMEZONE: "true"
-          SHOW_UPDATED_DATE: "true"
-
-          # --- Disable unneeded stuff ---
-          SHOW_PROFILE_VIEWS: "false"
-          SHOW_COMMIT: "false"
-          SHOW_DAYS_OF_WEEK: "false"
-          SHOW_LOC_CHART: "false"
-
-          # --- Misc ---
-          LOCALE: "en"
-          UPDATED_DATE_FORMAT: "%d %b %Y %H:%M UTC"
+          # Show coding time in days (e.g., "5 days")
+          DAYS_OF_WEEK_TO_SHOW: "Total"
+          # Show your top 5 languages
+          SHOW_TITLE: true
+          # Clean, minimalist title
+          TITLE: "Code Time"
+          # Hide the commit message footer
+          COMMIT_MESSAGE: "Update README with coding stats"
+          # Beautiful, subtle colors for languages (hex codes, dark-mode friendly)
+          LANG_COLORS: |
+            Python: "1f77b4"
+            JavaScript: "ff7f0e"
+            TypeScript: "2ca02c"
+            HTML: "d62728"
+            CSS: "9467bd"
+            Other: "8c564b"
+          # Compact, beautiful card style
+          CARD_COLOR: "linear-gradient(92.31deg, #0b1320 0%, #1c2526 100%)"
+          # Subtle text color
+          TEXT_COLOR: "FFFFFF"
+          # No borders, clean look
+          BORDER_RADIUS: "10"
