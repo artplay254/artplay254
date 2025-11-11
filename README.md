@@ -15,6 +15,9 @@
 - 🐧 Using **Arch Linux**, btw 😎
 - ⚡ Favorite shows: *Dragon Ball* & *The Flash*
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Learning-React%20%26%20Node.js-blue?style=for-the-badge" alt="Learning React & Node.js"/>
+</p>
 ---
 
 ### 🧰 Tech Stack
@@ -81,11 +84,16 @@ Linux                    54 mins             ███████████�
  Last Updated on 11 Nov 2025 14:58 UTC UTC
 <!--END_SECTION:waka-->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgG4gtWt7/giphy.gif" width="250" alt="Coding + Parkour"/>
+  <br><i>Code hard, flip harder.</i>
+</p>
+
 ---
 
 ### 🚀 Goals
 
-- 🌐 Become a **Fullstack Frontend Developer**
+- 🌐 Become a **Fullstack Developer**
 - 🏔 Move to **Norway**
 - 💻 Contribute to **open-source projects**
 - 🔥 Keep challenging myself every day
@@ -108,7 +116,11 @@ Linux                    54 mins             ███████████�
 ### 🧩 GitHub Stats
 
 <div align="center">
-  
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=artplay254&theme=tokyo-night&hide_border=true&point=ffffff&area=true&area_color=2dd4bf)
+
+<br>
+
 ![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
