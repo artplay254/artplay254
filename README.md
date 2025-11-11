@@ -55,7 +55,13 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 ### 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-### 📊 WakaTime Stats
+
+```txt
+From: 03 November 2025 - To: 10 November 2025
+
+HTML   54 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
