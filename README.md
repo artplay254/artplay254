@@ -1,7 +1,7 @@
 <!-- Artem's GitHub README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=230&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=48&fontColor=0f172a&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=48&fontColor=0f172a&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <h3 align="center">💻 Future Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
@@ -31,6 +31,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br/>
 
 #### 🚀 Learning Now
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -125,8 +127,6 @@ HTML   56 mins         ███████████████████
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=artplay254&style=for-the-badge&color=2DD4BF" alt="Profile views" />
 </p>
-
----
 
 <p align="center"><i>“Keep shipping. Keep growing.”</i></p>
 
