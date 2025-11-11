@@ -28,25 +28,23 @@ jobs:
         with:
           # Your WakaTime API key (get from waketime.com/settings/api-key)
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Show coding time in days (e.g., "5 days")
-          DAYS_OF_WEEK_TO_SHOW: "Total"
-          # Show your top 5 languages
+          # Time period: last 7 days (options: last_7_days, last_30_days, etc.)
+          TIME_RANGE: "last_7_days"
+          # Show top 5 languages
+          LANG_COUNT: "5"
+          # Show time spent per language
+          SHOW_TIME: true
+          # Show total coding time
+          SHOW_TOTAL: true
+          # Stop at "Other" category
+          STOP_AT_OTHER: true
+          # Add a clean title
           SHOW_TITLE: true
-          # Clean, minimalist title
-          TITLE: "Code Time"
-          # Hide the commit message footer
+          # Custom title
+          SECTION_NAME: "Code Time"
+          # Sleek ASCII blocks for the graph (dark-mode friendly)
+          BLOCKS: "░▒▓█"
+          # Syntax highlight as plain text for minimalism
+          CODE_LANG: "txt"
+          # Custom commit message
           COMMIT_MESSAGE: "Update README with coding stats"
-          # Beautiful, subtle colors for languages (hex codes, dark-mode friendly)
-          LANG_COLORS: |
-            Python: "1f77b4"
-            JavaScript: "ff7f0e"
-            TypeScript: "2ca02c"
-            HTML: "d62728"
-            CSS: "9467bd"
-            Other: "8c564b"
-          # Compact, beautiful card style
-          CARD_COLOR: "linear-gradient(92.31deg, #0b1320 0%, #1c2526 100%)"
-          # Subtle text color
-          TEXT_COLOR: "FFFFFF"
-          # No borders, clean look
-          BORDER_RADIUS: "10"
