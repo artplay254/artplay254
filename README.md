@@ -121,3 +121,9 @@ HTML   56 mins         ███████████████████
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=artplay254&style=for-the-badge&color=2DD4BF" alt="Profile views" />
+</p>
+
+---
