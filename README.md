@@ -85,6 +85,11 @@ Linux                    54 mins             ███████████�
 
 <hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
 
+### 🎯 Featured Projects
+Coming soon! Currently building projects with HTML, CSS & JavaScript.
+
+<hr style="border: 0.5px solid #2f3542; margin: 20px 0;">
+
 ### 🚀 Goals
 
 - 🌐 Become a **Fullstack Developer**
