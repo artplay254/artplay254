@@ -60,6 +60,9 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
   <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" alt="WakaTime" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ### 🚀 Goals
