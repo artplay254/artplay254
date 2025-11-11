@@ -36,28 +36,15 @@
 ### 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
+```txt
+From: 03 November 2025 - To: 10 November 2025
 
-```text
-🕑︎ Time Zone: Europe/Moscow
+Total Time: 54 mins
 
-💬 Programming Languages: 
-HTML                     54 mins             █████████████████████████   100.00 % 
-
-🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-projects                 54 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    54 mins             █████████████████████████   100.00 % 
+HTML   54 mins         █████████████████████████   100.00 %
 ```
 
-
- Last Updated on 11 Nov 2025 14:26 UTC UTC
 <!--END_SECTION:waka-->
 
 ---
