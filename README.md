@@ -127,3 +127,7 @@ HTML   56 mins         ███████████████████
 </p>
 
 ---
+
+<p align="center"><i>“Keep shipping. Keep growing.”</i></p>
+
+---
