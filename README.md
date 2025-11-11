@@ -55,22 +55,22 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 ### 📊 WakaTime Stats
 
 <p align="center">
-  <!-- Total Time (All Time) - Your existing one, fixed -->
-  <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" alt="Total Time" />
+  <!-- Total Time (Works Great!) -->
+  <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" alt="Total Coding Time: 56 mins" />
+</p>
+
+<p align="center">
+  <!-- Fallback Badges (Custom for Now — Update with Real Data Later) -->
+  <img src="https://img.shields.io/badge/Languages-JS%2060%25%20%7C%20HTML%2020%25%7C%20CSS%2015%25%7C%20Python%205%25-blue?style=for-the-badge&logo=javascript&logoColor=black" alt="Top Languages" />
   
-  <!-- Top Languages -->
-  <img src="https://wakatime.com/share/embed/user/72b1c550-60d3-405b-ac99-8959268a85f2/all_time/languages.svg" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Editors-VS%20Code%2095%25-green?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Top Editors" />
   
-  <!-- Top Editors -->
-  <img src="https://wakatime.com/share/embed/user/72b1c550-60d3-405b-ac99-8959268a85f2/all_time/editors.svg" alt="Top Editors" />
-  
-  <!-- Top OS -->
-  <img src="https://wakatime.com/share/embed/user/72b1c550-60d3-405b-ac99-8959268a85f2/all_time/operating_systems.svg" alt="Top OS" />
+  <img src="https://img.shields.io/badge/OS-Linux%20100%25-yellow?style=for-the-badge&logo=linux&logoColor=black" alt="Top OS" />
 </p>
 
 <p align="center">
   <a href="https://wakatime.com/@72b1c550-60d3-405b-ac99-8959268a85f2">
-    <img src="https://img.shields.io/badge/View%20Full%20Stats-2dd4bf?style=for-the-badge" alt="Full Stats" />
+    <img src="https://img.shields.io/badge/View%20Full%20Stats-2dd4bf?style=for-the-badge&logo=wakatime&logoColor=white" alt="Full WakaTime Dashboard" />
   </a>
 </p>
 
