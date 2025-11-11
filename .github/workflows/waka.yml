@@ -29,7 +29,7 @@ jobs:
           SHOW_OS: "true"
           SHOW_PROJECTS: "true"
           SHOW_EDITORS: "true"
-          SHOW_LOC_CHART: "true"
+          SHOW_LOC_CHART: "false"
           SHOW_TIMEZONE: "true"
           SHOW_LANGUAGE_PER_REPO: "false"
           SHOW_SHORT_INFO: "false"
