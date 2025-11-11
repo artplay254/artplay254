@@ -1,50 +1,34 @@
-# Your waka-week: https://waka.dev
-# My public waka: https://waka.dev/@yourusername
+# .github/workflows/waka.yml
+name: Update WakaTime stats
 
-# This file is for scheduling automatic publishing of WakaTime stats.
-# Learn more at https://github.com/marketplace/wakatime-hub/actions
-
-# Schedule type (branches by default)
 on:
   schedule:
-    # Schedule daily updates at 1:00 AM UTC
-    - cron: "0 1 * * *"
-  repository_dispatch:
-    types: [waka]
-  workflow_dispatch:
+    - cron: "0 2 * * *"          # Every day at 02:00 UTC
+  workflow_dispatch:              # Manual run button
 
-# Allow use of GITHUB_TOKEN
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
-  update-readme:
-    name: Update Readme with Metrics
+  wakatime:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - name: Update README with WakaTime stats
+        uses: athul/waka-readme@master
         with:
-          # Your WakaTime API key (get from waketime.com/settings/api-key)
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Time period: last 7 days (options: last_7_days, last_30_days, etc.)
-          TIME_RANGE: "last_7_days"
-          # Show top 5 languages
-          LANG_COUNT: "5"
-          # Show time spent per language
-          SHOW_TIME: true
-          # Show total coding time
-          SHOW_TOTAL: true
-          # Stop at "Other" category
-          STOP_AT_OTHER: true
-          # Add a clean title
+
+          # ----- What to show -------------------------------------------------
+          TIME_RANGE: all_time         # or "last_30_days", "all_time"
+          LANG_COUNT: 5                # Show top 5 languages
+          SHOW_TIME: true              # Show hours/minutes per language
+          SHOW_TOTAL: true             # Show grand total
+          STOP_AT_OTHER: true          # Collapse the rest into “Other”
+
+          # ----- Visual style -------------------------------------------------
           SHOW_TITLE: true
-          # Custom title
-          SECTION_NAME: "Code Time"
-          # Sleek ASCII blocks for the graph (dark-mode friendly)
-          BLOCKS: "░▒▓█"
-          # Syntax highlight as plain text for minimalism
-          CODE_LANG: "txt"
-          # Custom commit message
-          COMMIT_MESSAGE: "Update README with coding stats"
+          SECTION_NAME: "WakaTime Stats"   # <-- matches the marker in README
+          BLOCKS: "░▒▓█"               # Dark-mode friendly bar (4 levels)
+
+          # ----- Commit details ------------------------------------------------
+          COMMIT_MESSAGE: "chore: update WakaTime stats"
