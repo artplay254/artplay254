@@ -12,7 +12,7 @@
 - 🌍 Dreaming to move to **Norway**
 - 💪 I love **sports, parkour, cold showers at 5am, and pushing my limits**
 - 💡 Passionate about **coding, creating something new, and learning every day**
-- 🐧 Using **Arch Linux**, btw 😎
+- 🐧 Using **Arch Linux**, btw
 - ⚡ Favorite shows: *Dragon Ball* & *The Flash*
 
 <p align="center">
