@@ -61,6 +61,13 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 </p>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 09 November 2025 - To: 10 November 2025
+
+HTML   56 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
