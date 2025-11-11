@@ -85,7 +85,7 @@ Linux                    54 mins             ███████████�
 <!--END_SECTION:waka-->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgG4gtWt7/giphy.gif" width="250" alt="Coding + Parkour"/>
+  <img src="./assets/code-flip.gif" width="250" alt="Code hard, flip harder"/>
   <br><i>Code hard, flip harder.</i>
 </p>
 
