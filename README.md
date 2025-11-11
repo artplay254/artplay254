@@ -1,14 +1,13 @@
 <!-- Artem's GitHub README -->
 
 <h1 align="center">Hey there 👋, I'm Artem</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=120&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=36&fontColor=0f172a&animation=fadeIn&fontAlignY=35"/>
+</p>
 <h3 align="center">💻 Future Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Future+Fullstack+Developer;From+Russia+to+Norway;Challenge+%3D+Growth;Keep+Shipping" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Currently-Building%20a%20Portfolio%20in%20React-2dd4bf?style=for-the-badge" alt="Currently Building" />
 </p>
 
 ---
@@ -22,10 +21,6 @@
 - 💡 Passionate about building, creating, and learning every day
 - 🐧 Using Arch Linux, btw
 - ⚡️ Favorite shows: *Dragon Ball* & *The Flash*
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Learning-React%20%26%20Node.js-blue?style=for-the-badge" alt="Learning React & Node.js"/>
-</p>
 
 ---
 
@@ -45,17 +40,24 @@
 
 ---
 
+### ⏳ Currently
+
+- 🧠 Learning **HTML, CSS, JS**
+- ⚒️ Building **Weather App**
+- 📚 Exploring **Development Basics**
+- 💭 “Discipline beats motivation.”
+
+---
+
 ### 🎯 Featured Projects
 Coming soon! Currently building projects with HTML, CSS & JavaScript.
-
-> _Working on my first React portfolio — stay tuned!_
 
 ---
 
 ### 📊 WakaTime Stats
 
 <p align="center">
-  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime" />
+  <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" alt="WakaTime" />
 </p>
 
 ---
@@ -95,7 +97,14 @@ Coming soon! Currently building projects with HTML, CSS & JavaScript.
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </div>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=artplay254&theme=tokyonight&no-frame=true&margin-w=15" />
+</p>
 
 ---
