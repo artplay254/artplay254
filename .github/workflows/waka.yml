@@ -22,8 +22,11 @@ jobs:
 
           # What to show
           SHOW_TOTAL_CODE_TIME: "true"
-          SHOW_COMMIT: "true"
+          SHOW_COMMIT: "false"               # hide commit numbers
+          SHOW_TIME: "true"                  # show time in the "I'm …" lines
           SHOW_DAYS_OF_WEEK: "true"
+          SHOW_DAYS_OF_WEEK_TIME: "true"     # day-of-week uses time
+          SHOW_DAYS_OF_WEEK_COMMIT: "false"
           SHOW_LANGUAGE: "true"
           SHOW_OS: "true"
           SHOW_PROJECTS: "true"
