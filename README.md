@@ -1,7 +1,7 @@
 <!-- Artem's GitHub README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30,60&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=60&fontColor=0f172a&animation=fadeIn&fontAlignY=40&customColorList=88C0D0,81A1C1,5E81AC"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5E81AC,4C566A,2E3440&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=60&fontColor=ECEFF4&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <h3 align="center">💻 Aspiring Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
