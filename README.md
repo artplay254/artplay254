@@ -14,11 +14,11 @@
 
 ### 🧠 About Me
 
-- 👦 Teenage developer passionate about growth and learning
+- 👦 Teen developer passionate about growth and learning
 - 🏠 Living in Lipetsk, Russia
 - 🌍 I’m inspired by Norway’s tech scene and outdoor culture — that’s where I want to build my future
 - 💪 I love sports, parkour, 5am cold showers, and pushing limits
-- 💡 Passionate about building, creating, and learning every day
+- 💡 Passionate about building, creating, and learning something new every day
 - 🐧 Using Arch Linux, btw
 - ⚡️ Favorite shows: *Dragon Ball* & *The Flash*
 
