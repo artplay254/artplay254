@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=48&fontColor=0f172a&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<h3 align="center">💻 Future Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
+<h3 align="center">💻 Aspiring Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Future+Fullstack+Developer;From+Russia+to+Norway;Challenge+%3D+Growth;Keep+Shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Aspiring+Fullstack+Developer;From+Russia+to+Norway;Challenge+%3D+Growth;Keep+Shipping" />
 </p>
 
 ---
@@ -113,22 +113,10 @@ Python   1 min           ▓░░░░░░░░░░░░░░░░░�
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=artplay254&theme=tokyonight&no-frame=true&margin-w=15" />
-</p>
-
 ---
 
 <p align="center">
   <img src="https://github.com/artplay254/artplay254/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=artplay254&style=for-the-badge&color=2DD4BF" alt="Profile views" />
-</p>
-
-<p align="center"><i>“Keep shipping. Keep growing.”</i></p>
 
 ---
