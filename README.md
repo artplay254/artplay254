@@ -1,13 +1,13 @@
 <!-- Artem's GitHub README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5E81AC,4C566A,2E3440&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=60&fontColor=ECEFF4&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=88C0D0,81A1C1,5E81AC&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=60&fontColor=ECEFF4&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<h3 align="center">💻 Aspiring Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
+<h3 align="center">💻 Aspiring Fullstack Developer | 🧊 5AM Discipline | 🇷🇺 → 🇳🇴 Dream in Progress</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Keep+Building;Keep+Learning;Keep+Pushing+Limits" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Keep+Building.;Keep+Learning.;Keep+Pushing+Limits." />
 </p>
 
 ---
@@ -15,71 +15,56 @@
 ### 🧠 About Me
 
 - 👦 Teen developer passionate about growth and learning
-- 🏠 Living in Lipetsk, Russia
-- 🌍 I’m inspired by Norway’s tech scene and outdoor culture — that’s where I want to build my future
-- 💪 I love sports, parkour, 5am cold showers, and pushing limits
-- 💡 Passionate about building, creating, and learning something new every day
-- 🐧 Using Arch Linux, btw
-- ⚡️ Favorite shows: *Dragon Ball* & *The Flash*
+- 🌍 Living in Lipetsk, Russia — inspired by Norway’s tech & outdoor culture
+- 🧊 Love sports, parkour, and 5 AM cold showers — because **discipline beats motivation**
+- 💡 Enjoy building, experimenting, and learning something new every day
+- 🐧 Running Arch Linux (and loving it)
+- ⚡ Favorite shows: *Dragon Ball* & *The Flash*
 
 ---
 
 ### 🧰 Tech Stack
 
 #### ⚙️ Tools I Use Daily
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-88C0D0?style=for-the-badge&logo=linux&logoColor=2E3440)
+![VS Code](https://img.shields.io/badge/VS%20Code-81A1C1?style=for-the-badge&logo=visualstudiocode&logoColor=2E3440)
+![Git](https://img.shields.io/badge/Git-5E81AC?style=for-the-badge&logo=git&logoColor=ECEFF4)
+![GitHub](https://img.shields.io/badge/GitHub-4C566A?style=for-the-badge&logo=github&logoColor=ECEFF4)
+
+<br/>
 
 #### 🚀 Learning Now
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-### ⏳ Currently
-
-- 🧠 Learning **HTML, CSS & JavaScript**
-- ⚒️ Building **Weather App**
-- 📚 Exploring **Fullstack Fundamentals**
-- 💭 “Discipline beats motivation.”
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
 ### 🌦️ Current Project
-Weather App — my first JavaScript project. Learning APIs and responsive design.
-
-[![Weather App](https://img.shields.io/badge/🌦️_Weather_App-0A66C2?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/artplay254/weather-app)
+**Weather App** — my first JavaScript project.  
+Learning **APIs, async functions, and responsive design.**
 
 ---
 
-### 📊 WakaTime Stats
+### 📊 GitHub Stats
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 09 November 2025 - To: 11 November 2025
-
-HTML     1 hr 8 mins     ████████████████████████▒   97.36 %
-Python   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=artplay254&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+</p>
 
 ---
 
 ### 🚀 Goals
 
-- 🌐 Become a Fullstack Developer
-- 🇳🇴 Move to Norway
-- 💻 Contribute to open-source projects
+- 🌐 Become a Fullstack Developer  
+- 🇳🇴 Move to Norway and join its tech scene  
+- 💻 Contribute to open-source projects  
 - 🔥 Keep challenging myself every day
 
 ---
 
-### ⚡️ My Motto
+### ⚡ Motto
 
 > “Every cold shower reminds me that comfort kills progress.”
 
@@ -89,23 +74,21 @@ Python   1 min           ▓░░░░░░░░░░░░░░░░░�
 
 <p align="center">
   <a href="https://t.me/artplay254">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-81A1C1?style=for-the-badge&logo=telegram&logoColor=ECEFF4" alt="Telegram"/>
+  </a>
+  <a href="https://wa.me/YOUR_NUMBER_HERE">
+    <img src="https://img.shields.io/badge/WhatsApp-88C0D0?style=for-the-badge&logo=whatsapp&logoColor=2E3440" alt="WhatsApp"/>
   </a>
   <a href="https://discordapp.com/users/1418269293489033256">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-5E81AC?style=for-the-badge&logo=discord&logoColor=ECEFF4" alt="Discord"/>
   </a>
   <a href="mailto:artplay254@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-4C566A?style=for-the-badge&logo=gmail&logoColor=ECEFF4" alt="Email"/>
   </a>
 </p>
 
 ---
 
-### 🧩 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
-</div>
-
----
+<p align="center">
+  <sub><i>“Keep building. Keep learning. Keep growing.”</i></sub>
+</p>
