@@ -57,7 +57,7 @@ const artem = {
 };
 ```
 
-**14-year-old self-taught developer** from Russia, grinding toward **Norway**. I don't watch tutorials — I build real projects, ship code, and learn from mistakes. My GitHub is my resume. My discipline is my superpower.
+**14-year-old developer from Russia, on a mission to Norway. I read, watch, and learn, but I grow by building projects, shipping code, and learning from every mistake. My GitHub is my resume. Discipline is my superpower.
 
 > *"Push yourself until your idols become your rivals."*
 
