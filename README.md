@@ -88,11 +88,7 @@ My first **live, deployed JavaScript app** using a real API.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- Streak -->
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=tokyonight&hide_border=true&border_radius=12&date_format=M+j%2C+Y" alt="GitHub Streak"/>
-  
-  <!-- General Stats -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=artplay254&theme=tokyonight&hide_border=true&border_radius=10"/>
 </p>
 
 ---
