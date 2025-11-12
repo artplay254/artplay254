@@ -148,7 +148,7 @@ current_sprint = {
 <div align="center">
 
 ```
-[████░░░░░░░░░░░░░░░░] 20% Complete
+[░░░░░░░░░░░░░░░░░░░░] 0% Complete
 ```
 
 **Goal:** Fullstack Developer in Norway 🇳🇴  
@@ -158,7 +158,7 @@ current_sprint = {
 
 | Level | Milestone | Status | Target |
 |:-----:|:----------|:------:|:-------|
-| **1** | Build & deploy first project | ✅ | **DONE** |
+| **1** | Build & deploy first project | ⏳ | **Almost done** |
 | **2** | Complete 3+ JavaScript projects | ⏳ | Q1 2025 |
 | **3** | Learn React & build fullstack app | ⏳ | Q2 2025 |
 | **4** | Make first open-source contribution | 📝 | Q3 2025 |
