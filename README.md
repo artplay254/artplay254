@@ -5,10 +5,7 @@
 
 <h1 align="center">Artem | Fullstack Developer in Progress</h1>
 <h3 align="center">14 y/o • 9th Grade • Learning by Building • 🇷🇺 → 🇳🇴</h3>
-
-<p align="center">
-  **One clear goal: Become a Fullstack Developer and move to Norway.**
-</p>
+<p align="center"><strong>One clear goal: Become a Fullstack Developer and move to Norway.</strong></p>
 
 ---
 
@@ -52,9 +49,7 @@
 
 > **Value:** A live, deployed JavaScript app demonstrating API integration and responsive design.
 
-My first **live, deployed JavaScript app** using a real API.
-
-**Stack:** `HTML` • `CSS` • `JavaScript` • `OpenWeather API` 
+**Stack:** `HTML` • `CSS` • `JavaScript` • `OpenWeather API`  
 **Learned:** API calls, error handling, responsive UI, deployment
 
 🔗 [**View Code**](https://github.com/artplay254/weather-app) • [**Live Demo**](https://artplay254.github.io/weather-app)
