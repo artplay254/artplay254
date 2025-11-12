@@ -55,7 +55,9 @@
 ---
 
 ### 🎯 Featured Projects
-🌦️ Weather App — my first JavaScript project. Learning APIs and responsive design.
+
+[![Weather App](https://img.shields.io/badge/🌦️_Weather_App-0A66C2?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/artplay254/weather-app)
+> My first JavaScript project — learning APIs, async, and responsive design.
 
 ---
 
