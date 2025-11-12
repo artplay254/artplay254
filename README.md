@@ -89,7 +89,3 @@ Learning **APIs, async functions, and responsive design.**
 </p>
 
 ---
-
-<p align="center">
-  <sub><i>“Keep building. Keep learning. Keep growing.”</i></sub>
-</p>
