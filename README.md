@@ -1,27 +1,26 @@
 <!-- Artem's GitHub Profile — Norway Quest: Level 1/10 -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Learning+Fullstack+Development;Building+Real+Projects;Russia+%E2%86%92+Norway" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Building+Fullstack+Webapps;Learning+by+Shipping+Code;Russia+%E2%86%92+Norway" alt="Typing SVG"/>
 </p>
 
-<h3 align="center">
-  14 y/o • 9th Grade • Developer in Progress • 🇷🇺 → 🇳🇴
-</h3>
+## **Artem | Fullstack Developer in Progress**
+<h3 align="center">14 y/o • 9th Grade • Learning by **Building** • 🇷🇺 → 🇳🇴</h3>
 
 <p align="center">
-  <strong>Learning fullstack by <em>building</em>, not watching.</strong><br>
-  One goal: <strong>Become a Fullstack Developer in Norway</strong>.
+  **One clear goal: Become a Fullstack Developer in Norway.**
 </p>
 
 ---
+
 ### 👋 About Me
 
 14-year-old **self-taught developer** from **Lipetsk, Russia** — coding, training, and grinding toward **Norway**.
 
-- 🧠 **Learning by shipping** — no tutorials, just real projects  
-- 🧊 **5 AM cold showers** + daily discipline  
-- 🏃 **Parkour & workouts** = mental clarity  
-- 💻 **Arch Linux + VS Code + Git** = my stack  
-- ⚡ Inspired by *Dragon Ball*, *The Flash*, and **progress**
+* 🧠 **Mindset:** Learning by **shipping code** — zero tutorials, just real-world projects.
+* 💻 **Stack:** Arch Linux + VS Code + Git = My current dev environment.
+* ⏳ **Discipline:** 5 AM cold showers + daily routines for focus.
+* 🏃 **Clarity:** Parkour & workouts for mental performance.
+* ⚡ **Inspired By:** Dragon Ball, The Flash, and **relentless progress**.
 
 ---
 ### 🛠️ Tech I'm Learning
@@ -48,41 +47,46 @@
 - Responsive design mastery  
 
 ---
+
 ### 🌤️ **First Real Project — Weather App**
+
+> **Value:** A live, deployed JavaScript app demonstrating API integration and responsive design.
 
 My first **live, deployed JavaScript app** using a real API.
 
-**Stack:** `HTML` • `CSS` • `JavaScript` • `OpenWeather API`  
+**Stack:** `HTML` • `CSS` • `JavaScript` • `OpenWeather API` 
 **Learned:** API calls, error handling, responsive UI, deployment
 
 🔗 [**View Code**](https://github.com/artplay254/weather-app) • [**Live Demo**](https://artplay254.github.io/weather-app)
 
 ---
+
 ### 🗺️ **Norway Quest** — *Level 1 / 10*
 
-**Goal:** Fullstack Developer in Norway 🇳🇴  
+**Goal:** Fullstack Developer in Norway 🇳🇴
 *Timeline: 4–6 years. No shortcuts. No comfort.*
 
 | Milestone | Status |
-|---------|--------|
-| Build & deploy first project | ✅ |
-| Finish 3 more JavaScript projects | ⏳ |
-| Make first open-source contribution | ⏳ |
-| Build fullstack app (frontend + backend) | ⏳ |
-| Learn Norwegian (currently A1) | ⏳ |
-| Finish school strong | ⏳ |
-| Build personal portfolio | ⏳ |
-| Apply to Norwegian unis / remote jobs | ⏳ |
-| Land first dev job | ⏳ |
-| **Move to Norway** 🏔️ | ⏳ |
+| :--- | :--- |
+| Build & deploy first project | ✅ **Completed!** |
+| Finish 3 more JavaScript projects | ⏳ In Progress |
+| Make first open-source contribution | ⏳ Planned |
+| Build fullstack app (frontend + backend) | ⏳ Planned |
+| Learn Norwegian (currently A1) | ⏳ In Progress |
+| Finish school strong | ⏳ In Progress |
+| Build personal portfolio | ⏳ Planned |
+| Apply to Norwegian unis / remote jobs | ⏳ Planned |
+| Land first dev job | ⏳ Planned |
+| **Move to Norway** 🏔️ | ⏳ Ultimate Goal |
 
 ---
+
 ### 💼 Why I Build in Public
 
-- **Accountability** — daily commits = daily progress  
-- **Faster growth** — projects > theory  
-- **Proof of work** — GitHub is my future resume  
-- **Community** — connecting with young devs on the grind  
+* **Accountability** — Daily commits guarantee daily progress.
+* **Faster Growth** — Projects and real challenges beat theory.
+* **Proof of Work** — This GitHub profile is my future resume.
+* **Community** — Connecting with other passionate developers.
 
 ---
 ### 📊 GitHub Stats
