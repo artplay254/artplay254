@@ -1,44 +1,45 @@
 <!-- Artem's GitHub Profile -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Building+Real+Projects;Russia+%E2%86%92+Norway" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Learning+Fullstack+Development;Building+Real+Projects;Russia+%E2%86%92+Norway" alt="Typing SVG"/>
 </p>
 
-<h3 align="center">Shipping code daily · Learning by building · 🇷🇺 → 🇳🇴</h3>
+<h3 align="center">14 y/o · 9th grade · Shipping code daily · 🇷🇺 → 🇳🇴</h3>
 
 ---
 
 ### 👋 About Me
 
-Fullstack developer from Lipetsk, Russia, building my path to Norway's tech scene through real projects and consistent execution.
+14-year-old developer from Lipetsk, Russia, learning fullstack by building real projects instead of just watching tutorials.
 
-- 🚀 Learning by **shipping**, not just tutorials
+- 🚀 **Learning by shipping** — first project already live
 - 💻 Daily driver: Arch Linux + VS Code + Git
-- 🎯 Goal: Junior developer role in Oslo/Bergen by 2026
-- 🏃 Training discipline through code, cold showers at 5AM, and parkour
+- 🎯 Long-term goal: Move to Norway and work in tech
+- 🏃 Building discipline through code, 5AM cold showers, and parkour
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Currently Learning
 
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=2E3440"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 </p>
 
-**📚 Currently Learning**: Express.js · PostgreSQL · Norwegian (A2 → B1)
+**Right now**: JavaScript fundamentals · DOM manipulation · APIs  
+**Next up**: React basics · Backend with Node.js · Databases
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 First Real Project
 
 #### 🌦️ Weather App
-Real-time weather data with API integration and responsive design.
+My first project with API integration — real data, real deployment, real learning.
 
 **Stack**: JavaScript · HTML/CSS · OpenWeather API  
-**Learned**: API calls, DOM manipulation, error handling, mobile-first design
+**What I learned**: Fetching APIs, handling errors, making it responsive
 
 🔗 [View Code](https://github.com/artplay254/weather-app) · [Live Demo](https://artplay254.github.io/weather-app)
 
@@ -46,26 +47,29 @@ Real-time weather data with API integration and responsive design.
 
 ### 🗺️ Path to Norway
 
-**Current Progress**: 1/10 milestones completed
+**Current Progress**: Level 1/10
 
-- [x] First deployed project (Weather App)
-- [ ] Build 3 JavaScript portfolio projects
+- [x] Built and deployed first project
+- [ ] Complete 3 more JavaScript projects
 - [ ] Make first open-source contribution
-- [ ] Launch fullstack app (Node + database)
-- [ ] Norwegian B1 language certification
-- [ ] Maintain 30-day GitHub commit streak
-- [ ] Complete React certification
-- [ ] Build production-ready REST API
-- [ ] Contribute to 3 open-source projects
-- [ ] Apply to Norwegian tech companies
+- [ ] Build a fullstack app with backend
+- [ ] Learn Norwegian (currently A1)
+- [ ] Finish high school with strong grades
+- [ ] Build portfolio good enough for university/jobs
+- [ ] Get accepted to Norwegian university OR
+- [ ] Land first remote dev job
+- [ ] Relocate to Norway 🇳🇴
+
+*Timeline: 4-6 years. No shortcuts, just consistency.*
 
 ---
 
-### 💼 What I Bring
+### 💼 Why I'm Building in Public
 
-- **Ship fast**: Built and deployed first project in 3 weeks
-- **Self-taught discipline**: Daily commits, learning in public
-- **Hunger to grow**: Seeking junior roles, internships, or open-source teams
+- **Accountability**: Committing daily keeps me honest
+- **Learning faster**: Shipping projects > endless tutorials
+- **Building proof**: When I'm ready for university/jobs, my GitHub will speak for itself
+- **Finding my people**: Looking for other young devs building real things
 
 ---
 
@@ -91,4 +95,4 @@ Real-time weather data with API integration and responsive design.
 
 ---
 
-<p align="center"><i>"Comfort kills progress. Keep building, keep shipping, keep growing."</i></p>
+<p align="center"><i>"Stay consistent. Stay uncomfortable. Stay growing."</i></p>
