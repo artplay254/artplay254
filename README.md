@@ -1,6 +1,6 @@
 <!-- Artem's GitHub Profile — Norway Quest: Level 1/10 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Discipline+Through+Code;From+Lipetsk+to+Norway;Keep+Pushing+Limits+%F0%9F%9A%80&font=Fira+Code&center=true&vCenter=true&width=700&height=60&color=88C0D0&duration=3000&pause=1000" alt="Dynamic Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Learning+Fullstack+Development;Building+Real+Projects;Russia+%E2%86%92+Norway" alt="Typing SVG"/>
 </p>
 
 <h3 align="center">
