@@ -16,7 +16,7 @@
 
 - 👦 Teenage developer passionate about growth and learning
 - 🏠 Living in Lipetsk, Russia
-- 🌍 Dreaming of moving to Norway 🇳🇴
+- 🌍 I’m inspired by Norway’s tech scene and outdoor culture — that’s where I want to build my future
 - 💪 I love sports, parkour, 5am cold showers, and pushing limits
 - 💡 Passionate about building, creating, and learning every day
 - 🐧 Using Arch Linux, btw
@@ -52,7 +52,7 @@
 ---
 
 ### 🎯 Featured Projects
-Coming soon! Currently building projects with HTML, CSS & JavaScript.
+🌦️ Weather App — my first JavaScript project. Learning APIs and responsive design.
 
 ---
 
@@ -86,7 +86,7 @@ Python   1 min           ▓░░░░░░░░░░░░░░░░░�
 
 ### ⚡️ My Motto
 
-> “Comfort is a slow death. Live for the challenge.”
+> “Every cold shower reminds me that comfort kills progress.”
 
 ---
 
