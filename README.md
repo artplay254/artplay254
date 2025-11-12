@@ -1,8 +1,10 @@
 <!-- Artem's GitHub README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=60&fontColor=0f172a&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,14,20,30&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=60&fontColor=0f172a&animation=fadeIn&fontAlignY=40"/>
 </p>
+
+
 
 <h3 align="center">💻 Aspiring Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
 
@@ -39,6 +41,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🧭 Next On My List
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
