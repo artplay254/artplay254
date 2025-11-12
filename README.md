@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2E3440,3B4252,81A1C1,88C0D0&height=220&section=header&text=Hey%20there%20I'm%20Artem!&fontSize=50&fontColor=ECEFF4&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<h3 align="center">Fullstack in Training | 5AM Cold Shower Club | Russia → Norway</h3>
+<h3 align="center">Fullstack Dev in Training · 5AM Cold Shower Club · 🇷🇺 → 🇳🇴</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=650&lines=Keep+Building.;Keep+Learning.;Keep+Pushing+Limits.;From+Lipetsk+to+Oslo." />
@@ -12,20 +12,20 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-- Teen dev building discipline through code  
-- Living in Lipetsk, Russia — dreaming of Norway's fjords & tech hubs  
-- 5 AM cold showers, parkour, and no excuses  
-- Big fan of *Dragon Ball*, *The Flash*, and shipping real projects  
-- Arch Linux enthusiast  
-- Always learning by building real projects and pushing my limits  
+- Teen dev forging discipline through code
+- Based in Lipetsk, Russia — chasing dreams in Norway’s fjords & tech scene
+- 5AM cold showers, parkour, and zero excuses
+- Fan of Dragon Ball, The Flash, and shipping real projects
+- Arch Linux power user
+- Learning by doing, failing fast, and building forward
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
-### Tools I Live In
+🧰 Tools I Use Daily
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-88C0D0?style=for-the-badge&logo=linux&logoColor=2E3440"/>
   <img src="https://img.shields.io/badge/VS%20Code-81A1C1?style=for-the-badge&logo=visualstudiocode&logoColor=2E3440"/>
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/GitHub-4C566A?style=for-the-badge&logo=github&logoColor=ECEFF4"/>
 </p>
 
-### Learning & Building With
+🧪 Currently Learning
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -44,23 +44,24 @@
 
 ---
 
-## 🚀 Current Project  
+🚀 Featured Project
 
 <details open>
-  <summary><strong>Weather App</strong> — My First Live JavaScript Project</summary>
+  <summary><strong>🌦️ Weather App</strong> — My First Live JavaScript Project</summary>
   <br>
-  <img src="https://raw.githubusercontent.com/artplay254/artplay254/main/assets/weather-app-demo.gif" width="100%" alt="Weather App in Action" style="border-radius:10px; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
-  <p><strong>Tech:</strong> HTML · CSS · JavaScript · OpenWeather API</p>
+  <img src="https://raw.githubusercontent.com/artplay254/artplay254/main/assets/weather-app-demo.gif" width="100%" alt="Weather App Demo" style="border-radius:10px; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
+  <p><strong>Stack:</strong> HTML · CSS · JavaScript · OpenWeather API</p>
   <p>
     <a href="https://github.com/artplay254/weather-app"><img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=ECEFF4"/></a>
     <a href="https://artplay254.github.io/weather-app"><img src="https://img.shields.io/badge/Live%20Demo-88C0D0?style=for-the-badge&logo=github-pages&logoColor=2E3440"/></a>
   </p>
-  <p><em>Learning Highlight:</em> Integrated a live API and enhanced DOM manipulation skills.</p>
+  <p><em>What I learned:</em> Working with APIs, DOM manipulation, and debugging in the wild.</p>
 </details>
 
 ---
 
-## 📊 Skill Progress
+📊 Skill Progress
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-95%25-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/CSS-82%25-important?style=for-the-badge"/>
@@ -71,7 +72,7 @@
 
 ---
 
-## 📈 Stats Dashboard
+📈 Stats Dashboard
 
 <p align="center">
   <a href="https://wakatime.com/@72b1c550-60d3-405b-ac99-8959268a85f2">
@@ -80,8 +81,8 @@
 </p>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=artplay254&theme=tokyonight&hide_border=true&border_radius=10"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=artplay254&theme=tokyonight&hideborder=true&borderradius=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hideborder=true&borderradius=10"/>
 </div>
 
 <!--START_SECTION:waka-->
@@ -89,7 +90,7 @@
 
 ---
 
-## 🗺️ Norway Quest
+🗺️ Norway Quest
 
 <p align="center">
   <img src="https://img.shields.io/badge/Quest%20Level-1%2F10-88C0D0?style=for-the-badge"/>
@@ -97,31 +98,31 @@
   <img src="https://img.shields.io/badge/Final%20Boss-Norway%20Visa-red?style=for-the-badge"/>
 </p>
 
-### Quest Milestones
+🧭 Milestone Map
 
-- Level 2: Complete 3 JavaScript projects
-- Level 3: Contribute to open source
-- Level 4: Build fullstack project
-- Level 5: Apply to Norwegian tech opportunities
+- Level 2: Build 3 JavaScript projects
+- Level 3: Make first open-source contribution
+- Level 4: Launch a fullstack app
+- Level 5: Apply to tech roles in Norway
 
 ---
 
-## 🎯 Goals
+🎯 Goals
 
 - Become a Fullstack Developer
-- Move to Norway and work in its tech scene
-- Contribute to open-source projects
-- Never stop the grind
+- Relocate to Norway and join its tech ecosystem
+- Contribute to open-source
+- Stay consistent, stay uncomfortable, stay growing
 
 ---
 
-## 💭 Motto
+💭 Motto
 
 > "Comfort kills progress."
 
 ---
 
-## 📫 Connect with Me
+📫 Let's Connect
 
 <p align="center">
   <a href="https://t.me/artplay254">
@@ -147,4 +148,4 @@
 
 ---
 
-<p align="center"><i>"Keep building. Keep shipping. Keep growing."</i></p>
+<p align="center"><i>"Keep building. Keep shipping. Keep growing</i></p>
