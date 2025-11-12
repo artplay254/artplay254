@@ -224,13 +224,14 @@ current_sprint = {
 
 **Inspired by:**
 
-| Person | Lesson |
-|--------|--------|
-| 🏋️ **Stan Browney** | Impossible is nothing with consistency |
-| 🧗 **Magnus Midtbø** | Push limits, master your craft |
-| 💻 **Sergio Nee** | Clean code, elegant solutions |
-| 🐉 **Goku (Dragon Ball)** | Never stop getting stronger |
-| ⚡ **The Flash** | Speed matters, but direction matters more |
+| Person                    | Lesson                                                                                                    |
+| ------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 🏋️ **Stan Browney**      | Strength doesn’t come from talent — it comes from showing up every day, no matter how small the progress. |
+| 🧗 **Magnus Midtbø**      | Growth happens where fear meets focus — every new hold is a chance to level up.                           |
+| 💻 **Sergio Nee**         | Progress isn’t about time — it’s about courage to start, discipline to continue, and honesty to finish.   |
+| 🐉 **Goku (Dragon Ball)** | Every battle is a chance to evolve — limits exist only until you break them.                              |
+| ⚡ **The Flash**           | Speed means nothing without direction — the right path beats the fastest one.                             |
+
 
 ---
 
