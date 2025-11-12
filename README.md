@@ -36,12 +36,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🧭 Next On My List
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -54,10 +48,10 @@
 
 ---
 
-### 🎯 Featured Projects
+### 🌦️ Current Project
+Weather App — my first JavaScript project. Learning APIs and responsive design.
 
 [![Weather App](https://img.shields.io/badge/🌦️_Weather_App-0A66C2?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/artplay254/weather-app)
-> My first JavaScript project — learning APIs, async, and responsive design.
 
 ---
 
@@ -97,9 +91,6 @@ Python   1 min           ▓░░░░░░░░░░░░░░░░░�
   <a href="https://t.me/artplay254">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://wa.me/79508022996">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
   <a href="https://discordapp.com/users/1418269293489033256">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
@@ -116,11 +107,5 @@ Python   1 min           ▓░░░░░░░░░░░░░░░░░�
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </div>
-
----
-
-<p align="center">
-  <img src="https://github.com/artplay254/artplay254/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
