@@ -12,10 +12,10 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 - Teen dev building discipline through code  
-- Living in Lipetsk, Russia — dreaming of Norway’s fjords & tech hubs  
+- Living in Lipetsk, Russia — dreaming of Norway's fjords & tech hubs  
 - 5 AM cold showers, parkour, and no excuses  
 - Big fan of *Dragon Ball*, *The Flash*, and shipping real projects  
 - Arch Linux enthusiast  
@@ -23,7 +23,7 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Tools I Live In
 <p align="center">
@@ -44,7 +44,7 @@
 
 ---
 
-## Current Project  
+## 🚀 Current Project  
 
 <details open>
   <summary><strong>Weather App</strong> — My First Live JavaScript Project</summary>
@@ -60,18 +60,18 @@
 
 ---
 
-## Skill Progress
+## 📊 Skill Progress
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-95%25-success"/>
-  <img src="https://img.shields.io/badge/CSS-82%25-important"/>
-  <img src="https://img.shields.io/badge/JavaScript-68%25-yellow"/>
-  <img src="https://img.shields.io/badge/APIs-55%25-informational"/>
-  <img src="https://img.shields.io/badge/Git-60%25-blue"/>
+  <img src="https://img.shields.io/badge/HTML-95%25-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS-82%25-important?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-68%25-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/APIs-55%25-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-60%25-blue?style=for-the-badge"/>
 </p>
 
 ---
 
-## Stats Dashboard
+## 📈 Stats Dashboard
 
 <p align="center">
   <a href="https://wakatime.com/@72b1c550-60d3-405b-ac99-8959268a85f2">
@@ -89,50 +89,39 @@
 
 ---
 
-Norway Quest
+## 🗺️ Norway Quest
 
 <p align="center">
   <img src="https://img.shields.io/badge/Quest%20Level-1%2F10-88C0D0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Next%20Milestone-Deploy%20App-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Final%20Boss-Norway%20Visa-red?style=for-the-badge"/>
-</p>Quest Milestones
+</p>
 
-Level 2: Complete 3 JavaScript projects
+### Quest Milestones
 
-Level 3: Contribute to open source
-
-Level 4: Build fullstack project
-
-Level 5: Apply to Norwegian tech opportunities
-
-
+- Level 2: Complete 3 JavaScript projects
+- Level 3: Contribute to open source
+- Level 4: Build fullstack project
+- Level 5: Apply to Norwegian tech opportunities
 
 ---
 
-Goals
+## 🎯 Goals
 
-Become a Fullstack Developer
-
-Move to Norway and work in its tech scene
-
-Contribute to open-source projects
-
-Never stop the grind
-
-
+- Become a Fullstack Developer
+- Move to Norway and work in its tech scene
+- Contribute to open-source projects
+- Never stop the grind
 
 ---
 
-Motto
+## 💭 Motto
 
-> “Comfort kills progress.”
-
-
-
+> "Comfort kills progress."
 
 ---
 
-Connect with Me
+## 📫 Connect with Me
 
 <p align="center">
   <a href="https://t.me/artplay254">
@@ -145,15 +134,17 @@ Connect with Me
     <img src="https://img.shields.io/badge/Email-4C566A?style=for-the-badge&logo=gmail&logoColor=ECEFF4"/>
   </a>
 </p>
+
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=artplay254&style=for-the-badge&color=88C0D0" alt="Profile views"/>
-</p><p align="center">
+</p>
+
+<p align="center">
   <img src="https://github.com/artplay254/artplay254/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
+
 ---
 
-<p align="center"><i>“Keep building. Keep shipping. Keep growing.”</i></p>
-`
----
+<p align="center"><i>"Keep building. Keep shipping. Keep growing."</i></p>
