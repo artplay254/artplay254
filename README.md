@@ -30,8 +30,8 @@ Coding, training, and chasing one goal — **become a fullstack dev and move to 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
 </p>
 
-**Right now:** JavaScript fundamentals · DOM manipulation · APIs  
-**Next up:** React basics · Backend with Node.js · Databases  
+**Fundamentals (Right now):** HTML structure · CSS basics · JavaScript fundamentals · Git basics · DOM introduction  
+**Next up:** Build small projects to practice fundamentals · Fetching simple APIs · Deeper DOM work · Start breaking problems into functions
 
 ---
 
