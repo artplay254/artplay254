@@ -1,7 +1,7 @@
 <!-- Artem's GitHub README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=88C0D0,81A1C1,5E81AC&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=60&fontColor=ECEFF4&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2E3440,3B4252,81A1C1,88C0D0&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=60&fontColor=ECEFF4&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <h3 align="center">💻 Aspiring Fullstack Developer | 🧊 5AM Discipline | 🇷🇺 → 🇳🇴 Dream in Progress</h3>
@@ -75,9 +75,6 @@ Learning **APIs, async functions, and responsive design.**
 <p align="center">
   <a href="https://t.me/artplay254">
     <img src="https://img.shields.io/badge/Telegram-81A1C1?style=for-the-badge&logo=telegram&logoColor=ECEFF4" alt="Telegram"/>
-  </a>
-  <a href="https://wa.me/YOUR_NUMBER_HERE">
-    <img src="https://img.shields.io/badge/WhatsApp-88C0D0?style=for-the-badge&logo=whatsapp&logoColor=2E3440" alt="WhatsApp"/>
   </a>
   <a href="https://discordapp.com/users/1418269293489033256">
     <img src="https://img.shields.io/badge/Discord-5E81AC?style=for-the-badge&logo=discord&logoColor=ECEFF4" alt="Discord"/>
