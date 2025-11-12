@@ -7,7 +7,7 @@
 <h3 align="center">💻 Aspiring Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Aspiring+Fullstack+Developer;From+Russia+to+Norway;Challenge+%3D+Growth;Keep+Shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=600&lines=Keep-Building;Keep-Learning;Keep-Pushing-Limits" />
 </p>
 
 ---
