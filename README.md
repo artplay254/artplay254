@@ -1,24 +1,24 @@
-<!-- Artem's GitHub README -->
+<!-- Artem's GitHub README — Norway Quest: Level 1/10 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2E3440,3B4252,81A1C1,88C0D0&height=200&section=header&text=Hey%20there%20%E2%9C%8B%2C%20I'm%20Artem!&fontSize=60&fontColor=ECEFF4&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2E3440,3B4252,81A1C1,88C0D0&height=220&section=header&text=Hey%20there%20I'm%20Artem!&fontSize=60&fontColor=ECEFF4&animation=fadeIn&fontAlignY=40"/>
 </p>
 
-<h3 align="center">Fullstack in Training | 5AM Discipline | From Russia to Norway</h3>
+<h3 align="center">Fullstack in Training | 5AM Cold Shower Club | Russia to Norway</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Keep+Building.;Keep+Learning.;Keep+Pushing+Limits." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=650&lines=Keep+Building.;Keep+Learning.;Keep+Pushing+Limits.;From+Lipetsk+to+Oslo." />
 </p>
 
 ---
 
 ### About Me
 
-- **Teen dev** from Lipetsk, Russia — chasing **Norway’s tech & fjords**  
-- **5AM cold showers**, parkour, and **discipline > motivation**  
-- **Building daily** — from HTML to fullstack dreams  
-- **Arch Linux** user (btw)  
-- **Dragon Ball** & **The Flash** = my power-ups  
+- Teen dev building discipline through code  
+- Living in Lipetsk, Russia — dreaming of Norway’s fjords & tech hubs  
+- 5 AM cold showers, parkour, and no excuses  
+- Love *Dragon Ball*, *The Flash*, and shipping real projects  
+- Arch Linux user — btw  
 
 ---
 
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/GitHub-4C566A?style=for-the-badge&logo=github&logoColor=ECEFF4"/>
 </p>
 
-#### Learning Now
+#### Learning & Building With
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -41,24 +41,31 @@
 
 ---
 
-### Current Project
-
+### Current Project  
 <details open>
-  <summary><strong>Weather App</strong> — My First Live JS Project</summary>
+  <summary><strong>Weather App</strong> — My First Live JavaScript Project</summary>
   <br>
-  <p align="center">
-    <img src="https://your-screenshot-or-gif.gif" width="90%" alt="Weather App Demo"/>
-  </p>
-  <p><strong>Tech:</strong> HTML • CSS • JavaScript • OpenWeather API</p>
-  <p align="center">
-    <a href="https://github.com/artplay254/weather-app"><img src="https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/artplay254/artplay254/main/assets/weather-app-demo.gif" width="100%" alt="Weather App in Action" />
+  <p><strong>Tech:</strong> HTML · CSS · JavaScript · OpenWeather API</p>
+  <p>
+    <a href="https://github.com/artplay254/weather-app"><img src="https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=ECEFF4"/></a>
     <a href="https://artplay254.github.io/weather-app"><img src="https://img.shields.io/badge/Live%20Demo-88C0D0?style=flat&logo=github-pages&logoColor=2E3440"/></a>
   </p>
 </details>
 
 ---
 
-### GitHub & WakaTime Stats
+### Skill Progress
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-95%25-success"/>
+  <img src="https://img.shields.io/badge/CSS-82%25-important"/>
+  <img src="https://img.shields.io/badge/JavaScript-68%25-yellow"/>
+  <img src="https://img.shields.io/badge/APIs-55%25-informational"/>
+</p>
+
+---
+
+### Stats Dashboard
 
 <p align="center">
   <a href="https://wakatime.com/@72b1c550-60d3-405b-ac99-8959268a85f2">
@@ -71,29 +78,35 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 </div>
 
+<!--START_SECTION:waka-->
+From: 09 November 2025 - To: 11 November 2025
+
+HTML     1 hr 8 mins     ████████████████████████▒   97.36 %
+Python   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
+<!--END_SECTION:waka-->
+
 ---
 
-### Norway Quest
-
+### Norway Quest  
 <p align="center">
-  <img src="https://img.shields.io/badge/Quest%20Level-1%2F10-88C0D0?style=for-the-badge&logo=flag&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next%20Milestone-Deploy%20App-81A1C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quest%20Level-1%2F10-88C0D0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Next%20Milestone-Deploy%20App-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Final%20Boss-Norway%20Visa-red?style=for-the-badge"/>
 </p>
 
 ---
 
 ### Goals
-
-- Become a **Fullstack Developer**  
-- **Move to Norway** and join its tech scene  
-- **Contribute to open-source**  
-- **Never stop challenging myself**
+- Become a Fullstack Developer  
+- Move to Norway and work in its tech scene  
+- Contribute to open-source  
+- Never stop the grind
 
 ---
 
 ### Motto
 
-> **“Every cold shower reminds me: comfort kills progress.”**
+> “Every cold shower reminds me that comfort kills progress.”
 
 ---
 
@@ -117,4 +130,13 @@
   <img src="https://komarev.com/ghpvc/?username=artplay254&style=for-the-badge&color=88C0D0" alt="Profile views"/>
 </p>
 
-<p align="center"><i>“Keep building. Keep growing. Keep shipping.”</i></p>
+<p align="center">
+  <img src="https://github.com/artplay254/artplay254/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+<p align="center"><i>“Keep building. Keep shipping. Keep growing.”</i></p>
+`
+
+---
