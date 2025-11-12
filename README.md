@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Building+Fullstack+Webapps;Learning+by+Shipping+Code;Russia+%E2%86%92+Norway" alt="Typing SVG"/>
 </p>
 
-## **Artem | Fullstack Developer in Progress**
+<h1 align="center">Artem | Fullstack Developer in Progress**</h1>
 <h3 align="center">14 y/o • 9th Grade • Learning by **Building** • 🇷🇺 → 🇳🇴</h3>
 
 <p align="center">
