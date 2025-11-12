@@ -1,7 +1,7 @@
 <!-- Artem's GitHub README -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=48&fontColor=0f172a&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2DD4BF&height=200&section=header&text=Hey%20there%20👋%2C%20I'm%20Artem!&fontSize=60&fontColor=0f172a&animation=fadeIn&fontAlignY=40"/>
 </p>
 
 <h3 align="center">💻 Aspiring Fullstack Developer | 🏋️‍♂️ Challenge Seeker | 🇷🇺 From Lipetsk, Russia</h3>
@@ -57,10 +57,6 @@
 ---
 
 ### 📊 WakaTime Stats
-
-<p align="center">
-  <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" alt="WakaTime" />
-</p>
 
 <!--START_SECTION:waka-->
 
