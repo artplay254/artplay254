@@ -31,8 +31,6 @@
 ![Git](https://img.shields.io/badge/Git-5E81AC?style=for-the-badge&logo=git&logoColor=ECEFF4)
 ![GitHub](https://img.shields.io/badge/GitHub-4C566A?style=for-the-badge&logo=github&logoColor=ECEFF4)
 
-<br/>
-
 #### 🚀 Learning Now
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +44,13 @@ Learning **APIs, async functions, and responsive design.**
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub & WakaTime Stats
+
+<p align="center">
+  <a href="https://wakatime.com/@72b1c550-60d3-405b-ac99-8959268a85f2">
+    <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge&color=81A1C1" alt="WakaTime"/>
+  </a>
+</p>
 
 <p align="center">
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=artplay254&theme=tokyonight&hide_border=true&border_radius=10"/>
