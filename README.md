@@ -7,7 +7,7 @@
 <h3 align="center">14 y/o • 9th Grade • Learning by **Building** • 🇷🇺 → 🇳🇴</h3>
 
 <p align="center">
-  **One clear goal: Become a Fullstack Developer in Norway.**
+  **One clear goal: Become a Fullstack Developer and move to Norway.**
 </p>
 
 ---
