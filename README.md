@@ -1,6 +1,6 @@
 <!-- Artem's GitHub Profile — Norway Quest: Level 1/10 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=700&lines=Building+Discipline+Through+Code;From+Lipetsk+to+Norway;Keep+Pushing+Limits+🚀" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=720&lines=Building+Discipline+Through+Code;From+Lipetsk+to+Norway;Keep+Pushing+Limits+🚀" alt="Header animation"/>
 </p>
 
 <h3 align="center">
@@ -88,7 +88,11 @@ My first **live, deployed JavaScript app** using a real API.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=artplay254&theme=tokyonight&hide_border=true&border_radius=12&date_format=M+j%2C+Y" alt="GitHub Streak"/>
+  <!-- Streak -->
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=tokyonight&hide_border=true&border_radius=12&date_format=M+j%2C+Y" alt="GitHub Streak"/>
+  
+  <!-- General Stats -->
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </p>
 
 ---
