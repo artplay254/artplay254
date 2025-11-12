@@ -1,26 +1,39 @@
-<!-- Artem's GitHub Profile — Norway Quest: Level 1/10 -->
+<!-- ❄️ Artem's GitHub Profile — Norway Quest: Level 1/10 -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Building+Fullstack+Webapps;Learning+by+Shipping+Code;Russia+%E2%86%92+Norway" alt="Typing SVG"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E3440&height=230&section=header&text=Hey%20there,%20I'm%20Artem!%20👋&fontSize=55&fontColor=88C0D0&animation=fadeIn&fontAlignY=40&desc=Building%20my%20future,%20one%20commit%20at%20a%20time.&descAlignY=60&descAlign=60" alt="Header Banner"/>
 </p>
 
-<h1 align="center">Artem | Fullstack Developer in Progress</h1>
-<h3 align="center">14 y/o • 9th Grade • Learning by Building • 🇷🇺 → 🇳🇴</h3>
-<p align="center"><strong>One clear goal: Become a Fullstack Developer and move to Norway.</strong></p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Learning+by+Shipping+Code;14+y%2Fo+Developer+in+Progress;Arch+Linux+User+%7C+Discipline+Driven;Russia+%E2%9E%A1%EF%B8%8F+Norway+Quest+%E2%9D%A4%EF%B8%8F+Level+1%2F10" alt="Typing SVG" />
+</p>
 
 ---
 
-### 👋 About Me
+## ⚡ About Me
 
-14-year-old **self-taught developer** from **Lipetsk, Russia** — coding, training, and grinding toward **Norway**.
-
-* 🧠 **Mindset:** Learning by **shipping code** — zero tutorials, just real-world projects.
-* 💻 **Stack:** Arch Linux + VS Code + Git = My current dev environment.
-* ⏳ **Discipline:** 5 AM cold showers + daily routines for focus.
-* 🏃 **Clarity:** Parkour & workouts for mental performance.
-* ⚡ **Inspired By:** Dragon Ball, The Flash, and **relentless progress**.
+<p align="center">
+  I'm <b>Artem</b> — a 14-year-old self-taught developer from <b>Lipetsk, Russia</b> 🇷🇺,  
+  focused on becoming a <b>Fullstack Developer</b> and moving to <b>Norway</b> 🇳🇴.  
+  <br><br>
+  My routine: <b>5 AM cold showers</b>, <b>parkour</b>, and <b>coding sessions</b> —  
+  discipline before motivation, consistency before comfort.  
+  <br><br>
+  <i>Learning by building, not just watching tutorials.</i>
+</p>
 
 ---
-### 🛠️ Tech I'm Learning
+
+## 🧠 Mindset
+
+- 🧩 **Learning by shipping** — real projects > theory  
+- 🧊 **Cold discipline** — 5 AM showers build mental armor  
+- 🏃 **Training = focus** — parkour keeps body + brain synced  
+- ⚡ **Inspired by** — *Dragon Ball*, *The Flash*, and creators like **Stan Browney**, **Magnus Midtbø**, **Sergio Nee**  
+
+---
+
+## 🛠️ Tech I'm Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -32,66 +45,72 @@
 
 #### 🎯 **Current Focus**
 - HTML structure & semantics  
-- CSS layout (Flexbox, Grid)  
-- JavaScript fundamentals (variables, functions, loops)  
-- Git & GitHub workflow  
-- DOM manipulation basics  
+- CSS layout (Flexbox & Grid)  
+- JavaScript fundamentals (variables, loops, functions)  
+- DOM manipulation & events  
+- Git / GitHub workflow  
 
 #### ⏳ **Next Steps**
 - Build 3+ small JS projects  
-- Fetch & display real APIs  
-- Modular code with functions  
-- Responsive design mastery  
+- Work with APIs (using `fetch`)  
+- Practice responsive design  
+- Learn component basics (React)  
 
 ---
 
-### 🌤️ **First Real Project — Weather App**
+## 🌤️ First Real Project — Weather App
 
-> **Value:** A live, deployed JavaScript app demonstrating API integration and responsive design.
+> A live, deployed JavaScript app showcasing API integration + responsive design.
 
 **Stack:** `HTML` • `CSS` • `JavaScript` • `OpenWeather API`  
-**Learned:** API calls, error handling, responsive UI, deployment
+**Learned:** API calls, error handling, responsive UI, deployment  
 
 🔗 [**View Code**](https://github.com/artplay254/weather-app) • [**Live Demo**](https://artplay254.github.io/weather-app)
 
 ---
 
-### 🗺️ **Norway Quest** — *Level 1 / 10*
+## 🏔️ Norway Quest — Level 1 / 10
 
-**Goal:** Fullstack Developer in Norway 🇳🇴
-*Timeline: 4–6 years. No shortcuts. No comfort.*
+**Goal:** Become a Fullstack Developer and move to 🇳🇴 Norway  
+*Timeline: 4–6 years · No shortcuts · No comfort zone*
 
 | Milestone | Status |
-| :--- | :--- |
-| Build & deploy first project | ✅ **Completed!** |
+|:--|:--|
+| Build & deploy first project | ✅ Completed |
 | Finish 3 more JavaScript projects | ⏳ In Progress |
 | Make first open-source contribution | ⏳ Planned |
-| Build fullstack app (frontend + backend) | ⏳ Planned |
+| Build fullstack app (front + back) | ⏳ Planned |
 | Learn Norwegian (currently A1) | ⏳ In Progress |
 | Finish school strong | ⏳ In Progress |
 | Build personal portfolio | ⏳ Planned |
-| Apply to Norwegian unis / remote jobs | ⏳ Planned |
-| Land first dev job | ⏳ Planned |
+| Apply to Norwegian unis / remote roles | ⏳ Planned |
+| Land first developer job | ⏳ Planned |
 | **Move to Norway** 🏔️ | ⏳ Ultimate Goal |
 
----
-
-### 💼 Why I Build in Public
-
-* **Accountability** — Daily commits guarantee daily progress.
-* **Faster Growth** — Projects and real challenges beat theory.
-* **Proof of Work** — This GitHub profile is my future resume.
-* **Community** — Connecting with other passionate developers.
-
----
-### 📊 GitHub Stats
-
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=artplay254&theme=tokyonight&hide_border=true&border_radius=10"/>
+  <img src="https://progress-bar.dev/10/?title=Level%201&color=88C0D0&backColor=2E3440" alt="Norway Quest Progress" width="500"/>
 </p>
 
 ---
-### 📫 Let's Connect
+
+## 💼 Why I Build in Public
+
+- **Accountability** — daily commits = daily growth  
+- **Real learning** — projects beat tutorials  
+- **Proof of work** — this profile = future resume  
+- **Community** — connect with builders who grind too  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=artplay254&theme=nord&hide_border=true&border_radius=10"/>
+</p>
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://t.me/artplay254">
@@ -110,10 +129,15 @@
 </p>
 
 ---
+
 <p align="center">
   <i><strong>"Every cold shower reminds me: comfort kills progress."</strong></i>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/artplay254?label=Follow&style=social" alt="GitHub Followers"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=2E3440&height=160&section=footer&fontColor=88C0D0&text=Stay%20Minimal%20%E2%9D%A4%EF%B8%8F&fontSize=20" alt="Footer"/>
 </p>
