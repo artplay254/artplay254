@@ -1,25 +1,24 @@
-<!-- Artem's GitHub Profile — Norway Quest: Level 2/10 -->
+<!-- Artem's GitHub Profile — Norway Quest: Level 1/10 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:5E81AC&height=200&section=header&text=Artem's%20Code%20Dojo&fontSize=60&animation=fadeIn&fontColor=2E3440"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=88C0D0&center=true&vCenter=true&lines=14+y%2Fo+self-taught+fullstack+learner;Russia+%E2%86%92+Norway+%F0%9F%87%B3%F0%9F%87%B4;5AM+cold+showers+%F0%9F%A5%B6;Parkour+%E2B+Code+%E2%86%92+Daily;Discipline+%3E+Motivation;Level+Up+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=88C0D0&center=true&vCenter=true&width=700&lines=14+y%2Fo+self-taught+fullstack+learner;Russia+%E2%86%92+Norway+%F0%9F%87%B3%F0%9F%87%B4;5AM+cold+showers+%F0%9F%A5%B6;Parkour+%E2%86%92+Code;Discipline+%3E+Motivation;Level+Up+Every+Day" />
 </p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A"/>
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/5AM_Cold_Shower_Club-00C2FF?style=for-the-badge&logo=droplet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Norway_Quest_Lv2_%E2%86%92_Lv10-88C0D0?style=for-the-badge&logo=flag&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Goku_Grind-FF6B35?style=for-the-badge&logo=dragonball&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Norway_Quest_Lv1_%E2%86%92_Lv10-88C0D0?style=for-the-badge&logo=flag&logoColor=white"/>
 </div>
 
 ---
-### 👋 Hi, I’m Artem — 14 y/o self-taught developer
+### Hi, I’m Artem — 14 y/o self-taught developer
 
-**Russia → Norway** in ~2029. Building real projects every day, no excuses, no shortcuts.
+**Russia → Norway** in ~2029–2031. Learning by building real projects every single day.
 
 ```typescript
 const artem = {
@@ -28,107 +27,130 @@ const artem = {
   born: "December 7, 2010",
   location: "Lipetsk, Russia",
   destination: "Norway 🇳🇴",
-  mission: "Junior Fullstack → Fullstack Engineer in Norway",
+  mission: "Fullstack Frontend Developer → Job in Norway",
   philosophy: "Discipline > Motivation • Comfort kills progress",
-  routine: "5:00 AM cold shower → workout → code → parkour → study → plan tomorrow",
-  stack: ["HTML", "CSS", "JavaScript", "React", "Node.js", "Git"],
-  learning: ["TypeScript", "Tailwind", "PostgreSQL", "Express", "Norwegian A1→B2"],
-  vibe: "Goku grind + Flash speed + Nordic minimalism
+  routine: "5:00 AM cold shower → workout → code → parkour → study → plan",
+  lifestyle: ["Parkour", "Calisthenics", "Cold Showers", "Daily Challenges"],
+  inspiration: ["Stan Browney", "Magnus Midtbø", "Goku", "The Flash"]
 };
 ```
 
-> “Push yourself until your idols become your rivals.”
+> _“Push yourself until your idols become your rivals.”_
 
 ---
-### 🛠️ Current Stack & Next Up
+### Current Stack & Learning Path
 <div align="center">
 
-**Daily drivers**  
+**Daily Drivers**  
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>  
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+<br><br>
+
+**Currently Learning**  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>  
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333"/>  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A"/>  
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
 
-**Learning right now** → TypeScript • Tailwind CSS • Express • PostgreSQL • Testing
+<br><br>
+
+**Next in Line**  
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+
 </div>
 
 ---
-### 🌤️ Latest Project — Weather App
-My first fully deployed app with API integration, responsive design, error handling & clean code.
+### Latest Project — Weather App
+My **first deployed app**: API calls, responsive design, error handling, clean code.
 
 **Stack:** HTML • CSS • JavaScript • OpenWeather API  
 🔗 [View Code](https://github.com/artplay254/weather-app) • [Live Demo](https://artplay254.github.io/weather-app/)
 
-*(More projects in the repositories above ↑ or in the Projects tab)*
+*(More projects in the repos above ↑)*
 
 ---
-### 🗺️ Norway Quest • Level 2/10
+### Norway Quest • Level 1/10
 <div align="center">
 ```
-[█████████░░░░░░░░░░░] 45% (Nov 2025)
+[███░░░░░░░░░░░░░░░░░] 15% Complete (Nov 2025)
 ```
-**Ultimate goal:** Fullstack Developer living in Norway 🇳🇴 | Target: 2029
+**Goal:** Fullstack Developer in Norway 🇳🇴  
+**Timeline:** 5–7 years (2024 → 2029–2031)
 </div>
 
-| Level | Milestone                          | Status | Target    |
-|-------|------------------------------------|--------|-----------|
-| 1     | First deployed project             | ✅     | Done      |
-| 2     | 6+ solid JS/React projects         | ✅     | 2025      |
-| 3     | Fullstack app with auth + DB)       | ⏳     | Q4 2025   |
-| 4     | First open-source contribution     | ⏳     | 2026      |
-| 5     | Norwegian A1 → B2                  | ⏳     | 2026      |
-| 6–10  | Portfolio → Job → Move to Norway   | 📝     | 2027–2029 |
+| Level | Milestone                            | Status | Target     |
+|-------|--------------------------------------|--------|------------|
+| 1     | First deployed project               | ✅     | 2024       |
+| 2     | 3+ solid JavaScript projects         | ⏳     | Q1 2025    |
+| 3     | Learn React & build full app         | ⏳     | Q2–Q3 2025 |
+| 4     | First open-source contribution       | 📝     | 2026       |
+| 5     | Norwegian A1 → B2                    | ⏳     | 2026–2027  |
+| 6     | Build personal portfolio site        | 📝     | 2027       |
+| 7     | Finish school (9th → 11th grade)     | ⏳     | 2027       |
+| 8     | Enter university / remote job        | 📝     | 2028–2029  |
+| 9     | Land first dev job                   | 📝     | 2029–2030  |
+| 10    | **Move to Norway** 🏔️                | 🎯     | 2030–2031  |
 
 <details>
-<summary><b>📅 Full Timeline & Detailed Quest</b></summary>
+<summary><b>Full Timeline & Roadmap</b></summary>
 
-#### 0–12 Months (2024 → end 2025)
-- ✅ First deployed project (Weather App)
-- ✅ 6+ portfolio projects
-- Master JS + React fundamentals
-- Start TypeScript & backend
+#### 0–12 Months (Now → End 2025)
+- Ship first project (Weather App) ✅
+- Build 3–5 small JS projects
+- Master HTML/CSS/JS fundamentals
+- Start React + basic APIs
 
-#### 12–24 Months (2026)
-- Build & deploy fullstack apps
+#### 12–36 Months (2026–2027)
+- Build fullstack apps (Node.js + DB)
 - Contribute to open-source
-- Norwegian A1 → B1
-- Professional portfolio site
-
-#### 24+ Months (2027+)
+- Norwegian: A1 → B1
 - Finish school strong
-- Apply to Norwegian universities / remote jobs
-- Norwegian B1 → B2
-- Land first dev job → Move to Norway 🏔️
+
+#### 36+ Months (2028–2031)
+- University or self-taught pro track
+- Build professional portfolio
+- Apply to Norwegian remote jobs
+- Norwegian: B1 → B2
+- Secure junior role → Move to Norway
+
 </details>
 
 <details>
-<summary><b>🧠 How I Learn • Philosophy • Inspiration • Experiments</b></summary>
+<summary><b>How I Learn • Philosophy • Inspiration</b></summary>
 
-**Learning method:** Learn smart → Build often → Fail fast → Improve daily  
-Main sources: FreeCodeCamp • Official docs • YouTube (Traversy, Web Dev Simplified) • Building real projects
+**Learning Method:**  
+Read docs → Watch pros → **Build immediately** → Deploy → Improve
 
-**Philosophy**  
-- Discipline > Motivation  
-- Comfort kills progress  
-- 1% better every day compounds  
-- Growth lives outside the comfort zone
+**Core Tools:** FreeCodeCamp, YouTube (Traversy, Web Dev Simplified), MDN, GitHub Issues
 
-**Inspired by**  
-- Stan Browney – daily showing up  
-- Magnus Midtbø – controlled fear = growth  
-- Sergio Nee – courage + discipline  
-- Goku – break your limits  
-- Barry Allen – speed with direction
+**Philosophy:**  
+- Discipline compounds  
+- Discomfort = growth zone  
+- Fail fast, ship often  
+- Theory without practice = noise
 
-**Experiment Zone**  
-3D (Blender), video editing (DaVinci), hardware (Arduino), Python/Rust scripting, Linux rice, UI/UX — anything that expands the mind.
+**Inspired By:**  
+- **Stan Browney** – consistency over talent  
+- **Magnus Midtbø** – controlled risk = mastery  
+- **Goku** – limits are illusions  
+- **The Flash** – speed with purpose
+
+**Experiment Zone:**  
+Blender • Arduino • Python • Linux ricing • Video editing • UI/UX
 
 </details>
 
 ---
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9&count_private=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" />
@@ -138,7 +160,7 @@ Main sources: FreeCodeCamp • Official docs • YouTube (Traversy, Web Dev Simp
 </div>
 
 ---
-### 🌐 Let’s Connect
+### Let’s Connect
 <div align="center">
   <a href="https://t.me/artplay254"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://discordapp.com/users/1418269293489033256"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
@@ -146,7 +168,7 @@ Main sources: FreeCodeCamp • Official docs • YouTube (Traversy, Web Dev Simp
 </div>
 
 <div align="center">
-Open to collaboration • code reviews • project ideas • Norwegian practice • 5 AM accountability buddies 😄
+Open to: collaboration • code reviews • project ideas • Norwegian practice • 5 AM accountability 😄
 </div>
 
 <div align="center">
@@ -155,5 +177,5 @@ Open to collaboration • code reviews • project ideas • Norwegian practice 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=120&section=footer"/>
-  <p><strong>⚡ Code with the speed of The Flash, train with the spirit of Goku ⚡</strong></p>
+  <p><strong>Code with the speed of The Flash, train with the spirit of Goku</strong></p>
 </div>
