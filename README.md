@@ -33,7 +33,7 @@ const artem = {
   
   philosophy: {
     core: "Discipline > Motivation",
-    method: "Learning by SHIPPING code, not watching tutorials",
+    method: "Learning by building projects, not just watching tutorials",
     motto: "Every cold shower reminds me: comfort kills progress"
   },
   
@@ -57,7 +57,7 @@ const artem = {
 };
 ```
 
-**14-year-old developer** from Russia, on a mission to **Norway**. I read, watch, and learn, but I grow by building projects, shipping code, and learning from every mistake. My GitHub is my resume. Discipline is my superpower.
+**14-year-old developer** from Russia, on a mission to **Norway**. I learn through tutorials, books, and real projects — but I grow the most by building, shipping code, and learning from every mistake. My GitHub is my resume. Discipline is my superpower.
 
 > *"Push yourself until your idols become your rivals."*
 
