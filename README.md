@@ -10,10 +10,10 @@
 
 <div align="center">
 
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
-[![Dragon Ball](https://img.shields.io/badge/Dragon_Ball-FF6B35?style=for-the-badge)](#)
-[![The Flash](https://img.shields.io/badge/The_Flash-DC143C?style=for-the-badge)](#)
-[![Cold Shower](https://img.shields.io/badge/5AM_Cold_Showers-4DD0E1?style=for-the-badge)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
+[![Dragon Ball](https://img.shields.io/badge/Dragon_Ball-Fan-FF6B35?style=for-the-badge&logo=dragonball&logoColor=white)](#)
+[![The Flash](https://img.shields.io/badge/The_Flash-Speedster-DC143C?style=for-the-badge&logo=lightning&logoColor=white)](#)
+[![Cold Shower](https://img.shields.io/badge/5AM-Cold_Showers-4DD0E1?style=for-the-badge&logo=water&logoColor=white)](#)
 
 </div>
 
