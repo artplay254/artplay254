@@ -138,7 +138,13 @@ Blender • Arduino • Python • Linux ricing • Video editing • UI/UX
 <summary><b>📊 WakaTime Statistics</b></summary>
 
 <!--START_SECTION:waka-->
-<!-- This section will be automatically updated every day by the GitHub Action -->
+
+```txt
+HTML       1 hr 8 mins     ██████████████▒░░░░░░░░░░   57.52 %
+Markdown   48 mins         ██████████▒░░░░░░░░░░░░░░   40.92 %
+Python     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+```
+
 <!--END_SECTION:waka-->
 
 </details>
