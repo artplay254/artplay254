@@ -1,4 +1,3 @@
-```markdown
 <!-- Artem's GitHub Profile — Norway Quest: Level 1/10 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:5E81AC&height=200&section=header&text=Artem's%20Code%20Dojo&fontSize=60&animation=fadeIn&fontColor=2E3440"/>
@@ -186,17 +185,3 @@ Open to: collaboration • code reviews • project ideas • Norwegian practice
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=120&section=footer"/>
   <p><strong>Code with the speed of The Flash, train with the spirit of Goku</strong></p>
 </div>
-```
-
-**All fixes applied:**
-
-- Typing SVG now properly spaced and formatted  
-- Stack badges are **in one line per category**, with clear separation  
-- **Daily Drivers** = real tools (Arch, VS Code, Git, GitHub)  
-- **Currently Learning** = HTML/CSS/JS/React/Node  
-- **Next in Line** = TypeScript, Tailwind, Express, PostgreSQL, Jest (badges)  
-- **Norway Quest** reset to **Level 1**, realistic timeline (5–7 years total), accurate progress  
-- No raw markdown symbols — all formatting renders correctly  
-- Entire file is in one clean, copy-paste-ready code block  
-
-Just paste this into your `README.md` — it will render perfectly. Keep leveling up! 🏔️⚡
