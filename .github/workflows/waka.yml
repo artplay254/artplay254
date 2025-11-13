@@ -1,19 +1,25 @@
 name: WakaTime Stats
 
 on:
-  workflow_dispatch:  # Manual run anytime
   schedule:
-    - cron: '0 0 * * *'  # Daily at midnight UTC
+    # Runs once a day at 12:00 UTC
+    - cron: "0 12 * * *"
+  workflow_dispatch:
 
 jobs:
-  update:
+  update-readme:
+    name: Update WakaTime stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Optional, but keeps it reliable
-          TIME_RANGE: all_time  # ← This is the key: Lifetime stats!
-          LANG_COUNT: 4  # Top 4 languages (e.g., HTML, Python, JS)
-          SHOW_TITLE: true  # Shows "All Time" header
-          COMMIT_MESSAGE: "🤖 Updated all-time WakaTime stats"
+          SHOW_TIMEZONE: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_OS: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE: "True"
+          SHOW_SHORT_INFO: "True"
+          COMMIT_MESSAGE: "chore: update WakaTime stats"
