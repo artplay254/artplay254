@@ -33,7 +33,7 @@ const artem = {
   
   philosophy: {
     core: "Discipline > Motivation",
-    method: "Learning by SHIPPING code, not watching tutorials",
+    method: "Learning by building — theory guides, practice teaches",
     motto: "Every cold shower reminds me: comfort kills progress"
   },
   
@@ -57,7 +57,7 @@ const artem = {
 };
 ```
 
-**14-year-old self-taught developer** from Russia, grinding toward **Norway**. I don't watch tutorials — I build real projects, ship code, and learn from mistakes. My GitHub is my resume. My discipline is my superpower.
+**14-year-old self-taught developer** from Russia, working toward **Norway**. I learn through a balanced approach: reading documentation, watching quality content, but most importantly — **building real projects**. Theory becomes knowledge only when applied. My GitHub is my portfolio. Discipline is my foundation.
 
 > *"Push yourself until your idols become your rivals."*
 
@@ -197,11 +197,11 @@ current_sprint = {
 
 ## 💼 Why I Build in Public
 
-- **Accountability** — Daily commits = daily progress
-- **Faster Growth** — Real projects beat theory every time
-- **Proof of Work** — This GitHub profile IS my future resume
-- **Community** — Learning from and with other passionate developers
-- **Transparency** — No fake portfolio, no bought certificates, just real code
+- **Accountability** — Consistent commits demonstrate steady progress
+- **Accelerated Growth** — Real-world projects build practical skills faster
+- **Proof of Work** — This GitHub profile serves as my living portfolio
+- **Community** — Learning alongside other passionate developers
+- **Transparency** — Authentic work, genuine progress, real code
 
 ---
 
@@ -216,11 +216,11 @@ current_sprint = {
 </div>
 
 **What drives me:**
-- 🌅 **Start before the world wakes up** — 5 AM cold showers build mental toughness
-- 🧊 **Embrace discomfort** — Cold water, hard problems, new challenges
-- 📈 **1% better every single day** — Small wins compound into mastery
-- 🎯 **Vision → Goals → Daily action** — Dreams without action are just wishes
-- 🚫 **Zero tutorial hell** — Build real projects, make real mistakes, get real results
+- 🌅 **Start before the world wakes up** — 5 AM cold showers build mental resilience
+- 🧊 **Embrace discomfort** — Growth lives outside the comfort zone
+- 📈 **1% better every single day** — Consistency compounds into mastery
+- 🎯 **Vision → Goals → Daily action** — Strategic planning meets execution
+- 🚀 **Build, break, learn, repeat** — Real projects accelerate understanding
 
 **Inspired by:**
 
