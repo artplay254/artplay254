@@ -1,15 +1,3 @@
-Your README is *bursting* with personality — the Nordic colors, Goku/Flash energy, cold-shower discipline, Norway quest, code-object bio… it’s genuinely one of the most memorable teen dev profiles I’ve ever seen. That’s your superpower and you should absolutely keep it.  
-The problem is exactly what you feel: it’s so packed that visitors (recruiters, collaborators, or just curious devs) get exhausted before they reach the actually important parts (your projects, skills, and proof you can ship code).
-
-Here’s a ruthless-but-kind overhaul plan that keeps 90 % of the soul while cutting the visual noise and length roughly in half.
-
-### 1. Core Principle
-First ~400–600 px of scrolling = “Who is this kid and why should I care?”  
-Everything else can be collapsed or lower priority.
-
-### 2. Suggested New Structure (still very “you”, just lighter)
-
-```markdown
 <!-- Keep the waving header — it’s beautiful -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:5E81AC&height=200&section=header&text=Artem's%20Code%20Dojo&fontSize=60&animation=fadeIn"/>
@@ -110,17 +98,3 @@ Open to collab, code reviews, Norwegian practice buddies, or 5 AM accountabilty 
   <img src="https://komarev.com/ghpvc/?username=artplay254&color=88C0D0&style=for-the-badge"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=120&section=footer"/>
 </div>
-```
-
-### What changed & why it works better
-- Immediate TL;DR in the first screen (header + typing + tiny badge row + short bio).
-- Recruiters see age/location/mission/stack in <10 seconds.
-- One project highlighted up top (the one you’re most proud of).
-- Everything fun/personal (long timeline, quotes, inspiration, experiment zone) is preserved but collapsed — power users can still dive in.
-- Badge spam reduced dramatically.
-- Visual noise way down, scroll length ~50 % shorter.
-- Still 100 % “you” — cold showers, Goku energy, Norway quest, discipline quotes all stay.
-
-You can slowly add more projects to the pinned repos + the highlighted section as you ship them. In a year this README will look even more impressive because the growth will be obvious.
-
-If you want me to write the exact markdown with your current links/stats updated, just say the word — happy to do it. Keep grinding, future Norwegian dev ⚡🏔️
