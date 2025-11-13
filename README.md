@@ -9,11 +9,11 @@
 </p>
 
 <div align="center">
-  
-[![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
-[![Dragon Ball](https://img.shields.io/badge/Dragon_Ball-Fan-FF6B35?style=for-the-badge&logo=dragonball&logoColor=white)](#)
-[![The Flash](https://img.shields.io/badge/The_Flash-Speedster-DC143C?style=for-the-badge&logo=lightning&logoColor=white)](#)
-[![Cold Shower](https://img.shields.io/badge/5AM-Cold_Showers-4DD0E1?style=for-the-badge&logo=water&logoColor=white)](#)
+
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
+[![Dragon Ball](https://img.shields.io/badge/Dragon_Ball-FF6B35?style=for-the-badge)](#)
+[![The Flash](https://img.shields.io/badge/The_Flash-DC143C?style=for-the-badge)](#)
+[![Cold Shower](https://img.shields.io/badge/5AM_Cold_Showers-4DD0E1?style=for-the-badge)](#)
 
 </div>
 
@@ -69,12 +69,24 @@ const artem = {
 
 ### Currently Using
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,linux,vscode&perline=9" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
 ### Learning Next
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,tailwind,express,postgres,figma&perline=5" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 </div>
@@ -224,13 +236,13 @@ current_sprint = {
 
 **Inspired by:**
 
-| Person | Lesson |
-|--------|--------|
-| 🏋️ **Stan Browney** | Impossible is nothing with consistency |
-| 🧗 **Magnus Midtbø** | Push limits, master your craft |
-| 💻 **Sergio Nee** | Clean code, elegant solutions |
-| 🐉 **Goku (Dragon Ball)** | Never stop getting stronger |
-| ⚡ **The Flash** | Speed matters, but direction matters more |
+| Person                    | Lesson                                                                                                    |
+| ------------------------- | --------------------------------------------------------------------------------------------------------- |
+| 🏋️ **Stan Browney**      | Strength doesn't come from talent — it comes from showing up every day, no matter how small the progress. |
+| 🧗 **Magnus Midtbø**      | Growth happens where fear meets focus — every new hold is a chance to level up.                           |
+| 💻 **Sergio Nee**         | Progress isn't about time — it's about courage to start, discipline to continue, and honesty to finish.   |
+| 🐉 **Goku (Dragon Ball)** | Every battle is a chance to evolve — limits exist only until you break them.                              |
+| ⚡ **The Flash**           | Speed means nothing without direction — the right path beats the fastest one.                             |
 
 ---
 
@@ -251,9 +263,9 @@ current_sprint = {
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artplay254)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1418269293489033256)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artplay254@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artplay254)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1418269293489033256)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artplay254@gmail.com)
 
 </div>
 
