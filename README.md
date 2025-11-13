@@ -31,7 +31,7 @@ const artem = {
   philosophy: "Discipline > Motivation • Comfort kills progress",
   routine: "5:00 AM cold shower → workout → code → parkour → study → plan",
   lifestyle: ["Parkour", "Calisthenics", "Cold Showers", "Daily Challenges"],
-  inspiration: ["Stan Browney", "Magnus Midtbø", "Goku", "The Flash"]
+  inspiration: ["Stan Browney", "Magnus Midtbø", "Sergio Nee", "Goku", "The Flash"]
 };
 ```
 
@@ -113,9 +113,9 @@ My **first deployed app**: API calls, responsive design, error handling, clean c
 <summary><b>How I Learn • Philosophy • Inspiration</b></summary>
 
 **Learning Method:**  
-Read docs → Watch pros → **Build immediately** → Deploy → Improve
+Read docs → Watch pros → **Build** → Deploy → Improve
 
-**Core Tools:** FreeCodeCamp, YouTube (Traversy, Web Dev Simplified), MDN, GitHub Issues
+**Core Tools:** FreeCodeCamp, YouTube, MDN, GitHub Issues
 
 **Philosophy:**  
 - Discipline compounds  
@@ -125,7 +125,8 @@ Read docs → Watch pros → **Build immediately** → Deploy → Improve
 
 **Inspired By:**  
 - **Stan Browney** – consistency over talent  
-- **Magnus Midtbø** – controlled risk = mastery  
+- **Magnus Midtbø** – controlled risk = mastery
+- **Sergio Nee** – learn by doing, fail forward 
 - **Goku** – limits are illusions  
 - **The Flash** – speed with purpose
 
