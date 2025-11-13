@@ -2,24 +2,27 @@ name: WakaTime Stats
 
 on:
   schedule:
-    # Runs once a day at 12:00 UTC
-    - cron: "0 12 * * *"
+    - cron: "0 12 * * *"  # every day at 12:00 UTC
   workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update WakaTime stats
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: "True"
           SHOW_TIMEZONE: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_OS: "True"
           SHOW_EDITORS: "True"
-          SHOW_LANGUAGE_PER_REPO: "False"
-          SHOW_LOC_CHART: "False"
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_TIME_OF_DAY: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
           SHOW_PROFILE: "True"
           SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "False"
           COMMIT_MESSAGE: "chore: update WakaTime stats"
