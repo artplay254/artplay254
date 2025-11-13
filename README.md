@@ -33,7 +33,7 @@ const artem = {
   
   philosophy: {
     core: "Discipline > Motivation",
-    method: "Learning by building projects, not just watching tutorials",
+    method: "Learning by SHIPPING code, not watching tutorials",
     motto: "Every cold shower reminds me: comfort kills progress"
   },
   
@@ -57,7 +57,7 @@ const artem = {
 };
 ```
 
-**14-year-old developer** from Russia, on a mission to **Norway**. I learn through tutorials, books, and real projects — but I grow the most by building, shipping code, and learning from every mistake. My GitHub is my resume. Discipline is my superpower.
+**14-year-old self-taught developer** from Russia, grinding toward **Norway**. I don't watch tutorials — I build real projects, ship code, and learn from mistakes. My GitHub is my resume. My discipline is my superpower.
 
 > *"Push yourself until your idols become your rivals."*
 
@@ -148,7 +148,7 @@ current_sprint = {
 <div align="center">
 
 ```
-[░░░░░░░░░░░░░░░░░░░░] 0% Complete
+[████░░░░░░░░░░░░░░░░] 20% Complete
 ```
 
 **Goal:** Fullstack Developer in Norway 🇳🇴  
@@ -158,7 +158,7 @@ current_sprint = {
 
 | Level | Milestone | Status | Target |
 |:-----:|:----------|:------:|:-------|
-| **1** | Build & deploy first project | ⏳ | **Almost done** |
+| **1** | Build & deploy first project | ✅ | **DONE** |
 | **2** | Complete 3+ JavaScript projects | ⏳ | Q1 2025 |
 | **3** | Learn React & build fullstack app | ⏳ | Q2 2025 |
 | **4** | Make first open-source contribution | 📝 | Q3 2025 |
@@ -224,14 +224,13 @@ current_sprint = {
 
 **Inspired by:**
 
-| Person                    | Lesson                                                                                                    |
-| ------------------------- | --------------------------------------------------------------------------------------------------------- |
-| 🏋️ **Stan Browney**      | Strength doesn’t come from talent — it comes from showing up every day, no matter how small the progress. |
-| 🧗 **Magnus Midtbø**      | Growth happens where fear meets focus — every new hold is a chance to level up.                           |
-| 💻 **Sergio Nee**         | Progress isn’t about time — it’s about courage to start, discipline to continue, and honesty to finish.   |
-| 🐉 **Goku (Dragon Ball)** | Every battle is a chance to evolve — limits exist only until you break them.                              |
-| ⚡ **The Flash**           | Speed means nothing without direction — the right path beats the fastest one.                             |
-
+| Person | Lesson |
+|--------|--------|
+| 🏋️ **Stan Browney** | Impossible is nothing with consistency |
+| 🧗 **Magnus Midtbø** | Push limits, master your craft |
+| 💻 **Sergio Nee** | Clean code, elegant solutions |
+| 🐉 **Goku (Dragon Ball)** | Never stop getting stronger |
+| ⚡ **The Flash** | Speed matters, but direction matters more |
 
 ---
 
