@@ -135,16 +135,13 @@ Blender • Arduino • Python • Linux ricing • Video editing • UI/UX
 </details>
 
 <details>
-<summary><b>WakaTime Statistics</b></summary>
+<summary><b>📊 WakaTime Statistics</b></summary>
 
-<div align="center">
-  <a href="https://wakatime.com/@<YOUR_WAKATIME_ID>">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&layout=compact"/>
-  </a>
-</div>
+<!--START_SECTION:waka-->
+<!-- This section will be automatically updated every day by the GitHub Action -->
+<!--END_SECTION:waka-->
 
 </details>
-
 
 ---
 ### GitHub Stats
