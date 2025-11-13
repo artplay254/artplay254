@@ -207,6 +207,44 @@ current_sprint = {
 
 ---
 
+## 🧠 How I Learn
+
+> *"Learn smart. Build often. Fail fast. Improve daily."*
+
+I combine different methods to master coding and creativity — always prioritizing **real projects** over passive learning.
+
+| Method               | Description                                                                            |
+| -------------------- | -------------------------------------------------------------------------------------- |
+| 🧭 **FreeCodeCamp**  | Hands-on challenges that solidify the fundamentals                                     |
+| 🎥 **YouTube**       | Learning from developers who build in public (e.g. Traversy Media, Web Dev Simplified) |
+| 📚 **Documentation** | Reading the official docs — the most underrated superpower                             |
+| 💬 **Communities**   | Browsing Stack Overflow, GitHub Issues, and Reddit to learn from real-world problems   |
+| ⚙️ **Projects**      | Applying theory immediately by creating and shipping something practical               |
+
+<div align="center">
+
+> "Don’t just learn to code — code to learn."
+
+</div>
+
+---
+
+## 🧪 Experiment Zone
+
+> *“Curiosity fuels innovation — everything I try teaches me something new.”*
+
+Beyond web development, I experiment with creative and technical tools that expand my perspective:
+
+| Category                     | Tools & Topics                                                                     |
+| ---------------------------- | ---------------------------------------------------------------------------------- |
+| 🎨 **3D & Design**           | Blender, Figma, GIMP                                                               |
+| 🎬 **Media Creation**        | Video editing (Kdenlive, DaVinci Resolve), audio editing (Audacity), photo editing |
+| 🔌 **Hardware & DIY**        | Arduino, sensors, LED control                                                      |
+| 💻 **Programming Languages** | Python, C++, Bash scripting, experimenting with Rust                               |
+| 🌍 **Other Interests**       | Automation, UI/UX design, open-source tools, Linux customization                   |
+
+---
+
 ## 💼 Why I Build in Public
 
 - **Accountability** — Consistent commits demonstrate steady progress
