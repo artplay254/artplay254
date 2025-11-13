@@ -9,10 +9,9 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/5AM_Cold_Shower_Club-00C2FF?style=for-the-badge&logo=droplet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Norway_Quest_Lv1_%E2%86%92_Lv10-88C0D0?style=for-the-badge&logo=flag&logoColor=white"/>
+  <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge" alt="wakatime"/>
 </div>
 
 ---
