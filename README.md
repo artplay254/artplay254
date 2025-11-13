@@ -140,6 +140,8 @@ Blender • Arduino • Python • Linux ricing • Video editing • UI/UX
 <!--START_SECTION:waka-->
 
 ```txt
+From: 05 November 2025 - To: 12 November 2025
+
 HTML       1 hr 8 mins     ██████████████▒░░░░░░░░░░   57.52 %
 Markdown   48 mins         ██████████▒░░░░░░░░░░░░░░   40.92 %
 Python     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
