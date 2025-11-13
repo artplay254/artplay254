@@ -64,9 +64,10 @@ My **first deployed app**: API calls, responsive design, error handling, clean c
 ---
 ### Norway Quest • Level 1/10
 <div align="center">
-```
+```text
 [███░░░░░░░░░░░░░░░░░] 15% Complete (Nov 2025)
 ```
+
 **Goal:** Fullstack Developer in Norway 🇳🇴  
 **Timeline:** 5–7 years (2024 → 2029–2031)
 </div>
@@ -151,9 +152,13 @@ Blender • Arduino • Python • Linux ricing • Video editing • UI/UX
   <a href="mailto:artplay254@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<div align="center">
-Open to: collaboration • code reviews • project ideas • Norwegian practice • 5 AM accountability 😄
+<br>
+
+<div align="center"><strong>
+Open to: collaboration • code reviews • project ideas • Norwegian practice • 5 AM accountability 😄</strong>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=artplay254&color=88C0D0&style=for-the-badge&label=PROFILE+VIEWS"/>
