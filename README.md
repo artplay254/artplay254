@@ -64,9 +64,9 @@ My **first deployed app**: API calls, responsive design, error handling, clean c
 ---
 ### Norway Quest • Level 1/10
 <div align="center">
-```text
+
 [███░░░░░░░░░░░░░░░░░] 15% Complete (Nov 2025)
-```
+
 
 **Goal:** Fullstack Developer in Norway 🇳🇴  
 **Timeline:** 5–7 years (2024 → 2029–2031)
