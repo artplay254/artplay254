@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=88C0D0&center=true&vCenter=true&width=700&lines=14+y%2Fo+self-taught+fullstack+learner;Russia+%E2%86%92+Norway+%F0%9F%87%B3%F0%9F%87%B4;5AM+cold+showers+%F0%9F%A5%B6;Parkour+%E2%86%92+Code;Discipline+%3E+Motivation;Level+Up+Every+Day" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=88C0D0&center=true&vCenter=true&width=700&lines=14+y%2Fo+self-taught+fullstack+developer;Russia+%E2%86%92+Norway+%F0%9F%87%B3%F0%9F%87%B4;5AM+cold+showers+%F0%9F%A5%B6;Parkour+%E2%86%92+Code;Discipline+%3E+Motivation;Level+Up+Every+Day" />
 </p>
 
 <div align="center">
@@ -18,7 +18,7 @@
 ---
 ### Hi, I’m Artem — 14 y/o self-taught developer
 
-**Russia → Norway** in ~2029–2031. Learning by building real projects every single day.
+**Russia → Norway** in ~2029–2031. Learning by building real projects.
 
 ```typescript
 const artem = {
@@ -74,7 +74,7 @@ My **first deployed app**: API calls, responsive design, error handling, clean c
 
 | Level | Milestone                            | Status | Target     |
 |-------|--------------------------------------|--------|------------|
-| 1     | First deployed project               | ✅     | 2024       |
+| **1** | **First deployed project**           | ✅     | 2024       |
 | 2     | 3+ solid JavaScript projects         | ⏳     | Q1 2025    |
 | 3     | Learn React & build full app         | ⏳     | Q2–Q3 2025 |
 | 4     | First open-source contribution       | 📝     | 2026       |
@@ -166,5 +166,5 @@ Open to: collaboration • code reviews • project ideas • Norwegian practice
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=120&section=footer"/>
-  <p><strong>Code with the speed of The Flash, train with the spirit of Goku</strong></p>
+  <p><i>Code with the speed of The Flash, train with the spirit of Goku</i></p>
 </div>
