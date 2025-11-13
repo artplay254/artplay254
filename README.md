@@ -39,7 +39,6 @@ const artem = {
 
 ---
 ### Current Stack & Learning Path
-<div align="center">
 
 **Daily Drivers**  
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>  
@@ -65,8 +64,6 @@ const artem = {
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>  
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
-
-</div>
 
 ---
 ### Latest Project — Weather App
