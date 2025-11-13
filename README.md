@@ -112,7 +112,7 @@ My **first deployed app**: API calls, responsive design, error handling, clean c
 <details>
 <summary><b>How I Learn • Philosophy • Inspiration</b></summary>
 
-**Learning Method:**  
+#### Learning Method:  
 Read docs → Watch pros → **Build** → Deploy → Improve
 
 **Core Tools:** FreeCodeCamp, YouTube, MDN, GitHub Issues
