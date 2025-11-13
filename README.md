@@ -135,7 +135,7 @@ Blender • Arduino • Python • Linux ricing • Video editing • UI/UX
 </details>
 
 <details>
-<summary><b>📊 WakaTime Statistics</b></summary>
+<summary><b>WakaTime Statistics</b></summary>
 
 <!--START_SECTION:waka-->
 
