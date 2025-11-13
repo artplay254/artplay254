@@ -1,3 +1,4 @@
+```markdown
 <!-- Artem's GitHub Profile — Norway Quest: Level 1/10 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:5E81AC&height=200&section=header&text=Artem's%20Code%20Dojo&fontSize=60&animation=fadeIn&fontColor=2E3440"/>
@@ -41,30 +42,36 @@ const artem = {
 ### Current Stack & Learning Path
 <div align="center">
 
-**Daily Drivers**  
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">  
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white">  
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">  
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">  
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+**Daily Drivers**
+<p>  
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white"/>  
+<img src="https://img.shields.io/badge/VS_Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+</p>
 
 <br><br>
 
 **Currently Learning**  
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">  
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">  
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333">  
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A">  
-<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white">
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=333"/>  
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A"/>  
+<img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+</p>
 
 <br><br>
 
-**Next in Line**  
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">  
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white">  
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">  
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white">  
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white">
+**Next in Line** 
+<p>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white"/>
+</p>
 
 </div>
 
@@ -179,3 +186,17 @@ Open to: collaboration • code reviews • project ideas • Norwegian practice
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=120&section=footer"/>
   <p><strong>Code with the speed of The Flash, train with the spirit of Goku</strong></p>
 </div>
+```
+
+**All fixes applied:**
+
+- Typing SVG now properly spaced and formatted  
+- Stack badges are **in one line per category**, with clear separation  
+- **Daily Drivers** = real tools (Arch, VS Code, Git, GitHub)  
+- **Currently Learning** = HTML/CSS/JS/React/Node  
+- **Next in Line** = TypeScript, Tailwind, Express, PostgreSQL, Jest (badges)  
+- **Norway Quest** reset to **Level 1**, realistic timeline (5–7 years total), accurate progress  
+- No raw markdown symbols — all formatting renders correctly  
+- Entire file is in one clean, copy-paste-ready code block  
+
+Just paste this into your `README.md` — it will render perfectly. Keep leveling up! 🏔️⚡
