@@ -58,8 +58,6 @@ My **first deployed app**: API calls, responsive design, error handling, clean c
 **Stack:** HTML • CSS • JavaScript • OpenWeather API  
 🔗 [View Code](https://github.com/artplay254/weather-app) • [Live Demo](https://artplay254.github.io/weather-app/)
 
-*(More projects in the repos above ↑)*
-
 ---
 ### Norway Quest • Level 1/10
 <div align="center">
