@@ -44,6 +44,7 @@ const artem = {
 🔗 GitHub: <a href="https://github.com/vlp0werr">github.com/vlp0werr</a>
 <img src="https://img.shields.io/badge/Grind_Partner-5AM_Warrior-5E81AC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Norway_Quest-Duo_Mode-88C0D0?style=for-the-badge"/>
+</div>
 
 ```typescript
 const vlad = {
