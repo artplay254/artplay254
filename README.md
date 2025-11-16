@@ -34,6 +34,8 @@ const artem = {
 };
 ```
 
+> _“Push yourself until your idols become your rivals.”_
+
 🧍‍♂️ **My Brother-In-Arms: Vlad**
 
 > “Two kids from Lipetsk — one mission: Fullstack Devs in Norway.”
@@ -75,10 +77,10 @@ Our Story
 🥶 5 AM discipline crew — cold showers + code + grind
 
 
-Duo Quest Progress
+**Duo Quest Progress**
 
 Stage Status
-
+<div>
 Kindergarten teammates ✔️
 Start coding ✔️
 Build first projects 🔄
@@ -86,8 +88,9 @@ Learn React & Node 🔄
 First open-source contribution 📝
 Get dev jobs 📝
 Move to Norway 🇳🇴 🎯
+</div>
 
-> _“Push yourself until your idols become your rivals.”_
+> _“When one levels up, both level up.”_
 
 ---
 ### Current Stack & Learning Path
