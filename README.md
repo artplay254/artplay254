@@ -52,7 +52,7 @@ const artem = {
 </div>
 
 ---
-### Latest Project — Weather App
+### First project — Weather App (in progress)
 My **first deployed app**: API calls, responsive design, error handling, clean code.
 
 **Stack:** HTML • CSS • JavaScript • OpenWeather API  
@@ -71,7 +71,7 @@ My **first deployed app**: API calls, responsive design, error handling, clean c
 
 | Level | Milestone                            | Status | Target     |
 |-------|--------------------------------------|--------|------------|
-| **1** | **First deployed project**           | ✅     | 2024       |
+| **1** | **First deployed project**           | ⏳     | 2024       |
 | 2     | 3+ solid JavaScript projects         | ⏳     | Q1 2025    |
 | 3     | Learn React & build full app         | ⏳     | Q2–Q3 2025 |
 | 4     | First open-source contribution       | 📝     | 2026       |
