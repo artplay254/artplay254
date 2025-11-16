@@ -45,7 +45,8 @@ const artem = {
 <img src="https://img.shields.io/badge/Grind_Partner-5AM_Warrior-5E81AC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Norway_Quest-Duo_Mode-88C0D0?style=for-the-badge"/>
 
-</div>const vlad = {
+```typescript
+const vlad = {
   name: "Vlad",
   age: 14,
   born: "December 24, 2010",
@@ -56,6 +57,7 @@ const artem = {
   skillsInProgress: ["HTML", "CSS", "JavaScript"],
   mindset: "Same grind. Same dream. No excuses."
 };
+```
 
 Our Story
 
