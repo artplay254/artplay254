@@ -14,12 +14,12 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}  # Optional for profile readme
-          # SHOW_TITLE: "true"  # Uncomment to show title (default true)
-          # SHOW_DAYS_OF_WEEK: "false"  # Uncomment to hide days of week
-          # SHOW_EDITORS: "true"  # Uncomment to show editors
-          # SHOW_LANGUAGES: "true"  # Uncomment to show languages
-          # SHOW_PROJECTS: "true"  # Uncomment to show projects
-          # SHOW_COMMIT: "true"  # Uncomment to show commit stats
+          SHOW_TITLE: "true"  # Uncomment to show title (default true)
+          SHOW_DAYS_OF_WEEK: "true"  # Uncomment to hide days of week
+          SHOW_EDITORS: "true"  # Uncomment to show editors
+          SHOW_LANGUAGES: "true"  # Uncomment to show languages
+          SHOW_PROJECTS: "true"  # Uncomment to show projects
+          SHOW_COMMIT: "false"  # Uncomment to show commit stats
           # SHOW_PROFILE_VIEWS: "true"  # Uncomment to show profile views
           # COMMIT_MESSAGE: "Updated readme with recent activity | WakaTime"  # Custom commit message
-          # TIME_RANGE: "all_time"  # Fetches all-time data (default is last 7 days)
+          TIME_RANGE: "all_time"  # Fetches all-time data (default is last 7 days)
