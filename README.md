@@ -86,7 +86,7 @@ My **first deployed app**: API calls, responsive design, error handling, clean c
 <summary><b>Full Timeline & Roadmap</b></summary>
 
 #### 0–12 Months (Now → End 2025)
-- Ship first project (Weather App) ✅
+- Ship first project (Weather App)
 - Build 3–5 small JS projects
 - Master HTML/CSS/JS fundamentals
 - Start React + basic APIs
