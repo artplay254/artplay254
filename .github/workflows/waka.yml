@@ -1,28 +1,47 @@
-name: WakaTime Stats
+# .github/workflows/waka.yml
+name: Update WakaTime Stats
 
+# runs at 00:00 UTC every day
 on:
   schedule:
-    - cron: "0 0 * * *"  # every day at midnight
-  workflow_dispatch:
+    - cron: '0 0 * * *'   # midnight UTC
+  workflow_dispatch:      # allows manual run from Actions UI
 
 jobs:
   update-readme:
+    name: Update README with WakaTime stats
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
+          # if you're updating a profile repo that uses 'main' (default) nothing else needed.
+          # if your default branch is 'master' or different, GitHub will handle it automatically
+
+      - name: Update WakaTime stats in README
+        uses: anmol098/waka-readme-stats@master
+        with:
+          # Required secrets (add these in Settings → Secrets)
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: "True"
-          SHOW_TIMEZONE: "True"
-          SHOW_EDITORS: "True"
-          SHOW_OS: "True"
-          SHOW_PROJECTS: "True"
-          SHOW_LANGUAGE: "True"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_TIME_OF_DAY: "True"
+          GH_TOKEN:          ${{ secrets.GH_TOKEN }}
+
+          # Show everything (detailed / all-time style stats)
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LINES_OF_CODE:   "True"
+          SHOW_PROJECTS:        "True"
+          SHOW_LANGUAGE:        "True"
           SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_PROFILE: "True"
-          SHOW_SHORT_INFO: "True"
-          SHOW_LOC_CHART: "False"
-          COMMIT_MESSAGE: "chore: update WakaTime stats"
+          SHOW_EDITORS:         "True"
+          SHOW_OS:              "True"
+          SHOW_TIMEZONE:        "True"
+          SHOW_PROFILE_VIEWS:   "True"
+          SHOW_COMMIT:          "True"
+          SHOW_DAYS_OF_WEEK:    "True"
+          SHOW_LOC_CHART:       "True"
+          SHOW_SHORT_INFO:      "True"
+          SHOW_UPDATED_DATE:    "True"
+          # optional cosmetic / commit control
+          COMMIT_MESSAGE:       "chore: update WakaTime stats"
+          COMMIT_USERNAME:      "readme-bot"
+          COMMIT_EMAIL:         "41898282+github-actions[bot]@users.noreply.github.com"
