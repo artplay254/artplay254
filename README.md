@@ -34,11 +34,9 @@ const artem = {
 };
 ```
 
-🧍‍♂️ My Brother-In-Arms: Vlad
+🧍‍♂️ **My Brother-In-Arms: Vlad**
 
 > “Two kids from Lipetsk — one mission: Fullstack Devs in Norway.”
-
-
 
 <div align="center">This is Vlad →
 🔗 GitHub: <a href="https://github.com/vlp0werr">github.com/vlp0werr</a>
