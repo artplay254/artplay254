@@ -34,6 +34,54 @@ const artem = {
 };
 ```
 
+🧍‍♂️ My Brother-In-Arms: Vlad
+
+> “Two kids from Lipetsk — one mission: Fullstack Devs in Norway.”
+
+
+
+<div align="center">This is Vlad →
+🔗 GitHub: <a href="https://github.com/vlp0werr">github.com/vlp0werr</a>
+<img src="https://img.shields.io/badge/Grind_Partner-5AM_Warrior-5E81AC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Norway_Quest-Duo_Mode-88C0D0?style=for-the-badge"/>
+
+</div>const vlad = {
+  name: "Vlad",
+  age: 14,
+  born: "December 24, 2010",
+  location: "Lipetsk, Russia",
+  destination: "Norway 🇳🇴",
+  mission: "Fullstack Developer • Move to Norway",
+  teammate: "Grinding with Artem since kindergarten",
+  skillsInProgress: ["HTML", "CSS", "JavaScript"],
+  mindset: "Same grind. Same dream. No excuses."
+};
+
+Our Story
+
+👶 Together since kindergarten
+
+🏫 Still in the same school & class
+
+💻 Both learning fullstack development
+
+🇳🇴 Plan to move to Norway together
+
+🥶 5 AM discipline crew — cold showers + code + grind
+
+
+Duo Quest Progress
+
+Stage Status
+
+Kindergarten teammates ✔️
+Start coding ✔️
+Build first projects 🔄
+Learn React & Node 🔄
+First open-source contribution 📝
+Get dev jobs 📝
+Move to Norway 🇳🇴 🎯
+
 > _“Push yourself until your idols become your rivals.”_
 
 ---
