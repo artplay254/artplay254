@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Next_Milestone-3+_JavaScript_Projects_(Q1_2025)-81A1C1?style=for-the-badge"/>
   <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge" alt="waka"/>
 </div>
+
 ---
 
 👋 Hi, I’m Artem — 14 y/o self-taught developer
@@ -16,6 +17,7 @@
 Russia → Norway in 2029–2031
 Learning by building real projects. No excuses. No breaks.
 
+ts```
 const artem = {
   age: 14,
   location: "Lipetsk, Russia",
@@ -24,7 +26,8 @@ const artem = {
   routine: "5:00 AM cold shower → workout → code → parkour → study",
   lifestyle: ["Parkour", "Calisthenics", "Cold Showers", "Daily Challenges"],
   inspiration: ["Stan Browney", "Magnus Midtbø", "Sergio Nee", "Goku", "The Flash"]
-};
+}
+```
 
 > “Push yourself until your idols become your rivals.”
 
