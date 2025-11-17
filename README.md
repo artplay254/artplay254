@@ -1,182 +1,170 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=200&section=header&text=Artem%20Semenihin&fontSize=70&fontColor=ECEFF4&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20in%20Progress&descAlignY=51&descSize=20" />
-</div>
+<!-- Artem's GitHub Profile -->
 
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=Born+in+Lipetsk%2C+Heading+to+Norway;Coding+%7C+Parkour+%7C+Cold+Showers+at+5am;Arch+Linux+Enthusiast;Building+the+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
-  
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:88c0d0,100:5e81ac&height=180&section=header&text=Artem%20Vorobyov&fontSize=45&fontColor=eceff4&animation=fadeIn&fontAlignY=32"/>
 
----
-
-## 🌟 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=750&lines=14+y.o+Fullstack+Developer+%F0%9F%94%AE;Arch+Linux+%2B+Hyprland+user%20🐧;Grinding+to+Norway+with+my+bro+Vlad%20%F0%9F%87%B3%F0%9F%87%B4;I+code+every+day%2C+read%2C+train%2C+and+build;Cold+showers+at+5AM+%26+never+skip+leg+day;Learning+English+and+Norwegian+at+the+same+time;Motivation+%3E+Motivation;%23NeverStopBuilding"/>
+</p>
 
 ```javascript
 const artem = {
   age: 14,
-  location: "Lipetsk, Russia 🇷🇺",
-  destination: "Norway 🇳🇴",
-  mission: "Become a Fullstack Developer",
-  os: "Arch Linux btw",
-  philosophy: "Discipline > Motivation",
-  lifeStyle: ["5am cold showers", "parkour", "workouts", "coding marathons"],
-  fandoms: ["Dragon Ball 🐉", "The Flash ⚡"],
-  languages: {
-    russian: "native",
-    english: "B2",
-    norwegian: "A1 (learning...)"
+  location: "Lipetsk → soon Norway",
+  focusedOn: ["Fullstack Development", "English", "Norwegian"],
+  dailyHabits: ["Coding", "Reading", "Workouts", "Cold Showers"],
+  using: {
+    os: "Arch Linux + Hyprland",
+    editor: "Neovim",
+    terminal: "Kitty",
+    browser: "LibreWolf"
   },
-  currentFocus: "Mastering Web Development Fundamentals",
-  inspiration: ["Stan Browney", "Magnus Midtbø", "Sergio Nee"]
-}
+  dream: "Become a fullstack developer in Norway 🇳🇴",
+  motto: "Discipline beats motivation",
+};
 ```
 
 ---
 
-## 🎯 Norway Quest: Level 1/10
+🧭 Norway Quest Status
 
-<div align="center">
+📍 Stage: STACK BUILDING — Fullstack in progress
 
-[██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 5%
 
-Phase 1: Master Web Development Fundamentals ⚡
-Phase 2: Build Full-Stack Projects 🚀
-Phase 3: Achieve Norwegian B2 Fluency 🇳🇴
-Phase 4: Create Professional Portfolio 💼
-Phase 5: Relocate to Norway 🏔️
-`
 
-</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+🛠 Stack
 
-<div align="center">
+🧩 Daily Driver
 
-### Daily Arsenal
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-5E81AC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-88C0D0?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-4C566A?style=for-the-badge&logo=github&logoColor=white)
+Arch Linux · Hyprland · Neovim · Kitty · Git · Firefox-based
 
-### Currently Learning
-![HTML5](https://img.shields.io/badge/HTML5-BF616A?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-5E81AC?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-EBCB8B?style=for-the-badge&logo=javascript&logoColor=2E3440)
+📚 Learning
 
-### Next Up (roadmap.sh)
-![React](https://img.shields.io/badge/React-88C0D0?style=for-the-badge&logo=react&logoColor=2E3440)
-![Node.js](https://img.shields.io/badge/Node.js-A3BE8C?style=for-the-badge&logo=node.js&logoColor=2E3440)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5E81AC?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-81A1C1?style=for-the-badge&logo=docker&logoColor=white)
+React · Next.js · Node.js · TypeScript · Supabase · PostgreSQL · Docker
 
-</div>
+🎯 Next Up
+
+Rust · tRPC · Astro · Svelte · CI/CD
+
 
 ---
 
-## 📊 GitHub Analytics
+🚀 Current Journey
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&langs_count=8&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9"/>
-</div>
+🏗 Building fullstack projects every week
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=nord&hide_border=true&background=2E3440&stroke=4C566A&ring=88C0D0&fire=EBCB8B&currStreakLabel=88C0D0&sideNums=D8DEE9&currStreakNum=ECEFF4&dates=81A1C1&sideLabels=8FBCBB" />
-</div>
+🧠 FreeCodeCamp & CS50 grind
 
----
+📖 Reading English & Norwegian daily
 
-## ⏱️ Coding Activity
+💪 Workouts + discipline routine since 5 AM
 
-<div align="center">
-  
-[![wakatime](https://wakatime.com/badge/user/artplay254.svg?style=for-the-badge&color=5E81AC)](https://wakatime.com/@artplay254)
+🧊 Cold showers & mental resilience
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&layout=compact" />
+🧭 Training for relocation to Norway with my bro Vlad
 
-</div>
+
 
 ---
 
-## 🗓️ 2025 Roadmap
+🗺 Roadmap (Live Checklist)
 
 <details>
-<summary><b>📋 Full-Stack Developer Journey (roadmap.sh)</b></summary>
+<summary><b>Click to expand</b></summary>🧱 Foundations
 
-### Frontend Fundamentals
-- [x] HTML Basics
-- [x] CSS Fundamentals
-- [ ] JavaScript ES6+
-- [ ] Responsive Design
-- [ ] CSS Frameworks (Tailwind CSS)
-- [ ] React.js
-- [ ] State Management (Redux/Zustand)
-- [ ] Next.js
+[x] Linux + terminal mastery
 
-### Backend Development
-- [ ] Node.js & Express
-- [ ] RESTful APIs
-- [ ] Authentication & Authorization
-- [ ] Databases (PostgreSQL, MongoDB)
-- [ ] ORMs (Prisma/TypeORM)
-- [ ] GraphQL (Optional)
+[x] Git & GitHub workflow
 
-### DevOps & Tools
-- [ ] Git Advanced
-- [ ] Docker Basics
-- [ ] CI/CD Pipelines
-- [ ] Cloud Platforms (Vercel, Railway)
-- [ ] Testing (Jest, Vitest)
+[x] HTML + CSS + JS fundamentals
 
-### Soft Skills & Languages
-- [ ] Norwegian B1 Level
-- [ ] Technical Writing
-- [ ] Portfolio Projects (3-5)
-- [ ] Open Source Contributions
+[x] VSCode/Neovim setup
+
+[x] First public projects
+
+
+⚙ Backend Track
+
+[x] Node.js basics
+
+[ ] Express
+
+[ ] PostgreSQL
+
+[ ] REST APIs
+
+[ ] Auth systems
+
+[ ] Deploy on VPS
+
+
+🖥 Frontend Track
+
+[x] React basics
+
+[ ] Next.js
+
+[ ] Tailwind
+
+[ ] State management
+
+[ ] Full UI project
+
+
+🏛 Advanced
+
+[ ] TypeScript everywhere
+
+[ ] Docker
+
+[ ] WebSockets
+
+[ ] CI/CD
+
+[ ] Rust basics
+
+
+🌍 Norway Plan
+
+[x] Choose Bachelor route
+
+[ ] Prepare portfolio projects
+
+[ ] Finish B2 English
+
+[ ] Get B1 Norwegian
+
+[ ] Apply for IT bachelor in Norway
+
 
 </details>
-
 ---
 
-## 🌐 Connect With Me
+📊 GitHub Stats
 
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-artplay254-5E81AC?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/artplay254)
-[![Telegram](https://img.shields.io/badge/Telegram-artplay254-88C0D0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artplay254)
-[![Email](https://img.shields.io/badge/Email-artplay254@gmail.com-81A1C1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artplay254@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-artplay254-4C566A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artplay254)
-[![WakaTime](https://img.shields.io/badge/WakaTime-artplay254-A3BE8C?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@artplay254)
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arti0002&show_icons=true&theme=nord&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arti0002&theme=nord&hide_border=true" height="165"/>
+</p><p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arti0002&layout=compact&theme=nord&hide_border=true&langs_count=8" height="150"/>
+</p>
 ---
 
-## 💭 Philosophy
+⏱ WakaTime (All-Time Coding)
 
-> "The best time to plant a tree was 20 years ago. The second best time is now."
-
-<div align="center">
-
-💪 5am cold showers • 🏃 Parkour training • 💻 Late-night coding sessions
-
-*From Lipetsk to Oslo, one commit at a time.*
-
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Arti0002&layout=compact&theme=nord&hide_border=true" height="260"/>
+</p>
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:5E81AC&height=120&section=footer" />
-</div>
+🤝 Contact
 
-<div align="center">
-  
-  ![Visitor Count](https://profile-counter.glitch.me/artplay254/count.svg)
-  
-  ⭐ Star my repos if you find them useful!
-  
-</div>
+<p align="center">
+  <a href="https://github.com/Arti0002"><img src="https://img.shields.io/badge/GitHub-Arti0002-5e81ac?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:vorobev45artem@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Fast-88c0d0?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+---
+
+<p align="center"><i>"There is no talent. Only discipline."</i></p><p align="center">⚡ From Lipetsk to Oslo — one commit at a time ⚡</p><img src="https://capsule-render.vercel.app/api?type=waving&color=0:5e81ac,100:88c0d0&height=120&section=footer"/>
