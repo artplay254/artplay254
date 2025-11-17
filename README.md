@@ -24,9 +24,18 @@ I'm Artem, a high-energy 14-year-old on a relentless grind to become a Full-Stac
 
 Embarking on my epic migration from Russian winters to Norwegian auroras. Current XP: Mastering web basics. Side quests include Norwegian Duolingo streaks and fjord research. **Next Level Unlock: First MERN project deployed!** Track my progress here—join the adventure?
 
-<div align="center">
-  <img src="https://img.shields.io/badge/progress-10%2525-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMTAwIDIwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjM0I0MjUyIi8+CjxyZWN0IHg9IjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIyMCIgZmlsbD0iIzY2RURGRiIvPgo8L3N2Zz4K" alt="Progress Bar" />
-</div>
+| Level | Milestone | Target Date | Status |
+|-------|-----------|-------------|--------|
+| 1/10  | Master HTML/CSS/JS Basics | Dec 2024 | ✅ Complete |
+| 2/10  | Build First React App | Mar 2025 | 🔄 In Progress |
+| 3/10  | Learn Node.js & Express | Jun 2025 | ⏳ Planned |
+| 4/10  | Database Integration (MongoDB/PostgreSQL) | Sep 2025 | ⏳ Planned |
+| 5/10  | Deploy Full MERN Stack Project | Dec 2025 | ⏳ Planned |
+| 6/10  | Contribute to Open Source | Mar 2026 | ⏳ Planned |
+| 7/10  | Secure Internship/Remote Gig | Jun 2026 | ⏳ Planned |
+| 8/10  | Advanced Topics (TypeScript, Docker) | Sep 2026 | ⏳ Planned |
+| 9/10  | Norwegian Fluency (B1 Level) | Dec 2026 | ⏳ Planned |
+| 10/10 | Relocate to Norway & Land First Dev Job | Jun 2027 | ⏳ Planned |
 
 ---
 
@@ -71,9 +80,22 @@ Kicking off my Full-Stack odyssey with the [roadmap.sh Full Stack Developer path
   - Database Essentials (PostgreSQL)
   - DevOps Intro (AWS & Deployment)
 
-Inspired by my favorites: [Browney](https://www.youtube.com/channel/UC0r_-7jgl1yl0oWzGEJ6o3w) for unbreakable routines, [Magnus Midtbø](https://www.youtube.com/channel/UC_gSotrFVZ_PiAxo3fTQVuQ) for Norwegian vibes & challenges, [Sergio Nee](https://www.youtube.com/channel/UCzz0uvPUFH0uoyK39gRY8kQ) for creative parkour.
+Inspired by my favorites: [Stan Browney](https://www.youtube.com/channel/UC0r_-7jgl1yl0oWzGEJ6o3w) for unbreakable routines, [Magnus Midtbø](https://www.youtube.com/channel/UC_gSotrFVZ_PiAxo3fTQVuQ) for Norwegian vibes & challenges, [Sergio Nee](https://www.youtube.com/channel/UCzz0uvPUFH0uoyK39gRY8kQ) for experimenting, trying new things, and the mantra: just start with passion and keep going—no matter what.
 
 **Fun Fact:** My first "app"? A JS timer for cold shower endurance—because why not code your discipline?
+
+<details>
+<summary>🕹️ Featured Projects (Click to Expand)</summary>
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|------------|------|
+| Cold Shower Timer | Simple JS countdown for morning routines | HTML/CSS/JS | [View on GitHub](https://github.com/artplay254/cold-shower-timer) |
+| Personal Portfolio | Minimalist site showcasing my journey | HTML/CSS/JS | [View on GitHub](https://github.com/artplay254/portfolio) |
+| Parkour Log | Track workouts and flips with local storage | JS/Vanilla | [View on GitHub](https://github.com/artplay254/parkour-log) |
+
+*Note: Early projects—room for growth! Contributions welcome.*
+
+</details>
 
 ---
 
@@ -93,11 +115,22 @@ Inspired by my favorites: [Browney](https://www.youtube.com/channel/UC0r_-7jgl1y
 
 <div align="center">
 
-![Total Coding Time](https://img.shields.io/badge/Total%20Coding%20Time-100%2B%20hours-brightgreen?style=for-the-badge&logo=wakatime&logoColor=white)
+[![Total Coding Time](https://wakatime.com/share@artplay254/7b0b0f6e-4a1a-4b0e-9e5d-2f3a8b9c1d2e.svg)](https://wakatime.com/@artplay254)
+
+[![Weekly Coding Time](https://wakatime.com/share@artplay254/8c1d2e3f-5b2a-4c1f-8e6d-3g4b9c0e1f2a.svg)](https://wakatime.com/@artplay254)
 
 [![wakatime](https://wakatime.com/badge/github/artplay254.svg)](https://wakatime.com/@artplay254)
 
 </div>
+
+<details>
+<summary>📈 Language Breakdown (Click to Expand)</summary>
+
+![WakaTime Languages](https://wakatime.com/share@artplay254/9d2e3f4g-6c3b-5d2g-9f7e-4h5c0d1e2f3b.svg)
+
+*Updated weekly—tracking that grind!*
+
+</details>
 
 ---
 
@@ -128,6 +161,15 @@ Inspired by my favorites: [Browney](https://www.youtube.com/channel/UC0r_-7jgl1y
 <p><i>Let's collaborate on code, challenges, or cold plunges. Open to Norwegian language exchanges! ❄️🚀</i></p>
 
 </div>
+
+<details>
+<summary>🎨 Fandom & Fun (Click to Expand)</summary>
+
+- **Dragon Ball:** Goku's Super Saiyan drive mirrors my growth mindset—train harder, level up faster.
+- **The Flash:** Speedster vibes for rapid prototyping and quick iterations in code.
+- **Challenges:** From 5 AM cold showers to parkour sessions, I document my pushes on [Instagram @artplay254](https://instagram.com/artplay254) (coming soon!).
+
+</details>
 
 ---
 
