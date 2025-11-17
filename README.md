@@ -2,6 +2,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=81A1C1&center=true&vCenter=true&width=600&lines=Artem+Semenihin;Full-Stack+Developer+In+Training;Disciplined+Coder+%26+Athlete;Norway+Quest:+Level+1%2F10" alt="Typing SVG" />
 
+<div align="center">
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Cold Showers](https://img.shields.io/badge/5AM%20Cold%20Showers-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white)
+![WakaTime](https://wakatime.com/badge/github/artplay254.svg)
+![Dragon Ball](https://img.shields.io/badge/Dragon%20Ball-EB9129?style=for-the-badge&logo=dragonball&logoColor=white)
+![The Flash](https://img.shields.io/badge/The%20Flash-CR1919?style=for-the-badge&logo=lightning-bolt&logoColor=white)
+![Parkour](https://img.shields.io/badge/Parkour-FF4500?style=for-the-badge&logo=running&logoColor=white)
+
+</div>
+
 </div>
 
 <p align="center">
@@ -22,20 +33,20 @@ I'm Artem, a high-energy 14-year-old on a relentless grind to become a Full-Stac
 
 ## 🏔️ **Norway Quest: Level 1/10**
 
-Embarking on my epic migration from Russian winters to Norwegian auroras. Current XP: Mastering web basics. Side quests include Norwegian Duolingo streaks and fjord research. **Next Level Unlock: First MERN project deployed!** Track my progress here—join the adventure?
+Embarking on my epic migration from Russian winters to Norwegian auroras. Current XP: Building web fundamentals. Side quests include Norwegian Duolingo streaks and fjord research. **Next Level Unlock: Solidify HTML/CSS/JS mastery!** Track my progress here—join the adventure?
 
 | Level | Milestone | Target Date | Status |
 |-------|-----------|-------------|--------|
-| 1/10  | Master HTML/CSS/JS Basics | Dec 2024 | ✅ Complete |
-| 2/10  | Build First React App | Mar 2025 | 🔄 In Progress |
-| 3/10  | Learn Node.js & Express | Jun 2025 | ⏳ Planned |
-| 4/10  | Database Integration (MongoDB/PostgreSQL) | Sep 2025 | ⏳ Planned |
-| 5/10  | Deploy Full MERN Stack Project | Dec 2025 | ⏳ Planned |
-| 6/10  | Contribute to Open Source | Mar 2026 | ⏳ Planned |
-| 7/10  | Secure Internship/Remote Gig | Jun 2026 | ⏳ Planned |
-| 8/10  | Advanced Topics (TypeScript, Docker) | Sep 2026 | ⏳ Planned |
-| 9/10  | Norwegian Fluency (B1 Level) | Dec 2026 | ⏳ Planned |
-| 10/10 | Relocate to Norway & Land First Dev Job | Jun 2027 | ⏳ Planned |
+| 1/10  | Master HTML/CSS/JS Basics | Jun 2026 | 🔄 In Progress |
+| 2/10  | Build First React App & Frontend Projects | Dec 2026 | ⏳ Planned |
+| 3/10  | Learn Node.js, Express & Backend APIs | Jun 2027 | ⏳ Planned |
+| 4/10  | Database Integration (MongoDB/PostgreSQL) & Full MERN Stack | Dec 2027 | ⏳ Planned |
+| 5/10  | Deploy Projects & Intro to DevOps (Docker, AWS) | Jun 2028 | ⏳ Planned |
+| 6/10  | Contribute to Open Source & Build Portfolio | Dec 2028 | ⏳ Planned |
+| 7/10  | Secure Internship/Remote Dev Role | Jun 2029 | ⏳ Planned |
+| 8/10  | Advanced Topics (TypeScript, Next.js, GraphQL) | Dec 2029 | ⏳ Planned |
+| 9/10  | Achieve Norwegian Fluency (B2 Level) & University Prep | Jun 2030 | ⏳ Planned |
+| 10/10 | Relocate to Norway, Start University & Land First Full-Time Dev Job | 2031-2032 | ⏳ Planned |
 
 ---
 
@@ -65,7 +76,7 @@ Kicking off my Full-Stack odyssey with the [roadmap.sh Full Stack Developer path
 
 ### Progress Tracker
 
-- **Frontend Basics** ✅ *In Progress*
+- **Frontend Basics** 🔄 *In Progress*
   - HTML
   - CSS
   - JavaScript
@@ -108,29 +119,6 @@ Inspired by my favorites: [Stan Browney](https://www.youtube.com/channel/UC0r_-7
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=81A1C1&text_color=ECEFF4&icon_color=88C0D0)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
-
-## ⏱️ **WakaTime Stats**
-
-<div align="center">
-
-[![Total Coding Time](https://wakatime.com/share@artplay254/7b0b0f6e-4a1a-4b0e-9e5d-2f3a8b9c1d2e.svg)](https://wakatime.com/@artplay254)
-
-[![Weekly Coding Time](https://wakatime.com/share@artplay254/8c1d2e3f-5b2a-4c1f-8e6d-3g4b9c0e1f2a.svg)](https://wakatime.com/@artplay254)
-
-[![wakatime](https://wakatime.com/badge/github/artplay254.svg)](https://wakatime.com/@artplay254)
-
-</div>
-
-<details>
-<summary>📈 Language Breakdown (Click to Expand)</summary>
-
-![WakaTime Languages](https://wakatime.com/share@artplay254/9d2e3f4g-6c3b-5d2g-9f7e-4h5c0d1e2f3b.svg)
-
-*Updated weekly—tracking that grind!*
-
-</details>
 
 ---
 
