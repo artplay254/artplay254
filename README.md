@@ -6,7 +6,7 @@
 
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Cold Showers](https://img.shields.io/badge/5AM%20Cold%20Showers-00BFFF?style=for-the-badge&logo=snowflake&logoColor=white)
-![WakaTime](https://wakatime.com/badge/github/artplay254.svg)
+![WakaTime](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg)
 ![Dragon Ball](https://img.shields.io/badge/Dragon%20Ball-EB9129?style=for-the-badge&logo=dragonball&logoColor=white)
 ![The Flash](https://img.shields.io/badge/The%20Flash-CR1919?style=for-the-badge&logo=lightning-bolt&logoColor=white)
 ![Parkour](https://img.shields.io/badge/Parkour-FF4500?style=for-the-badge&logo=running&logoColor=white)
