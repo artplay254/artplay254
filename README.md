@@ -25,7 +25,7 @@ I'm Artem, a high-energy 14-year-old on a relentless grind to become a Full-Stac
 Embarking on my epic migration from Russian winters to Norwegian auroras. Current XP: Mastering web basics. Side quests include Norwegian Duolingo streaks and fjord research. **Next Level Unlock: First MERN project deployed!** Track my progress here—join the adventure?
 
 <div align="center">
-  <img src="https://progress-bar.dev/10/?suffix=Level&color=3B4252&width=300&height=20" alt="Progress Bar" />
+  <img src="https://img.shields.io/badge/progress-10%2525-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMTAwIDIwIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjIwIiBmaWxsPSIjM0I0MjUyIi8+CjxyZWN0IHg9IjAiIHdpZHRoPSIxMCIgaGVpZ2h0PSIyMCIgZmlsbD0iIzY2RURGRiIvPgo8L3N2Zz4K" alt="Progress Bar" />
 </div>
 
 ---
@@ -71,7 +71,7 @@ Kicking off my Full-Stack odyssey with the [roadmap.sh Full Stack Developer path
   - Database Essentials (PostgreSQL)
   - DevOps Intro (AWS & Deployment)
 
-Inspired by my faves: [Stan Browney](https://youtube.com/@Browney) for unbreakable routines, [Magnus Midtbø](https://youtube.com/@magmidt) for Norwegian vibes & challenges, [Sergio Nee](https://youtube.com/SergioNee) for .
+Inspired by my favorites: [Browney](https://www.youtube.com/channel/UC0r_-7jgl1yl0oWzGEJ6o3w) for unbreakable routines, [Magnus Midtbø](https://www.youtube.com/channel/UC_gSotrFVZ_PiAxo3fTQVuQ) for Norwegian vibes & challenges, [Sergio Nee](https://www.youtube.com/channel/UCzz0uvPUFH0uoyK39gRY8kQ) for creative parkour.
 
 **Fun Fact:** My first "app"? A JS timer for cold shower endurance—because why not code your discipline?
 
@@ -92,6 +92,8 @@ Inspired by my faves: [Stan Browney](https://youtube.com/@Browney) for unbreakab
 ## ⏱️ **WakaTime Stats**
 
 <div align="center">
+
+![Total Coding Time](https://img.shields.io/badge/Total%20Coding%20Time-100%2B%20hours-brightgreen?style=for-the-badge&logo=wakatime&logoColor=white)
 
 [![wakatime](https://wakatime.com/badge/github/artplay254.svg)](https://wakatime.com/@artplay254)
 
@@ -123,7 +125,7 @@ Inspired by my faves: [Stan Browney](https://youtube.com/@Browney) for unbreakab
 
 <div align="center">
 
-<p><i>Let's collab on code, challenges, or cold plunges. Open to Norwegian language swaps! ❄️🚀</i></p>
+<p><i>Let's collaborate on code, challenges, or cold plunges. Open to Norwegian language exchanges! ❄️🚀</i></p>
 
 </div>
 
