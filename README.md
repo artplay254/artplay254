@@ -13,6 +13,7 @@ Hi — I’m Artem (artplay254). Energetic. Disciplined. Building toward Fullsta
 
 About Me (TypeScript style)
 
+```ts
 const artem = {
   name: "Artem Semenihin",
   born: "2010-12-07",
@@ -33,7 +34,7 @@ const artem = {
     wakatime: "https://wakatime.com/@artplay254"
   }
 };
-
+```
 
 ---
 
