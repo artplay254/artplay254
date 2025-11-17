@@ -71,7 +71,7 @@ Kicking off my Full-Stack odyssey with the [roadmap.sh Full Stack Developer path
   - Database Essentials (PostgreSQL)
   - DevOps Intro (AWS & Deployment)
 
-Inspired by my faves: [Stan Browney](https://youtube.com/stanbrowney) for unbreakable routines, [Magnus Midtbø](https://youtube.com/magnusmidtbo) for Norwegian vibes & challenges, [Sergio Nee](https://youtube.com/sergonee) for creative parkour.
+Inspired by my faves: [Stan Browney](https://youtube.com/@Browney) for unbreakable routines, [Magnus Midtbø](https://youtube.com/magnusmidtbo) for Norwegian vibes & challenges, [Sergio Nee](https://youtube.com/sergonee) for creative parkour.
 
 **Fun Fact:** My first "app"? A JS timer for cold shower endurance—because why not code your discipline?
 
