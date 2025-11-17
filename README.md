@@ -17,7 +17,7 @@
 Russia → Norway in 2029–2031
 Learning by building real projects. No excuses. No breaks.
 
-ts```
+```ts
 const artem = {
   age: 14,
   location: "Lipetsk, Russia",
