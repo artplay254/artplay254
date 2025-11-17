@@ -12,7 +12,7 @@
 
 ## 🌟 About Me
 
-javascript
+```javascript
 const artem = {
   age: 14,
   location: "Lipetsk, Russia 🇷🇺",
@@ -29,7 +29,8 @@ const artem = {
   },
   currentFocus: "Mastering Web Development Fundamentals",
   inspiration: ["Stan Browney", "Magnus Midtbø", "Sergio Nee"]
-};
+}
+```
 
 ---
 
