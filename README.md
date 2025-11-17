@@ -31,7 +31,8 @@ const artem = {
   philosophy: "Discipline > Motivation",
   routine: "5AM cold shower → workout → code → study → parkour",
   inspirations: ["Stan Browney", "Magnus Midtbø", "Goku", "The Flash"]
-}```
+}
+```
 
 > “Push yourself until your idols become your rivals.”
 
