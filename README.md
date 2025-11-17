@@ -190,4 +190,3 @@ Python       1 min           ░░░░░░░░░░░░░░░░░
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=120&section=footer"/>
   <p><i>Code with the speed of The Flash, train with the spirit of Goku</i></p>
 </div>
-```
