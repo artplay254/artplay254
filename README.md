@@ -31,7 +31,7 @@ const artem = {
   routine: "5:00 AM cold shower → workout → code → parkour → study",
   lifestyle: ["Parkour", "Calisthenics", "Cold Showers", "Daily Challenges"],
   inspiration: ["Stan Browney", "Magnus Midtbø", "Sergio Nee", "Goku", "The Flash"]
-};
+}```
 
 > “Push yourself until your idols become your rivals.”
 
