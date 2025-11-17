@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/Next_Milestone-3+_JavaScript_Projects_(Q1_2025)-81A1C1?style=for-the-badge"/>
   <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge" alt="waka"/>
 </div>
+
 ---
 
 👋 Hi, I’m Artem — 14 y/o self-taught developer
