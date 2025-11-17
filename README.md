@@ -1,28 +1,21 @@
-<!-- Artem's GitHub Profile — Norway Quest: Level 1/10 -->
-<p align="center">
+<!-- Artem's GitHub Profile — Norway Quest: Level 1/10 --><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:5E81AC&height=200&section=header&text=Artem's%20Code%20Dojo&fontSize=60&animation=fadeIn&fontColor=2E3440"/>
-</p>
-
-<p align="center">
+</p><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=88C0D0&center=true&vCenter=true&width=750&lines=14+y%2Fo+self-taught+fullstack+developer;Russia+%E2%86%92+Norway+%F0%9F%87%B3%F0%9F%87%B4;5AM+cold+showers+%F0%9F%A5%B6;Parkour+%E2%86%92+Code;Discipline+%3E+Motivation;Level+Up+Every+Day" />
-</p>
-
-<div align="center">
+</p><div align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/5AM_Cold_Shower_Club-00C2FF?style=for-the-badge&logo=droplet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Norway_Quest_Lv1_%E2%86%92_Lv10-88C0D0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Next_Milestone-3+_JavaScript_Projects_(Q1_2025)-81A1C1?style=for-the-badge"/>
   <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge" alt="waka"/>
 </div>
-
 ---
 
-### 👋 Hi, I’m **Artem** — 14 y/o self-taught developer
+👋 Hi, I’m Artem — 14 y/o self-taught developer
 
-**Russia → Norway** in 2029–2031  
+Russia → Norway in 2029–2031
 Learning by building real projects. No excuses. No breaks.
 
-```ts
 const artem = {
   age: 14,
   location: "Lipetsk, Russia",
@@ -31,7 +24,7 @@ const artem = {
   routine: "5:00 AM cold shower → workout → code → parkour → study",
   lifestyle: ["Parkour", "Calisthenics", "Cold Showers", "Daily Challenges"],
   inspiration: ["Stan Browney", "Magnus Midtbø", "Sergio Nee", "Goku", "The Flash"]
-}```
+};
 
 > “Push yourself until your idols become your rivals.”
 
