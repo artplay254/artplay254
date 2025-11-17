@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=750&lines=14+y.o+Fullstack+Developer+%F0%9F%94%AE;Arch+Linux+%2B+Hyprland+user%20🐧;Grinding+to+Norway+with+my+bro+Vlad%20%F0%9F%87%B3%F0%9F%87%B4;I+code+every+day%2C+read%2C+train%2C+and+build;Cold+showers+at+5AM+%26+never+skip+leg+day;Learning+English+and+Norwegian+at+the+same+time;Motivation+%3E+Motivation;%23NeverStopBuilding"/>
 </p>
 
-```javascript
 const artem = {
   age: 14,
   location: "Lipetsk → soon Norway",
@@ -21,7 +20,7 @@ const artem = {
   dream: "Become a fullstack developer in Norway 🇳🇴",
   motto: "Discipline beats motivation",
 };
-```
+
 
 ---
 
