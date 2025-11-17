@@ -20,7 +20,7 @@ Inspired by Goku’s grind and The Flash’s speed ⚡ I treat every day as a ne
 
 Languages  
 🇷🇺 Russian – Native  
-🇬🇧 English – B2  
+🇺🇸 English – B2  
 🇳🇴 Norwegian – Just started (Hei fra meg!)
 
 Vibe  
