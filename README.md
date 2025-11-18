@@ -138,7 +138,7 @@ inspiration:
 
 <div align="center">
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&display_format=time)](https://wakatime.com/@artplay254)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&display_format=time&theme=nord)](https://wakatime.com/@artplay254)
 
 </div>
 
