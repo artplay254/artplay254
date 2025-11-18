@@ -1,199 +1,129 @@
-# <img src="https://capsule-render.vercel.app/api?type=rounded&color=2F3440&height=120&section=header&text=Artem%20Semenihin&fontSize=36&fontColor=ECEFF4&fontAlignY=38&animation=fadeIn" alt="Artem Semenihin" />
+# Artem Semenihin
 
-<!-- Top Personal Badges -->
-<p align="center">
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Cold Showers" src="https://img.shields.io/badge/5%20AM%20Cold%20Showers-0F1724?style=for-the-badge&logo=thermometer&logoColor=white" />
-  <img alt="WakaTime" src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=81A1C1&center=true&vCenter=true&random=false&width=600&lines=Aspiring+Fullstack+Developer;From+Russia+to+Norway;Experimenter+%26+Growth+Seeker;Powered+by+Arch+Linux" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1200&color=88C0D0&width=680&lines=Quiet+by+nature,+relentless+by+practice;Aspiring+Fullstack+Developer+%7C+Norway+Quest+%7C+Minimalist+%E2%9A%A1" alt="typing svg" />
-</p>
+<div align="center">
 
----
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](https://archlinux.org)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)](https://code.visualstudio.com)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com)
+[![Cold Shower](https://img.shields.io/badge/Cold%20Shower-5AM%20Club-81A1C1?style=flat&logo=shower)](https://example.com)
+[![Disciplined](https://img.shields.io/badge/Disciplined-Growth%20Mindset-5E81AC?style=flat)](https://example.com)
 
-## About Me (in TypeScript style)
-```ts
-const Artem = {
+</div>
+
+## 👋 About Me
+
+```typescript
+const artem = {
   name: "Artem Semenihin",
-  born: "2010-12-07",
-  location: "Lipetsk, Lipetsk Oblast, Russia",
-  vibe: ["energetic", "disciplined", "minimalist", "tech-aesthetic"],
-  aspiration: "Become a Fullstack Developer and move to Norway (2030-2032)",
-  languages: ["Russian (native)", "English (B2)", "Norwegian (learning)"],
-  tools: ["Arch Linux", "VS Code", "git", "github", "Blender", "Arduino"],
-  hobbies: ["parkour","calisthenics","martial arts","volleyball","soccer","basketball","climbing","PC building","photo/video/audio editing","Minecraft builds"],
-  learningStyle: ["freeCodeCamp", "YouTube", "docs", "StackOverflow", "reading"],
+  born: "December 7, 2010",
+  from: "Lipetsk, Russia",
+  personality: "Quiet-loving introvert who thrives on deep conversations and genuine friendships",
+  vibe: ["energetic", "disciplined", "minimalist", "tech-aesthetic", "growth-focused"],
+  fandoms: ["Dragon Ball", "The Flash"],
+  dailyRitual: "Cold showers at 5 AM, coding on Arch Linux, and pushing limits",
+  dislikes: ["TikTok addiction", "fake friends", "anything that dims potential"],
+  motivation: "Turning experiments into expertise – from parkour flips to pixel-perfect code. Dreaming big: Fullstack mastery and a fjord-side life in Norway by 2030.",
+  quote: "In a world of noise, build your quiet empire."
 };
-export default Artem;
 ```
 
-I prefer deep conversations and real friendships over surface noise. I'm quiet by nature but curious and experimental — I try everything once, and keep what works. Right now I'm starting my dev journey (HTML/CSS/JS and web basics) with the long-term goal to become a well-rounded Fullstack developer and move to Norway by 2030–2032. I value discipline, growth, and a minimalist, tech-forward aesthetic.
+I'm a 9th-grader diving headfirst into the world of code, fueled by curiosity and a relentless drive to grow. Born in snowy Lipetsk, I've always chased adventures – whether scaling rocks, scripting Arduino gadgets, or sketching epic Minecraft realms. Coding? It's my latest obsession: blending logic with creativity to craft digital worlds. I learn voraciously via freeCodeCamp, YouTube deep dives, docs that spark "aha!" moments, and Stack Overflow wisdom. No shortcuts, just steady progress.
 
----
+When I'm not debugging, you'll find me calisthenics training, geeking over Dragon Ball battles, or plotting business ideas inspired by tech giants' histories. Life's too short for superficial – I seek real connections, outdoor thrills, and tools that amplify focus (hello, VS Code minimalism).
 
-## Quick Facts
-- Age: born December 7, 2010 (currently navigating school & coding)
-- From: Lipetsk, Russia
-- Current: 9th grade → planning 10–11, then college/university (3–5 years)
-- Norway Quest: Level 1 / 10 (first steps taken)
-- Daily drivers: Arch Linux, VS Code, git, GitHub
-- Favorite creators: Stan Browney, Magnus Midtbø, Sergio Nee
-- Fandoms: Dragon Ball, The Flash
+> "Discipline is choosing between what you want now and what you want most." – Inspired by Stan Browney
 
----
+## 🌍 Norway Quest: Level 1/10
 
-## Languages & Tools
-A curated set of tools I use, experiment with, or plan to master.
+<div align="center">
+  <img src="https://progress-bar.dev/10?color=81A1C1&suffix=/" alt="Progress Bar" />
+  <br>
+  <small>Started: Nov 2025 | Target: Fullstack Pro in Norway by 2030-2032</small>
+  <br>
+  <em>From Russian winters to Nordic code fjords – one commit at a time.</em>
+</div>
 
-<p align="left">
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+- **Phase 1 (Now - 2026)**: Master web basics (HTML/CSS/JS). Finish 9th grade strong.
+- **Phase 2 (2026-2027)**: Dive into frontend frameworks, start 10th grade projects.
+- **Phase 3 (2027-2028)**: Backend & databases, 11th grade hacks.
+- **Phase 4 (2028-2030)**: Fullstack builds, university apps, Norwegian fluency.
+- **Phase 5 (2030+)**: Internships, relocation – Level Up!
 
----
+Inspired by the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack). Currently crushing: Internet fundamentals → HTML/CSS/JS → Git mastery.
 
-## Current Goals / Journey
-My path is a mix of structured learning and hands-on experiments. I follow the Fullstack roadmap and adapt it to a student schedule.
+## 🛠️ Languages & Tools
 
-- Short-term (0–6 months)
-  - Finish web basics: HTML, CSS, JavaScript fundamentals
-  - Build small projects: personal site, simple game, mini-portfolio
-  - Daily habit: 30–60 mins coding + WakaTime tracker
+<div align="center">
 
-- Mid-term (6–36 months)
-  - Learn Node.js, databases (Postgres / MongoDB), REST & GraphQL
-  - Start backend projects and deploy simple fullstack apps
-  - Learn React + state management, testing basics
-  - Participate in small team projects / collab with my bro (github.com/vlp0werr)
+### Languages
+![Russian](https://img.shields.io/badge/Russian-Native-D08770?style=flat&logo=flag&logoColor=fff)
+![English](https://img.shields.io/badge/English-B2-ECEFF4?style=flat&logo=globe&logoColor=000)
+![Norwegian](https://img.shields.io/badge/Norwegian-Beginner-5E81AC?style=flat&logo=norway&logoColor=fff)
 
-- Long-term (3–7 years)
-  - Deepen systems design, scalability basics, and advanced front-end
-  - Apply to universities / colleges aligned with CS & software engineering
-  - Move to Norway around 2030–2032 — language + cultural prep included
+### Core Stack
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)
 
-Roadmap reference: https://roadmap.sh/full-stack
+### Daily Drivers
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff)
 
-Norway Quest: Level 1/10
-[Progress] █▁▁▁▁▁▁▁▁▁ (starting steps: basics, consistency, Norwegian learning)
+### Experiments
+- **Creative**: Blender (3D modeling), GIMP (photo editing), Kdenlive (video), Audacity (audio)
+- **Hardware**: Arduino tinkering, PC building
+- **Physical**: Parkour, calisthenics, martial arts, volleyball/soccer/basketball, climbing
+- **Other**: Linux distros, business planning, Minecraft architecture
 
----
+</div>
 
-## How I Learn
-- Active practice: build small things, then iterate
-- Track time: WakaTime + weekly reflection
-- Consume: freeCodeCamp, YouTube playlists, documentation
-- Community: reading StackOverflow, following focused creators, asking thoughtful questions
-- Mindset: disciplined schedule, cold showers & morning routine to stay sharp
+## 🚀 Current Journey
 
----
+Just sparked my coding flame in late 2025 – zero to hero vibes! Grinding through web basics on freeCodeCamp, devouring YouTube tutorials (shoutout to Traversy Media), and cross-referencing docs/Stack Overflow for that perfect solution. Next up: Interactive JS projects, then React for frontend flair.
 
-## Projects & Experiments
-- Minecraft builds — creative problem-solving & architecture
-- Blender experiments — modeling + renders for portfolio pieces
-- Arduino prototypes — small I/O projects to connect hardware and software
-- Media editing — photo/video/audio edits for learning tools and storytelling
-- PC builds, Linux tinkering — systems-level understanding & optimization
+Learning philosophy: Experiment boldly, fail fast, iterate. From Arduino LEDs to responsive sites, every try levels me up.
 
-I love making small projects that teach a concept end-to-end — I learn fast when I ship something.
+**Shoutout to my bro [@vlp0werr](https://github.com/vlp0werr)** – kindergarten comrades, shared dreams. We're syncing code sessions, chasing the same Norwegian horizon. Teamwork makes the dream work! 💪
 
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=81A1C1&text_color=ECEFF4&icon_color=81A1C1" alt="GitHub Stats" />
+</div>
 
-## GitHub Stats
-<p align="left">
-  <img alt="Artem's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nightowl&count_private=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=nightowl" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=nord&hide_border=true&background=2E3440&stroke=81A1C1&ring=5E81AC&fire=81A1C1&currStreakLabel=ECEFF4" alt="Streak Stats" />
+</div>
 
-(Theme follows a cool, minimal Nord-like palette — fast to load and readable on mobile.)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=81A1C1&text_color=ECEFF4" alt="Top Languages" />
+</div>
 
----
+## 📊 WakaTime Stats
 
-## WakaTime
-- Live coding time badge:  
-  <a href="https://wakatime.com/@artplay254" target="_blank">
-    <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" alt="WakaTime Badge"/>
-  </a>
+<div align="center">
+  <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" alt="WakaTime Badge" />
+</div>
 
-I log practice time to keep momentum. Small daily steps win.
+## 📬 Let's Connect
 
----
+I'm all about meaningful collabs – deep tech talks, project jams, or growth hacks. Join the vibe!
 
-## Learning Roadmap Snapshot (Fullstack)
-A trimmed checklist inspired by roadmap.sh/full-stack — these are my immediate pathway checkpoints.
+<div align="center">
 
-Frontend
-- [x] HTML basics
-- [x] CSS basics
-- [x] JS fundamentals
-- [ ] DOM manipulation
-- [ ] Modern frameworks (React/Vue)
-- [ ] State management, testing, accessibility
+[![Discord](https://img.shields.io/badge/Discord-Community-5865F2?logo=discord&logoColor=fff)](https://discord.gg/DwrxkdJdUC)
+[![Telegram](https://img.shields.io/badge/Telegram-artplay254-0088CC?logo=telegram&logoColor=fff)](https://t.me/artplay254)
+[![Email](https://img.shields.io/badge/Email-artplay254@gmail.com-D08770?logo=gmail&logoColor=fff)](mailto:artplay254@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-artplay254-181717?logo=github&logoColor=fff)](https://github.com/artplay254)
 
-Backend
-- [ ] Node.js & Express
-- [ ] Databases (SQL/NoSQL)
-- [ ] Auth & Security
-- [ ] APIs (REST / GraphQL)
+</div>
 
-DevOps & Production
-- [ ] Git & CI/CD
-- [ ] Docker basics
-- [ ] Deploy to cloud / VPS
-- [ ] Monitoring & optimization
+<div align="center">
+  <small>Made with ❤️ on Arch Linux | Inspired by Nordic minimalism</small>
+</div>
 
-Soft Skills
-- [ ] Open-source contribution
-- [ ] Team collaboration
-- [ ] Technical communication & docs
-
----
-
-## Socials & Contact
-- Discord (community): https://discord.gg/DwrxkdJdUC
-- Telegram: t.me/artplay254
-- Email: artplay254@gmail.com
-- GitHub: https://github.com/artplay254
-- WakaTime: https://wakatime.com/@artplay254
-
-If you want to hang out in a low-noise community around growth, tech, and discipline — the Discord is open.
-
----
-
-## A Note About My Bro
-Shoutout to my friend and partner-in-crime since kindergarten: https://github.com/vlp0werr — we share the same goal and push each other forward. Teamwork matters.
-
----
-
-## Values & Non-Negotiables
-I avoid platforms and behaviors that promote addiction or fake interactions:
-- Not into TikTok and social media addiction
-- I value real friendships and deep conversations
-- I avoid lust for instant validation; I focus on long-term compounding growth
-
----
-
-## Minimal, Fast, Accessible
-This README is intentionally light on heavy assets. Images and badges are optimized for fast load on mobile and desktop, and the layout maintains readability in narrow viewports. Fonts and colors follow a Nord-inspired minimalist aesthetic.
-
----
-
-If you landed here and share similar values — say hi. I respond better to thoughtful messages than to noise. Let's build, experiment, and grow.
-
-— Artem Semenihin (artplay254)
-
-<footer>
-  <sub style="color:#94A3B8">Made with discipline, curiosity, and a cold shower.</sub>
-</footer>
+<!-- Line count: ~220 -->
