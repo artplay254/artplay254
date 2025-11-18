@@ -1,174 +1,141 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/?type=wave&amp;color=2E3440,88C0D0&amp;height=140&amp;section=header&amp;text=Artem%20Semenihin%20%7C%20artplay254&amp;fontSize=30&amp;animation=twinkle" alt="Artem header"/>
-</p><p align="center">
-  <img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/>
-  <img alt="Hyprland" src="https://img.shields.io/badge/-Hyprland-222222?logo=wayland&logoColor=88C0D0&style=for-the-badge"/>
-  <img alt="Cold showers" src="https://img.shields.io/badge/Cold%20Showers-5AM-64B5F6?style=for-the-badge&logo=thermometer"/>
-  <img alt="WakaTime" src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" style="height:28px"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge"/>
-  <img alt="Nord Theme" src="https://img.shields.io/badge/Theme-Nord-88C0D0?style=for-the-badge&logo=visual-studio-code"/>
-</p>
----
+<!-- Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Artem%20Semenihin&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header"/>
+</div>
+
+<!-- Personal Badges Row -->
+<div align="center">
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=flat-square&logo=arch-linux&logoColor=white)
+![5AM Cold Showers](https://img.shields.io/badge/Discipline-5AM%20Cold%20Showers-88C0D0?style=flat-square)
+![WakaTime Total](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=flat-square)
+![Early Riser](https://img.shields.io/badge/Lifestyle-Early%20Riser%20%7C%20No%20TikTok-81A1C1?style=flat-square)
+![Norway Dream](https://img.shields.io/badge/Quest-Norway%20or%20Bust-5E81AC?style=flat-square)
+
+</div>
+
+<!-- About Me in TypeScript style -->
+```typescript
+// artem.ts
+class Artem extends Human {
+  name = "Artem Semenihin";
+  age = 14; // born 07.12.2010
+  from = "Lipetsk, Russia";
+  personality = ["quiet introvert", "deep conversations only", "real friendships > fake followers"];
+  energy = "high when focused, calm when creating";
+  os = "Arch Linux btw";
+  editor = "VS Code";
+  
+  loves = [
+    "experimenting", "Blender", "parkour", "calisthenics", "climbing",
+    "building insane Minecraft creations", "cold showers", "Linux ricing",
+    "Dragon Ball", "The Flash", "Magnus Midtbø", "Browney", "business history"
+  ];
+  
+  hates = ["TikTok", "social media addiction", "fake people", "lust", "distractions"];
+  
+  languages = {
+    russian: "Native",
+    english: "B2",
+    norwegian: "just started – hei på deg!"
+  };
+  
+  dream() {
+    return "Fullstack Developer → Move to Norway → Build things that matter";
+  }
+}
+
+const me = new Artem();
+console.log(me.dream());
+```
+
+> **Discipline. Growth. Real connections.**  
+> 14-year-old building the future one commit at a time.
+
+<br>
+
+<!-- Norway Quest -->
+### 🇳🇴 Norway Quest – Level 2 / 10
+```mermaid
+graph LR
+    A[Level 1: Started Norwegian] --> B[Level 2: Web Dev Basics]
+    B --> C[Level 3: First Job/Freelance]
+    C --> D[Level 10: Living in Norway 🏔️]
+    style A fill:#A3BE8C,stroke:#A3BE8C
+    style B fill:#A3BE8C,stroke:#A3BE8C
+    style C fill:#3B4252
+    style D fill:#3B4252
+```
+
+<br>
+
+### 👨🏻‍💻 Languages & Tools
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</div>
+
+**Learning path:** Following [roadmap.sh/full-stack](https://roadmap.sh/full-stack)  
+**Next milestones:** Node.js → React → TypeScript → Backend (Node/Express or Go)
+
+<br>
+
+### 🚀 Current Journey
+- Mastering HTML / CSS / JS (freecodecamp + YouTube + docs)
+- Building real projects (portfolio, tools, Discord bots)
+- Daily coding streak since 2024
+- Learning by doing – no tutorials without shipping something
+
+**Bro since kindergarten:** [@vlp0werr](https://github.com/vlp0werr) – same mission, same grind 💪
+
+<br>
 
-### 👋 Hi — I'm Artem Semenihin (artplay254)
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artplay254&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&theme=nord&hide_border=true&layout=compact&langs_count=8"/>
+</div>
 
-> Quiet-loving introvert. Energetic discipline. Minimalist tech aesthetic.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=nord&hide_border=true"/>
+</div>
 
+<br>
 
+### ⏰ WakaTime – Proof of Grind
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&theme=nord&hide_border=true&layout=compact"/>
+</div>
 
-// About (TypeScript style)
-const Artem = {
-  name: "Artem Semenihin",
-  born: "2010-12-07",
-  from: "Lipetsk, Russia",
-  goals: ["Become a Fullstack Developer", "Move to Norway"],
-  vibe: ["energetic", "disciplined", "minimalist", "growth-focused"],
-  tools: ["Arch Linux", "VS Code", "git", "GitHub"],
-  learning: ["HTML", "CSS", "JavaScript", "Full Stack roadmap"],
-  motto: "Experiment, build, improve — every day."
-};
+<br>
 
-I value deep conversations and real friendships. I love experimenting — Blender, Arduino, photo/video/audio editing, coding, climbing, parkour, calisthenics, building PCs, and cold showers at 5 AM. I avoid social media addiction, fake friends, and anything that lowers the quality of life.
+### 🤝 Connect With Me
+<div align="center">
 
-My favorite creators that inspire my craft: Stan Browney, Magnus Midtbø, Sergio Nee.
+[![Discord Community](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DwrxkdJdUC)
+[![Telegram](https://img.shields.io/badge/Telegram-@artplay254-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artplay254)
+[![Email](https://img.shields.io/badge/Email-artplay254@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artplay254@gmail.com)
 
+</div>
 
----
+<br>
 
-🎯 Norway Quest — Level 1 / 10
+<div align="center">
+  <i>No noise. Just building.</i><br>
+  <img src="https://komarev.com/ghpvc/?username=artplay254&color=88C0D0&style=flat-square&label=Profile+Views" alt="views"/>
+</div>
 
-Progress tracker for the dream to move to Norway and become a fullstack dev.
-
-
-
-
----
-
-🧭 Current Goals / Journey
-
-Follow the Full Stack Developer roadmap — learning frontend basics now (HTML/CSS/JS).
-
-Build small projects every month: portfolio pages, interactive widgets, small web apps.
-
-Improve English (B2 → fluent) and Norwegian (A1 → more).
-
-Contribute to open source and share learning progress.
-
-Build a portfolio geared for a remote/fullstack role in Norway.
-
-
-Roadmap reference: https://roadmap.sh/full-stack
-
-
----
-
-🛠️ Languages & Tools
-
-Daily: Arch Linux · VS Code · git · GitHub · terminal
-Frontend: HTML · CSS · JavaScript · React (learning)
-Backend: Node.js basics · reading about databases (Postgres)
-Other: Blender · Arduino · Linux tooling · PC building · GitHub Actions
-
-/* Short visual list (Nord style) */
-- 🐧 Arch Linux
-- 💻 VS Code
-- 🌐 HTML · CSS · JS
-- 🔁 git · GitHub
-- 🧰 Blender · Arduino
-- 🧭 Roadmap: Full Stack
-
-Badges (clickable):  
-
-
----
-
-📈 GitHub — Live Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&title_color=88C0D0&icon_color=81A1C1" alt="Artem's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=gruvbox&hide_border=true" alt="Top langs" />
-</p>> WakaTime: daily coding habit tracker — My WakaTime Badge
-
-
-
-
----
-
-🔭 How I Learn & Build
-
-FreeCodeCamp for guided projects and exercises.
-
-YouTube tutorials and deep dives (Stan Browney, Magnus Midtbø, Sergio Nee).
-
-Docs & StackOverflow for practical problem solving.
-
-Daily hands-on: small projects, experiments, and incremental improvements.
-
-
-
----
-
-🧩 Project & Learning Ideas (mini-plan)
-
-Mini portfolio v1 — static HTML/CSS site, responsive.
-
-Interactive CV — small React app with night-mode / Nord theme.
-
-Climbing log / workout tracker — Node + static frontend + simple DB.
-
-Blender mini-scene gallery — exported screenshots + interactive webpage.
-
-Arduino starter kit projects — sensors, leds, small controllers.
-
-
-
----
-
-🤝 Community & Contact
-
-I like real connections — if you share the same mindset (growth, discipline, experiments), let's build and learn together.
-
-Discord (community server): https://discord.gg/DwrxkdJdUC
-
-Telegram: artplay254
-
-Email: artplay254@gmail.com
-
-GitHub: https://github.com/artplay254
-
-WakaTime profile: https://wakatime.com/@artplay254
-
-
-
----
-
-🧑‍🤝‍🧑 About my bro
-
-Shoutout to my bro since kindergarten: vlp0werr — same dream, same grind. We learn and build together.
-
-
----
-
-🎮 Fun / Fandom / Lifestyle
-
-Fandoms: Dragon Ball, The Flash
-
-Sports & movement: parkour, climbing, calisthenics, volleyball, soccer, basketball, martial arts
-
-Lifestyle: early mornings, cold showers at 5 AM, minimal distraction, outside adventures
-
-
-
----
-
-✨ Aesthetic footer (Nord)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/?type=rounded&color=2E3440,81A1C1&height=80&section=footer&text=Keep+building+%E2%9C%8C%F0%9F%8C%8D&fontSize=14" alt="footer" />
-</p>
----
-
-<p align="center" style="opacity:0.8">
-  Built with discipline, curiosity, and a terminal.  
-  <sub style="color:#88C0D0">Minimal. Focused. Nordic vibes.</sub>
-</p>
+<!-- Footer wave -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer"/>
+</div>
