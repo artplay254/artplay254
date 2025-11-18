@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Artem Semenihin
+# Hey there 👋, I'm Artem Semenihin
 
 **Aspiring Fullstack Developer** | 9th Grade Student | Russia 🇷🇺 → Norway 🇳🇴
 
