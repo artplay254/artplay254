@@ -95,8 +95,6 @@ Final Goal: Move to Norway (2030-2032)
 
 ## 🚀 Current Journey
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9" alt="GitHub Stats"/>
-
 ### 🎓 Learning Right Now
 - 📝 **HTML** - Building solid foundations
 - 🎨 **CSS** - Making things beautiful
