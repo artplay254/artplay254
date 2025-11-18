@@ -1,141 +1,112 @@
-<!-- Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,2,6,0&section=header&text=Artem%20Semenihin&fontSize=80&fontAlignY=38&fontColor=eceff4&animation=fadeIn" />
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Artem%20Semenihin&fontSize=90&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header"/>
+  <img src="https://komarev.com/ghpvc/?username=artplay254&label=Profile%20views&color=81a1c1&style=flat-square" />
+  
+  <br/><br/>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=88C0D0&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Fullstack+Developer+in+the+making;Russia+%E2%86%92+Norway;Disciplined+%7C+Energetic+%7C+Minimalist" alt="Typing SVG" />
+  
+  <br/>
+  
+  <!-- Personal badges -->
+  <img src="https://img.shields.io/badge/I%20use%20Arch%20btw-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch btw" />
+  <img src="https://img.shields.io/badge/5AM%20Cold%20Showers-Discipline-81A1C1?style=for-the-badge&logoColor=eceff4" alt="Cold showers" />
+  <img src="https://img.shields.io/badge/Early%20Riser-Energy-88C0D0?style=for-the-badge&logoColor=eceff4" alt="Early riser" />
+  <img src="https://img.shields.io/badge/Growth%20Mindset-Focused-8FBCBB?style=for-the-badge&logoColor=2e3440" alt="Growth" />
+  <a href="https://wakatime.com/@artplay254">
+    <img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg" alt="WakaTime" />
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=artplay254&theme=nord&no-frame=true&row=1&column=7&margin-w=15" />
 </div>
 
-<!-- Personal Badges Row -->
-<div align="center">
+<br/>
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=flat-square&logo=arch-linux&logoColor=white)
-![5AM Cold Showers](https://img.shields.io/badge/Discipline-5AM%20Cold%20Showers-88C0D0?style=flat-square)
-![WakaTime Total](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=flat-square)
-![Early Riser](https://img.shields.io/badge/Lifestyle-Early%20Riser%20%7C%20No%20TikTok-81A1C1?style=flat-square)
-![Norway Dream](https://img.shields.io/badge/Quest-Norway%20or%20Bust-5E81AC?style=flat-square)
-
-</div>
-
-<!-- About Me in TypeScript style -->
+### 👨‍💻 About Me
 ```typescript
-// artem.ts
-class Artem extends Human {
-  name = "Artem Semenihin";
-  age = 14; // born 07.12.2010
-  from = "Lipetsk, Russia";
-  personality = ["quiet introvert", "deep conversations only", "real friendships > fake followers"];
-  energy = "high when focused, calm when creating";
-  os = "Arch Linux btw";
-  editor = "VS Code";
-  
-  loves = [
-    "experimenting", "Blender", "parkour", "calisthenics", "climbing",
-    "building insane Minecraft creations", "cold showers", "Linux ricing",
-    "Dragon Ball", "The Flash", "Magnus Midtbø", "Browney", "business history"
-  ];
-  
-  hates = ["TikTok", "social media addiction", "fake people", "lust", "distractions"];
-  
-  languages = {
-    russian: "Native",
-    english: "B2",
-    norwegian: "just started – hei på deg!"
-  };
-  
-  dream() {
-    return "Fullstack Developer → Move to Norway → Build things that matter";
-  }
-}
+const artem = {
+  pronouns: "he" | "him",
+  age: 14,
+  from: "Lipetsk, Russia",
+  aspiration: "Fullstack Developer • Move to Norway",
+  personality: "Quiet-loving introvert • Deep conversations • Real friendships",
+  mindset: "Disciplined • Energetic • Minimalist • Growth-obsessed",
+  dailyRitual: ["5AM wake-up", "Cold shower", "Workout", "Code"],
+  avoids: ["TikTok", "Social media addiction", "Fake connections"],
+  funFact: "Coding since ~12, already on Arch + cold showers every morning"
+};
 
-const me = new Artem();
-console.log(me.dream());
+console.log("Leveling up, one rep and one line of code at a time 🚀");
 ```
 
-> **Discipline. Growth. Real connections.**  
-> 14-year-old building the future one commit at a time.
+I’m a 14-year-old self-taught developer who believes real strength comes from discipline, real connections, and constant experimentation.  
+I love pushing limits — whether it’s a new calisthenics move, a Blender project, an Arduino circuit, or a clean React component.  
+Code, climb, create, repeat. Norway is the endgame.
 
-<br>
+Coding side-by-side with my kindergarten brother [vlp0werr](https://github.com/vlp0werr) — same dream, same grind 💪
 
-<!-- Norway Quest -->
-### 🇳🇴 Norway Quest – Level 2 / 10
-```mermaid
-graph LR
-    A[Level 1: Started Norwegian] --> B[Level 2: Web Dev Basics]
-    B --> C[Level 3: First Job/Freelance]
-    C --> D[Level 10: Living in Norway 🏔️]
-    style A fill:#A3BE8C,stroke:#A3BE8C
-    style B fill:#A3BE8C,stroke:#A3BE8C
-    style C fill:#3B4252
-    style D fill:#3B4252
-```
+<br/>
 
-<br>
-
-### 👨🏻‍💻 Languages & Tools
+### 🗺️ Norway Quest (Current Level 1.8 / 10)
 <div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
+  <img src="https://progress-bar.dev/18/?scale=10&title=Norway%20Quest%20&width=400&color=88C0D0" /><br/>
+  <small>Learning Norwegian • Building portfolio • Mastering full-stack • Staying disciplined</small>
 </div>
 
-**Learning path:** Following [roadmap.sh/full-stack](https://roadmap.sh/full-stack)  
-**Next milestones:** Node.js → React → TypeScript → Backend (Node/Express or Go)
+<br/>
 
-<br>
-
-### 🚀 Current Journey
-- Mastering HTML / CSS / JS (freecodecamp + YouTube + docs)
-- Building real projects (portfolio, tools, Discord bots)
-- Daily coding streak since 2024
-- Learning by doing – no tutorials without shipping something
-
-**Bro since kindergarten:** [@vlp0werr](https://github.com/vlp0werr) – same mission, same grind 💪
-
-<br>
-
-### 📊 GitHub Stats
+### 🛠️ Languages & Tools I Use Daily
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artplay254&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&theme=nord&hide_border=true&layout=compact&langs_count=8"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,git,github,vscode,linux,blender,arduino&perline=8&theme=dark" />
+</div>
+
+<br/>
+
+### 🚀 Current Journey (following [roadmap.sh/full-stack](https://roadmap.sh/full-stack))
+- ✅ HTML & CSS mastery  
+- ✅ JavaScript fundamentals  
+- 🔄 Advanced JavaScript + TypeScript  
+- 🔜 React → Node.js → Databases → Full projects  
+- Long-term: Clean architecture, system design, open-source contributions, and life in Norway
+
+<br/>
+
+### 📊 GitHub Stats (Nord theme because aesthetics matter)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nord&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=nord&hide_border=true" />
+  <br/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=nord&hide_border=true" />
+</div>
+
+<br/>
+
+### ⏰ WakaTime (real coding hours)
+<div align="center">
+  <img src="https://wakatime.com/share/@artplay254/9c7e7f3f-5d3e-4e3b-9c18-1e5d8f8f8f8f.svg" width="400" />
+  <img src="https://wakatime.com/share/@artplay254/2e7d7f3f-5d3e-4e3b-9c18-1e5d8f8f8f8f.svg" width="400" />
+</div>
+
+<br/>
+
+### 📫 Let's Connect (real conversations only)
+<div align="center">
+  <a href="https://discord.gg/DwrxkdJdUC">
+    <img src="https://img.shields.io/badge/Discord%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://t.me/artplay254">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:artplay254@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=nord&hide_border=true"/>
+  <i>"The body achieves what the mind believes. The code works when the mind is disciplined."</i>
 </div>
 
-<br>
-
-### ⏰ WakaTime – Proof of Grind
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&theme=nord&hide_border=true&layout=compact"/>
-</div>
-
-<br>
-
-### 🤝 Connect With Me
-<div align="center">
-
-[![Discord Community](https://img.shields.io/badge/Discord-Community-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DwrxkdJdUC)
-[![Telegram](https://img.shields.io/badge/Telegram-@artplay254-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artplay254)
-[![Email](https://img.shields.io/badge/Email-artplay254@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artplay254@gmail.com)
-
-</div>
-
-<br>
-
-<div align="center">
-  <i>No noise. Just building.</i><br>
-  <img src="https://komarev.com/ghpvc/?username=artplay254&color=88C0D0&style=flat-square&label=Profile+Views" alt="views"/>
-</div>
-
-<!-- Footer wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=12,2,6,0&section=footer" />
