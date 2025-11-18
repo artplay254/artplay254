@@ -49,6 +49,8 @@ const Artem = {
     dream: "Become a Fullstack Developer and move to Norway by 2030"
 };
 
+```
+
 <h3 align="center">🏔️ Norway Quest: Level 1/10</h3>
 <div align="center">
 <i>"The journey of a thousand miles begins with a single step."</i>
