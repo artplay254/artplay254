@@ -75,15 +75,13 @@ My best friend [@vlp0werr](https://github.com/vlp0werr) has been with me since k
 
 ## 🎯 Norway Quest: Journey to the North
 
-<div align="center">
+```
 [████░░░░░░░░░░░░░░░░] Level 1/10
 
 Current Stage: Foundation Building (2024-2025)
-<br>
 Next Milestone: Master Web Development Fundamentals
-<br>
 Final Goal: Move to Norway (2030-2032)
-</div>
+```
 
 **The Plan:**
 - **2024-2025**: Finish 9th grade | Learn web development basics
@@ -96,6 +94,8 @@ Final Goal: Move to Norway (2030-2032)
 <br>
 
 ## 🚀 Current Journey
+
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9" alt="GitHub Stats"/>
 
 ### 🎓 Learning Right Now
 - 📝 **HTML** - Building solid foundations
@@ -207,8 +207,8 @@ I'm not just about code — I believe in **holistic growth**. Here's what else I
 <div align="center">
 
 ### YouTube Channels I Follow
-[![Stan Browney](https://img.shields.io/badge/Stan_Browney-Calisthenics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Browney)
-[![Magnus Midtbø](https://img.shields.io/badge/Magnus_Midtbø-Climbing-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@magmidt)
+[![Stan Browney](https://img.shields.io/badge/Stan_Browney-Calisthenics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@StanBrowney)
+[![Magnus Midtbø](https://img.shields.io/badge/Magnus_Midtbø-Climbing-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MagnusMidtbø)
 [![Sergio Nee](https://img.shields.io/badge/Sergio_Nee-Growth-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SergioNee)
 
 ### Fandoms
