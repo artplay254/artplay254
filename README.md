@@ -160,11 +160,17 @@ Current Phase: Building Foundations
 
 ```
 📚 Learning Sources: freeCodeCamp, YouTube, Docs, Stack Overflow, X
+
 🎮 Fandoms: Dragon Ball ⚡ | The Flash ⚡
+
 🏋️ Physical: Calisthenics | Parkour | Martial Arts | Climbing
+
 🎨 Creative: Blender | Photo/Video/Audio Editing
+
 🧊 Discipline: 5 AM cold showers | Daily workouts
+
 🎯 Philosophy: Minimalist | Growth-focused | Real > Fake
+
 ```
 
 **Inspiration:** Stan Browney, Magnus Midtbø, Sergio Nee
