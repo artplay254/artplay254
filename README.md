@@ -138,7 +138,7 @@ inspiration:
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg)](https://wakatime.com/@artplay254)
+[![wakatime](https://wakatime.com/share/@artplay254/d85b8c45-7e67-4f59-b5c3-0b6c8d5f9c4e.svg)](https://wakatime.com/@artplay254)
 
 </div>
 
