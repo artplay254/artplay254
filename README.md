@@ -1,262 +1,250 @@
-<div align="center">
+<!-- title -->
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,50:88C0D0,100:81A1C1&height=200&section=header&text=Artem%20Semenihin&fontSize=50&fontColor=ECEFF4&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Norway%20Dreamer%20%7C%20Arch%20Evangelist&descAlignY=55&descSize=18)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&repeat=true&width=600&lines=Building+the+web%2C+one+commit+at+a+time;Cold+showers+%40+5am+%E2%9D%84%EF%B8%8F;Arch+Linux+btw+%F0%9F%90%A7;Dreaming+in+TypeScript+%F0%9F%92%99;Norway+bound+%F0%9F%87%B3%F0%9F%87%B4" alt="Typing SVG" />
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=ECEFF4&labelColor=2E3440)
-![Cold Showers](https://img.shields.io/badge/Cold_Showers-5AM_%E2%9D%84%EF%B8%8F-88C0D0?style=for-the-badge&logoColor=ECEFF4&labelColor=2E3440)
-![Parkour](https://img.shields.io/badge/Parkour-Athlete_%F0%9F%A4%B8-A3BE8C?style=for-the-badge&logoColor=ECEFF4&labelColor=2E3440)
-![Norway Dreamer](https://img.shields.io/badge/Norway-Dreamer_%F0%9F%87%B3%F0%9F%87%B4-5E81AC?style=for-the-badge&logoColor=ECEFF4&labelColor=2E3440)
-![Dragon Ball Fan](https://img.shields.io/badge/Dragon_Ball-Fan_%F0%9F%90%89-D08770?style=for-the-badge&logoColor=ECEFF4&labelColor=2E3440)
-
-[![wakatime](https://wakatime.com/badge/user/018d2c0b-e6ef-4c33-bc6e-17d03cb0c48a.svg?style=for-the-badge&color=5E81AC&labelColor=2E3440)](https://wakatime.com/@artplay254)
-
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=2D3440,88C0D0&height=140&section=header&text=Artem%20Semenihin%20%7C%20Fullstack%20Quest&fontSize=40&fontColor=ECEFF4" alt="Artem - header"/>
+</p><p align="center">
+  <!-- Top badges -->
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img alt="5am Cold Showers" src="https://img.shields.io/badge/5AM%20Cold%20Showers-0ABAB5?style=for-the-badge" />
+  <img alt="Daily: Linux · VS Code · Git · GitHub" src="https://img.shields.io/badge/Daily%20Tools-%F0%9F%92%BB%20Linux%20%7C%20VS%20Code%20%7C%20Git%20%7C%20GitHub-4C566A?style=for-the-badge" />
+  <img alt="Wakatime" src="https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&layout=compact&theme=nord" />
+</p>
 ---
 
-## 👨‍💻 `$ whoami`
+👋 About Me — (in TypeScript style)
 
-```typescript
-const artem = {
+const Artem = {
   name: "Artem Semenihin",
-  birthdate: new Date("2010-12-07"),
-  location: "Lipetsk, Russia 🇷🇺",
-  destination: "Norway 🇳🇴",
-  age: () => Math.floor((Date.now() - artem.birthdate) / 31557600000),
-  
-  roles: ["Aspiring Fullstack Developer", "Arch Linux Enthusiast", "Parkour Athlete"],
-  
-  languages: {
-    spoken: ["Russian (Native)", "English (B2)", "Norwegian (Beginner)"],
-    programming: ["HTML", "CSS", "JavaScript", "Learning TypeScript"]
+  from: "Lipetsk, Lipetsk Oblast, Russia",
+  born: "2010-12-07",
+  vibe: ["energetic", "disciplined", "minimalist", "tech-aesthetic"],
+  stacks: {
+    daily: ["linux", "vscode", "git", "github"],
+    learning: ["HTML", "CSS", "JavaScript", "web basics"],
+    curious: ["C++", "fullstack", "system-level thinking"]
   },
-  
-  lifestyle: {
-    morningRoutine: ["Cold shower @ 5AM ❄️", "Workout 💪", "Code 💻"],
-    interests: ["Coding", "Sports", "Parkour", "Gym", "Challenges"],
-    fandoms: ["Dragon Ball 🐉", "The Flash ⚡"]
-  },
-  
-  tech: {
-    os: "Arch Linux btw 🐧",
-    editor: "VS Code",
-    vcs: "Git & GitHub",
-    inspiration: ["Stan Browney", "Magnus Midtbø", "Sergio Nee"]
-  },
-  
-  currentFocus: "Mastering Fullstack Development",
-  dream: "Build amazing web apps & relocate to Norway",
-  
-  philosophy: "Discipline > Motivation. Growth > Comfort."
+  goals: [
+    "Become a Fullstack Developer",
+    "Move to Norway",
+    "Ship clean, minimal, useful projects"
+  ]
 };
+export default Artem;
 
-export default artem;
-```
+> Focused on growth, movement, and craft — I train body & mind (parkour, workouts, cold showers at 5 am) and build code with the same discipline. I love minimal aesthetic interfaces, clean architecture, and learning-by-doing.
 
----
 
-## 🎯 Norway Quest Progress
 
-<div align="center">
-
-### 🇳🇴 **Level 1/10: Foundation Building**
-
-███░░░░░░░░░░░░░░░░░░░ 10% Complete
-`
-
-| Milestone | Status | Description |
-|-----------|--------|-------------|
-|Learning Norwegianan** | 🟢 In Progress | Duolingo, textbooks, immersion |
-|Fullstack Skillsls** | 🟢 In Progress | HTML, CSS, JS → React, Node.js |
-|Portfolio Buildingng** | 🟡 Planning | Creating showcase projects |
-|University Researchch** | 🔴 To Do | Exploring CS programs in Norway |
-|Open Source Contribib** | 🔴 To Do | Building GitHub presenceQuest Objective:e:** Master Fullstack Development → Build Portfolio → Learn Norwegian → Move to NorwaCurrent XP:P:** Grinding web fundamentals daily ⚡
-
-</div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+🚀 Quick Links
 
-<div align="center">
+GitHub: https://github.com/artplay254
 
-Daily Driversrs**
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=ECEFF4&labelColor=2E3440)
-![VS Code](https://img.shields.io/badge/VS_Code-5E81AC?style=for-the-badge&logo=visual-studio-code&logoColor=ECEFF4&labelColor=2E3440)
-![Git](https://img.shields.io/badge/Git-BF616A?style=for-the-badge&logo=git&logoColor=ECEFF4&labelColor=2E3440)
-![GitHub](https://img.shields.io/badge/GitHub-88C0D0?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=2E3440)
+Email: artplay254@gmail.com
 
-### Currently Learning
-![HTML5](https://img.shields.io/badge/HTML5-D08770?style=for-the-badge&logo=html5&logoColor=ECEFF4&labelColor=2E3440)
-![CSS3](https://img.shields.io/badge/CSS3-81A1C1?style=for-the-badge&logo=css3&logoColor=ECEFF4&labelColor=2E3440)
-![JavaScript](https://img.shields.io/badge/JavaScript-EBCB8B?style=for-the-badge&logo=javascript&logoColor=2E3440&labelColor=2E3440)
+Discord / Telegram: artplay254
 
-### Next on the Roadmap (via [roadmap.sh](https://roadmap.sh/full-stack))
-![TypeScript](https://img.shields.io/badge/TypeScript-5E81AC?style=for-the-badge&logo=typescript&logoColor=ECEFF4&labelColor=2E3440)
-![React](https://img.shields.io/badge/React-88C0D0?style=for-the-badge&logo=react&logoColor=ECEFF4&labelColor=2E3440)
-![Node.js](https://img.shields.io/badge/Node.js-A3BE8C?style=for-the-badge&logo=node.js&logoColor=ECEFF4&labelColor=2E3440)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-81A1C1?style=for-the-badge&logo=postgresql&logoColor=ECEFF4&labelColor=2E3440)
-![Docker](https://img.shields.io/badge/Docker-5E81AC?style=for-the-badge&logo=docker&logoColor=ECEFF4&labelColor=2E3440)
+WakaTime: artplay254 (live badge above)
 
-</div>
+
 
 ---
 
-## 📊 GitHub Statistics
+🔭 Norway Quest — Level Progress
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9&ring_color=88C0D0" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9" alt="Top Languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=D08770&currStreakLabel=88C0D0&sideNums=ECEFF4&sideLabels=88C0D0&dates=D8DEE9&currStreakNum=ECEFF4" alt="GitHub Streak" />
-
-</div>
-
----
-
-## ⏱️ Coding Activity (WakaTime)
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&layout=compact" alt="WakaTime Stats" />
-
-</div>
-
----
+Norway Quest: Level 1 / 10
+A creative progress bar for the long-term plan: move skills, projects, language, and life to Norway.
 
 <details>
-<summary><b>🗺️ Full Stack Development Roadmap (via roadmap.sh)</b></summary>
+<summary><strong>Progress roadmap (short)</strong></summary>Level 1 — Foundation: HTML/CSS/JS, Linux fluency, daily coding habit. ✅
 
-### Phase 1: Frontend Foundations 🎨
-- [x] HTML5 - Structure & Semantics
-- [x] CSS3 - Styling & Layouts (Flexbox, Grid)
-- [x] JavaScript - ES6+ Fundamentals
-- [ ] Responsive Design & Accessibility
-- [ ] Git & GitHub Workflow
-- [ ] Browser DevTools Mastery
+Level 2 — Build portfolio projects (1–3 small fullstack apps).
 
-### Phase 2: Modern Frontend ⚛️
-- [ ] TypeScript
-- [ ] React.js (Hooks, Context, State Management)
-- [ ] CSS Preprocessors (Sass/SCSS)
-- [ ] Tailwind CSS
-- [ ] Build Tools (Vite, Webpack)
-- [ ] Package Managers (npm, pnpm)
+Level 3 — Norwegian A1–A2; CV and GitHub polish.
 
-### Phase 3: Backend Development 🔧
-- [ ] Node.js & Express.js
-- [ ] RESTful API Design
-- [ ] Authentication & Authorization (JWT, OAuth)
-- [ ] Database Fundamentals
-  - [ ] SQL (PostgreSQL)
-  - [ ] NoSQL (MongoDB)
-- [ ] ORM/ODM (Prisma, Mongoose)
+Level 4 — Apply for internships / remote jobs.
 
-### Phase 4: Advanced Full Stack 🚀
-- [ ] Next.js (SSR, SSG, ISR)
-- [ ] GraphQL
-- [ ] WebSockets & Real-time Apps
-- [ ] Testing (Jest, React Testing Library)
-- [ ] CI/CD Pipelines
-- [ ] Docker & Containerization
-- [ ] Cloud Services (AWS, Vercel, Netlify)
+Level 5 — Advanced stack (React/Next, Node/Express, DBs).
 
-### Phase 5: Professional Skills 💼
-- [ ] System Design Basics
-- [ ] Performance Optimization
-- [ ] Security Best Practices
-- [ ] Agile/Scrum Methodologies
-- [ ] Code Reviews & Collaboration
-- [ ] Technical Writing & Documentation
+Level 6 — Norwegian B1–B2; networking & meetups.
 
-Current Stage: Phase 1 (60% Complete) → Moving to Phase 2 soon!
+Level 7 — Housing & finances plan; bootcamps / uni options.
+
+Level 8 — Job offers / visa path.
+
+Level 9 — Move & integrate.
+
+Level 10 — Settled dev life in Norway 🎉
+
 
 </details>
-
 ---
+
+🧰 Languages & Tools
 
 <details>
-<summary><b>💪 Beyond Coding: The Physical Side</b></summary>
+<summary><strong>Primary</strong></summary>Daily: Arch Linux · VS Code · Git · GitHub
 
-### Athletic Pursuits
+Languages: Russian (native) · English (B2) · Norwegian (learning)
 
-🏃‍♂️ Parkour       ████████░░ 80% - Urban movement & flow
-🏋️ Strength      ███████░░░ 70% - Calisthenics & gym
-❄️ Cold Therapy   ██████████ 100% - 5AM cold showers daily
-🧘 Discipline    █████████░ 90% - Consistency over motivation
-Daily Routine:
-- 05:00 - Cold shower ❄️
-- 05:30 - Morning workout 💪
-- 06:30 - Code session 💻
-- Evening - Parkour training / Gym
+Learning: HTML, CSS, JavaScript, web basics
 
-Inspiration: Stan Browney (calisthenics), Magnus Midtbø (climbing), Sergio Nee (parkour)
+Other interests: C++, systems thinking, minimal UI
 
-Philosophy: "A strong body builds a strong mind. Both are needed for great code."
 
-</details>
+</details><details>
+<summary><strong>Dev tools / stack badges</strong></summary><p>
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCCB6B?style=flat-square&logo=linux&logoColor=000000" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+</p></details>
+---
+
+📈 GitHub Stats
+
+<p align="left">
+  <img alt="Artem's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nord&count_private=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=nord" />
+</p>> If any card doesn't show your WakaTime or GitHub private stats, make sure your WakaTime profile is public & GitHub tokens/settings allow the badges.
+
+
+
 
 ---
+
+🎯 Current Goals / Journey
 
 <details>
-<summary><b>🎮 Fandoms & Interests</b></summary>
+<summary><strong>Short-term (next 3 months)</strong></summary>Consolidate frontend basics: semantic HTML, modern CSS (Flexbox / Grid), responsive patterns.
 
-### Anime & Series
-- 🐉 Dragon Ball - Peak Shonen, endless motivation
-- ⚡ The Flash - Speed, heroism, and paradoxes
+Build 3 small projects (portfolio):
 
-### Content Creators
-- Stan Browney - Calisthenics beast
-- Magnus Midtbø - Climbing legend
-- Sergio Nee - Parkour mastery
+Minimal Blog (Next.js or static)
 
-### Other Interests
-- 🎯 Taking on challenges & pushing limits
-- 🌍 Learning about Nordic culture
-- 📚 Self-improvement & productivity
-- 🎵 Music while coding (Lo-fi, Phonk)
+Habit Tracker (Node + SQLite)
+
+Climbing/Training Log (fullstack CRUD)
+
+
+Keep streak with WakaTime & 5am cold showers.
+
+Learn roadmap steps from roadmap.sh (Full Stack Developer). 
+
+
+</details><details>
+<summary><strong>Medium-term (6–12 months)</strong></summary>Start learning a framework (React / Next.js).
+
+Add backend basics (Node.js, REST, databases).
+
+Polish GitHub README, CI, and deploy one project.
+
+Start Norwegian basics (A1-A2) and practice speaking.
+
 
 </details>
+---
+
+🗺️ Roadmap — Next in list
+
+Following the Full Stack roadmap (front-end → backend → devops → projects). See roadmap.sh for the canonical learning path and suggested order. 
+
+Quick next steps (from roadmap):
+
+1. Master core web basics: HTML, CSS, JavaScript.
+
+
+2. Pick a frontend framework (React recommended).
+
+
+3. Learn HTTP, REST, and a backend runtime (Node.js).
+
+
+4. Databases (SQL / NoSQL) and deployment basics.
+
+
+5. Build & ship end-to-end apps; iterate.
+
+
+
 
 ---
 
-## 🎯 Current Goals
+✍️ Projects & Portfolio (ideas)
 
-+ Master HTML, CSS & JavaScript fundamentals
-+ Build 5 portfolio-worthy projects
-+ Contribute to open source projects
-+ Learn TypeScript & React
-+ Reach A2 level in Norwegian
-+ Create a personal developer brand
----
+Minimal Portfolio (static, style-first)
 
-## 📫 Let's Connect
+Climbing Log (GPS + progress graphs)
 
-<div align="center">
+Parkour Training Planner (calendar + progression)
 
-I'm always open to collaborating on projects, learning together, or just chatting about tech, fitness, or Norway!
+Tiny OS-tools in C++ (practice low-level thinking)
 
-[![GitHub](https://img.shields.io/badge/GitHub-artplay254-88C0D0?style=for-the-badge&logo=github&logoColor=ECEFF4&labelColor=2E3440)](https://github.com/artplay254)
-[![Discord](https://img.shields.io/badge/Discord-artplay254-5E81AC?style=for-the-badge&logo=discord&logoColor=ECEFF4&labelColor=2E3440)](https://discord.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@artplay254-88C0D0?style=for-the-badge&logo=telegram&logoColor=ECEFF4&labelColor=2E3440)](https://t.me/artplay254)
-[![Email](https://img.shields.io/badge/Email-artplay254@gmail.com-D08770?style=for-the-badge&logo=gmail&logoColor=ECEFF4&labelColor=2E3440)](mailto:artplay254@gmail.com)
 
-"Code is like a muscle — it grows with consistent effort, proper form, and pushing past comfort zones."
-
-</div>
 
 ---
 
-<div align="center">
+🎧 Inspirations & Fandoms
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,50:88C0D0,100:81A1C1&height=120&section=footer)
+Favorite creators: Stan Browney · Magnus Midtbø · Sergio Nee
 
-⭐ From [artplay254](https://github.com/artplay254) | Built with 🧊 Nord aesthetics
+Fandoms: Dragon Ball · The Flash
 
-![Profile Views](https://komarev.com/ghpvc/?username=artplay254&color=88C0D0&style=for-the-badge&label=PROFILE+VIEWS)
+Vibe: energetic, minimal, focused on improvement
 
-</div>
+
+
+---
+
+📬 Contact / Socials
+
+Email: artplay254@gmail.com
+
+Discord: artplay254
+
+Telegram: artplay254
+
+GitHub: https://github.com/artplay254
+
+WakaTime: https://wakatime.com/@artplay254
+
+
+
+---
+
+🧩 Small fun stats & habits
+
+Cold showers: 5:00 AM — daily habit badge above.
+
+Training: parkour + workouts, minimal recovery.
+
+Growth mindset: ship fast, iterate, keep documentation.
+
+
+
+---
+
+✨ Visual footer
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=2E3440,88C0D0&height=80&section=footer&text=Keep+it+minimal.+Keep+it+moving.&fontSize=18&fontColor=ECEFF4" alt="footer" />
+</p>
+---
+
+Sources & references
+
+Full Stack Developer roadmap — roadmap.sh. 
+
+WakaTime API & share/badges docs. 
+
+
+
+---
+
+<!-- End of README -->
