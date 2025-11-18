@@ -79,7 +79,9 @@ My best friend [@vlp0werr](https://github.com/vlp0werr) has been with me since k
 [████░░░░░░░░░░░░░░░░] Level 1/10
 
 Current Stage: Foundation Building (2024-2025)
+<br>
 Next Milestone: Master Web Development Fundamentals
+<br>
 Final Goal: Move to Norway (2030-2032)
 </div>
 
