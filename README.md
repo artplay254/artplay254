@@ -75,13 +75,13 @@ My best friend [@vlp0werr](https://github.com/vlp0werr) has been with me since k
 
 ## 🎯 Norway Quest: Journey to the North
 
-```
+<div align="center">
 [████░░░░░░░░░░░░░░░░] Level 1/10
 
 Current Stage: Foundation Building (2024-2025)
 Next Milestone: Master Web Development Fundamentals
 Final Goal: Move to Norway (2030-2032)
-```
+</div>
 
 **The Plan:**
 - **2024-2025**: Finish 9th grade | Learn web development basics
