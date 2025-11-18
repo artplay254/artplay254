@@ -207,8 +207,8 @@ I'm not just about code — I believe in **holistic growth**. Here's what else I
 <div align="center">
 
 ### YouTube Channels I Follow
-[![Stan Browney](https://img.shields.io/badge/Stan_Browney-Calisthenics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@StanBrowney)
-[![Magnus Midtbø](https://img.shields.io/badge/Magnus_Midtbø-Climbing-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MagnusMidtbø)
+[![Stan Browney](https://img.shields.io/badge/Stan_Browney-Calisthenics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Browney)
+[![Magnus Midtbø](https://img.shields.io/badge/Magnus_Midtbø-Climbing-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@magmidt)
 [![Sergio Nee](https://img.shields.io/badge/Sergio_Nee-Growth-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SergioNee)
 
 ### Fandoms
