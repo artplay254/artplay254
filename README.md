@@ -22,7 +22,7 @@ const artem = {
     birthdate: new Date("2010-12-07"),
     location: "Lipetsk, Russia 🇷🇺",
     dream: "Norway 🇳🇴",
-    eta: "2030-2032",
+    eta: "2031-2033",
     
     identity: {
         personality: "Quiet-loving introvert",
@@ -75,27 +75,100 @@ My best friend [@vlp0werr](https://github.com/vlp0werr) has been with me since k
 
 ## 🎯 Norway Quest: Journey to the North
 
-```
-[████░░░░░░░░░░░░░░░░] Level 1/10
+<img src="https://img.shields.io/badge/Current_Level-1/10-5E81AC?style=for-the-badge&logo=target&logoColor=white" alt="Level"/>
+<img src="https://img.shields.io/badge/Progress-10%25-81A1C1?style=for-the-badge" alt="Progress"/>
+<img src="https://img.shields.io/badge/Target-2031--2033-88C0D0?style=for-the-badge&logo=calendar&logoColor=white" alt="Target"/>
 
-Current Stage: Foundation Building (2024-2025)
-Next Milestone: Master Web Development Fundamentals
-Final Goal: Move to Norway (2030-2032)
+```
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ 10%
+
+🏁 START: 2024          🏔️ DESTINATION: Norway 2031-2033
 ```
 
-**The Plan:**
-- **2024-2025**: Finish 9th grade | Learn web development basics
-- **2025-2027**: Complete high school (10-11 grades) | Build portfolio & freelance projects
-- **2027-2032**: University/College (3-5 years) | Specialize in Fullstack Development
-- **2030-2032**: Land a job in Norway | Start new life 🇳🇴
+### 📍 The Complete Roadmap
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🎓 Phase 1: Foundation
+**2024-2025**
+
+**Status:** 🔄 In Progress
+
+- ✅ Start learning web development
+- 🔄 Master HTML, CSS, JavaScript
+- 🔄 Build portfolio projects
+- 📚 Complete 9th grade
+- 🎯 freeCodeCamp certifications
+
+**Level:** 1-2/10
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Phase 2: Growth
+**2025-2027**
+
+**Status:** ⏳ Upcoming
+
+- ⏳ High school (10-11 grades)
+- ⏳ Learn React & frameworks
+- ⏳ Backend development
+- ⏳ First freelance projects
+- ⏳ Build strong portfolio
+- ⏳ Continue Norwegian studies
+
+**Level:** 3-5/10
+
+</td>
+<td width="33%" align="center">
+
+### 🎓 Phase 3: Professional
+**2027-2033**
+
+**Status:** 🔮 Future
+
+- 🔮 University/College (3-5 years)
+- 🔮 Fullstack specialization
+- 🔮 Internships & experience
+- 🔮 Advanced Norwegian (B2-C1)
+- 🔮 Job applications Norway
+- 🇳🇴 **MOVE TO NORWAY**
+
+**Level:** 6-10/10
+
+</td>
+</tr>
+</table>
+
+### 🗺️ Key Milestones Timeline
+
+```mermaid
+graph LR
+    A[2024: START] --> B[2025: Web Dev Basics]
+    B --> C[2027: High School Complete]
+    C --> D[2027-2030: University]
+    D --> E[2030-2031: Job Hunt]
+    E --> F[2031-2033: NORWAY 🇳🇴]
+```
+
+<img src="https://img.shields.io/badge/Education-9th_Grade_→_University-A3BE8C?style=for-the-badge&logo=book&logoColor=white" alt="Education"/>
+<img src="https://img.shields.io/badge/Skills-Web_Dev_→_Fullstack-EBCB8B?style=for-the-badge&logo=code&logoColor=white" alt="Skills"/>
+<img src="https://img.shields.io/badge/Language-Norwegian_Learning-D08770?style=for-the-badge&logo=duolingo&logoColor=white" alt="Norwegian"/>
+
+### 💡 Current Quest Objectives
+
+- 🎯 **Main Quest:** Build 3 portfolio projects by end of 2025
+- 📚 **Side Quest:** Complete Responsive Web Design certification
+- 🌍 **Language Quest:** Reach A1 Norwegian by mid-2025
+- 💪 **Personal Quest:** Maintain 5 AM routine & cold showers
 
 </div>
 
 <br>
 
 ## 🚀 Current Journey
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9" alt="GitHub Stats"/>
 
 ### 🎓 Learning Right Now
 - 📝 **HTML** - Building solid foundations
@@ -117,7 +190,7 @@ Final Goal: Move to Norway (2030-2032)
 - API development
 - React & modern frameworks
 
-<br clear="right"/>
+<br>
 
 ## 💻 Languages & Tools
 
@@ -128,16 +201,38 @@ Final Goal: Move to Norway (2030-2032)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnome-terminal&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Currently Learning
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### Next on Roadmap
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Experimented With
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+
+### Learning Resources
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)
+![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)
+![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-000000?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
+![roadmap.sh](https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white)
 
 </div>
 
@@ -207,8 +302,8 @@ I'm not just about code — I believe in **holistic growth**. Here's what else I
 <div align="center">
 
 ### YouTube Channels I Follow
-[![Stan Browney](https://img.shields.io/badge/Stan_Browney-Calisthenics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@StanBrowney)
-[![Magnus Midtbø](https://img.shields.io/badge/Magnus_Midtbø-Climbing-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@MagnusMidtbø)
+[![Stan Browney](https://img.shields.io/badge/Stan_Browney-Calisthenics-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Browney)
+[![Magnus Midtbø](https://img.shields.io/badge/Magnus_Midtbø-Climbing-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@magmidt)
 [![Sergio Nee](https://img.shields.io/badge/Sergio_Nee-Growth-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@SergioNee)
 
 ### Fandoms
@@ -264,7 +359,7 @@ const roadmap = {
         ]
     },
     
-    2027_2032: {
+    2027_2033: {
         focus: "Professional Development",
         milestones: [
             "University/College degree",
