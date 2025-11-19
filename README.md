@@ -2,8 +2,6 @@
 
 # 👋 Hey there, I'm Artem
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,50:81A1C1,100:88C0D0&height=300&section=header&text=Artem%20Semenihin&fontSize=90&fontColor=ECEFF4&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future,%20one%20commit%20at%20a%20time&descAlignY=51&descAlign=50)
-
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Cold Showers](https://img.shields.io/badge/5AM%20COLD%20SHOWERS-88C0D0?style=for-the-badge&logo=snowflake&logoColor=2E3440)]()
 [![WakaTime](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge)](https://wakatime.com/@artplay254)
@@ -192,7 +190,5 @@ inspiration:
 
 **Last Updated:** November 2025 | **Journey Started:** 2024  
 *From Lipetsk with ambition. To Norway with purpose.*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,50:81A1C1,100:88C0D0&height=120&section=footer)
 
 </div>
