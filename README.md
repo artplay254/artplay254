@@ -43,7 +43,7 @@ const artem = {
 
 I'm 14, teaching myself full-stack development, and building a path to Norway. Every line of code is a step toward freedom, creativity, and a life I design myself.
 
-**Journey Partner:** Shoutout to my bro [@vlp0werr](https://github.com/vlp0werr)—same dream, same grind since kindergarten. 🤝
+**Journey Partner:** Shoutout to my bro [@Vlad](https://github.com/vlp0werr)—same dream, same grind since kindergarten. 🤝
 
 ---
 
