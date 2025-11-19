@@ -1,5 +1,7 @@
 <div align="center">
 
+# 👋 Hey there, I'm Artem
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,50:81A1C1,100:88C0D0&height=300&section=header&text=Artem%20Semenihin&fontSize=90&fontColor=ECEFF4&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future,%20one%20commit%20at%20a%20time&descAlignY=51&descAlign=50)
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
