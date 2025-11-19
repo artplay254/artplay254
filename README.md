@@ -49,10 +49,10 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 **Next:** React, Node.js, TypeScript <br>
 
 ## Current Goals
-- [ ] Complete FreeCodeCamp Responsive Web Design Certification
+- [ ] Get FreeCodeCamp Responsive Web Design Certification
 - [ ] Build 10 portfolio projects
 - [ ] Contribute to open source projects
-- [ ] Master JavaScript fundamentals
+- [ ] Master fundamentals
 - [ ] Launch Discord community to 100+ members
 - [ ] Reach 100 hours of coding (WakaTime)
 - [ ] Learn Norwegian to A2 level
