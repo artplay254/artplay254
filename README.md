@@ -146,7 +146,7 @@ I'm not just about code. I believe in **building yourself** before building soft
 ### Languages
 
 🇷🇺 Russian (Native)  
-🇬🇧 English (B2 - learned through full immersion since 13)  
+🇺🇸 English (B2 - learned through full immersion since 13)  
 🇳🇴 Norwegian (Just started - Norway here I come)
 
 ### Inspirations
