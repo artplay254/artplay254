@@ -40,18 +40,11 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 
 ---
 
-<div>
-
-##  Right Now
-```
-**Learning:** HTML, CSS, JavaScript, and other web fundamentals
-**Building:** Foundation projects for my portfolio
-**Following:** [roadmap.sh/full-stack](https://roadmap.sh/full-stack)
-**Coding:** Daily practice on Arch Linux
-**Next:** React, Node.js, TypeScript
-```
-
-</div>
+**Learning:** HTML, CSS, JavaScript, and other web fundamentals <br>
+**Building:** Foundation projects for my portfolio <br>
+**Following:** [roadmap.sh/full-stack](https://roadmap.sh/full-stack) <br>
+**Coding:** Daily practice on Arch Linux <br>
+**Next:** React, Node.js, TypeScript <br>
 
 ---
 
