@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:81A1C1&height=180&section=header&text=Artem%20Semenihin&fontSize=48&fontColor=ECEFF4&animation=fadeIn&fontAlignY=38" alt="header"/>
@@ -94,7 +93,5 @@ const artem = {
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:81A1C1&height=120&section=footer"/>
 </div>
-```
 
 </div>
-```
