@@ -7,9 +7,6 @@
 [![WakaTime](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge)](https://wakatime.com/@artplay254)
 [![Mission](https://img.shields.io/badge/NORWAY%20QUEST-LEVEL%201/10-BF616A?style=for-the-badge&logo=target&logoColor=white)]()
 
-[![View Projects](https://img.shields.io/badge/🚀-View_My_Projects-88C0D0?style=for-the-badge)](#-featured-projects)
-[![Join Discord](https://img.shields.io/badge/💬-Join_Community-5865F2?style=for-the-badge)](https://discord.gg/DwrxkdJdUC)
-
 </div>
 
 ---
@@ -43,7 +40,7 @@ const artem = {
 
 I'm 14, teaching myself full-stack development, and building a path to Norway. Every line of code is a step toward freedom, creativity, and a life I design myself.
 
-**Journey Partner:** Shoutout to my bro [@Vlad](https://github.com/vlp0werr)—same dream, same grind since kindergarten. 🤝
+**Journey Partner:** Shoutout to my bro [Vlad](https://github.com/vlp0werr)—same dream, same grind since kindergarten. 🤝
 
 ---
 
@@ -95,7 +92,8 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 
 ---
 
-## 🛠️ Languages & Tools
+<details>
+<summary><b>Languages & Tools</b></summary>
 
 ### Currently Using
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
@@ -105,22 +103,20 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-
-<details>
-<summary><b>🖥️ Daily Environment</b></summary>
-
+    
+### 🖥️ Daily Environment
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)
 ![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)
-
-</details>
 
 ### Learning Next
 ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+
+</details>
 
 ---
 
