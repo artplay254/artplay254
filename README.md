@@ -2,11 +2,6 @@
 
 # Hey there, I'm Artem
 
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-![Cold Showers](https://img.shields.io/badge/5AM%20COLD%20SHOWERS-88C0D0?style=for-the-badge&logo=snowflake&logoColor=2E3440)
-[![WakaTime](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge)](https://wakatime.com/@artplay254)
-[![Mission](https://img.shields.io/badge/NORWAY%20QUEST-LEVEL%201/10-BF616A?style=for-the-badge&logo=target&logoColor=white)]()
-
 </div>
 
 ---
