@@ -121,6 +121,8 @@ inspiration:
   - Stan Browney
   - Magnus Midtbø
   - Sergio Nee
+  - Goku
+  - The Flash
 ```
 
 ---
