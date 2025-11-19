@@ -1,74 +1,47 @@
-# Artem Semenihin
+# Hey, I'm Artem Semenihin 👋
+![Visitor Badge](https://visitor-badge.laobi.icu/?username=yourgithub&repo=yourgithub&style=flat-square&color=000000)
+![Age](https://img.shields.io/badge/Age-14%20(turning%2015%20Dec%202025)-blue?style=flat-square)
+![Location](https://img.shields.io/badge/From-Lipetsk%2C%20Russia-%23ff5555?style=flat-square)
+![Future](https://img.shields.io/badge/Dream-Norway-%23007ec6?style=flat-square)
 
-**9th grader from Russia | Just started my coding journey**
+**14-year-old self-taught developer who runs Arch Linux btw and hates bloat.**
 
-I'm learning web development from scratch. Currently going through freeCodeCamp and building my foundation in HTML, CSS, and JavaScript. No portfolio projects yet - I'm focusing on understanding the fundamentals properly before rushing into building things.
+Started my real coding journey in **November 2025** — currently grinding **HTML, CSS, JavaScript & web fundamentals** on freeCodeCamp (full immersion, no shortcuts).
 
-## 🛠️ Currently Learning
+I love clean code, minimal design, things that just work, and projects that can survive a nuclear apocalypse.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## Current Stack & Learning
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7くら-F7D74?style=flat-square&logo=javascript&logoColor=black)
+![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-%23563D7C.svg?style=flat-square&logo=freecodecamp&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1DA1F2?style=flat-square&logo=kde&logoColor=white)
 
-**Started:** November 2025  
-**Main Resource:** freeCodeCamp
+Daily driver: **Arch Linux + KDE Plasma** (over 1.5 years strong).  
+No telemetry. No bloat. Pure power.
 
----
+## Stats (yes, even beginners have stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithub&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+## Connect with Me
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](YOUR_TELEGRAM_LINK)
+[![Discord Server](https://img.shields.io/badge/Discord%20Server-5865F2?style=flat-square&logo=discord&logoColor=white)](YOUR_DISCORD_SERVER_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 <details>
-<summary><b>📚 Current Focus</b></summary>
+<summary><strong>What else? (click if you want the full lore)</strong></summary>
 
-<br>
+- Physics & Math enjoyer
+- Calisthenics, parkour, flips, cold showers, 5 AM gang
+- Dragon Ball + The Flash enjoyer (keep getting up, no matter what)
+- Zero bad habits, clean eating, water-only lifestyle
+- Learning English through 100% immersion since 13 → now B2 and dreaming in English
+- Future goal: move to Norway and build things in peace with clean air and fjords
 
-I'm taking the long route - learning properly rather than quickly. Right now I'm working through:
-- HTML structure and semantics
-- CSS fundamentals and responsive design
-- JavaScript basics and DOM manipulation
-
-I learn best by understanding *why* something works, not just memorizing syntax. Once I have solid fundamentals, I'll start building projects.
+I value real friendships, deep conversations, and code that doesn’t waste my CPU cycles.
 
 </details>
 
-<details>
-<summary><b>💻 Development Setup</b></summary>
-
-<br>
-
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
-
-Daily driving Arch Linux with KDE Plasma for over a year. I value control, transparency, and FOSS philosophy. Everything is configured the way I need it - no bloat, no telemetry, just tools that work.
-
-</details>
-
-<details>
-<summary><b>🎯 Beyond Code</b></summary>
-
-<br>
-
-I'm not just about programming. I value:
-- **Self-development** - Always challenging myself and trying new things
-- **Active lifestyle** - Calisthenics, parkour, sports, outdoor adventures
-- **Deep thinking** - Math, physics, theories about the universe
-- **Quality over quantity** - In friendships, in tools, in everything
-
-I'm learning English (currently B2) through full immersion. I approach everything with the same philosophy: understand it deeply, do it properly, no shortcuts.
-
-**Future goal:** Move to Norway for the nature, clean air, hiking, and quiet culture.
-
-</details>
-
-<details>
-<summary><b>📫 Connect</b></summary>
-
-<br>
-
-I'm just starting out, so I don't have much to show yet. But if you want to follow my journey from zero to (hopefully) competent developer, feel free to check back later.
-
-I'm always open to honest feedback and real conversations.
-
-</details>
-
----
-
-**Note:** This profile will actually have content once I finish learning the basics and start building real projects. For now, it's just documentation of where I'm starting from.
+Made with respect for your time and scroll wheel ❤️
