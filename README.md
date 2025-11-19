@@ -40,6 +40,8 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 
 ---
 
+## Right Now
+
 **Learning:** HTML, CSS, JavaScript, and other web fundamentals <br>
 **Building:** Foundation projects for my portfolio <br>
 **Following:** [roadmap.sh/full-stack](https://roadmap.sh/full-stack) <br>
