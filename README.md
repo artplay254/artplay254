@@ -14,28 +14,29 @@
 ## 👋 About Me
 
 ```typescript
+
 const artem = {
     name: "Artem Semenihin",
     age: 14,
-    location: "Lipetsk, Russia 🇷🇺 → Norway 🇳🇴",
-    mission: "Building skills to move to Norway by 2030-2032",
-    role: "Full Stack Developer in Training",
-    
-    currentFocus: ["HTML", "CSS", "JavaScript", "Git"],
+    location: "Lipetsk, Russia",
+    mission: "Become a full stack developer and move to Norway",
+
+    currentFocus: ["HTML", "CSS", "JavaScript", "Git"]
     nextUp: ["React", "Node.js", "TypeScript", "Databases"],
-    
+
     lifestyle: {
         wakeUp: "5AM cold showers",
         values: ["Discipline", "Real connections", "Growth"],
-        partner: "@vlp0werr — same dream since kindergarten 🤝"
+        partner: "Vlad",
     },
-    
+
     languages: {
-        russian: "Native 🇷🇺",
-        english: "B2 🇬🇧",
-        norwegian: "A1 (Learning) 🇳🇴"
+        russian: "Native",
+        english: "B2",
+        norwegian: "A1 (Learning)",
     }
 };
+
 ```
 
 I'm 14, teaching myself full-stack development, and building a path to Norway. Every line of code is a step toward freedom, creativity, and a life I design myself.
