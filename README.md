@@ -59,6 +59,8 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 <details>
 <summary><b>Norway Quest</b></summary>
 
+<br>
+
 ```
 
 [██░░░░░░░░] 20% Complete
