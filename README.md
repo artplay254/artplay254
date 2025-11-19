@@ -48,6 +48,15 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 **Coding:** Daily practice on Arch Linux <br>
 **Next:** React, Node.js, TypeScript <br>
 
+## Current Goals
+- [ ] Complete FreeCodeCamp Responsive Web Design Certification
+- [ ] Build 10 portfolio projects
+- [ ] Contribute to open source projects
+- [ ] Master JavaScript fundamentals
+- [ ] Launch Discord community to 100+ members
+- [ ] Reach 100 hours of coding (WakaTime)
+- [ ] Learn Norwegian to A2 level
+
 ---
 
 ## Featured Projects
@@ -63,26 +72,20 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 
 ```
 
-[██░░░░░░░░] 20% Complete
+[█░░░░░░░░░] 10% Complete
 │
-├─ ✅ Age 14: Start coding journey (November 2022)
-├─ 🔄 Age 15: Complete 20 projects, master JavaScript
-├─ 🔄 Age 16: Build 3 full-stack applications
-├─ 📍 Age 17: Open source contributions + first internship
-├─ 📍 Age 18-22: University/College
-├─ 📍 Age 23-25: Build professional portfolio & gain experience
-└─ 🎯 Age 25: Move to Norway & start tech career
+├─ Level 1:
+├─ Level 2:
+├─ Level 3:
+├─ Level 4:
+├─ Level 5:
+├─ Level 6:
+├─ Level 7:
+├─ Level 8:
+├─ Level 9:
+└─ Level 10:
 
 ```
-
-### Current Phase Goals
-- [ ] Complete FreeCodeCamp Responsive Web Design Certification
-- [ ] Build 10 portfolio projects
-- [ ] Contribute to open source projects
-- [ ] Master JavaScript fundamentals
-- [ ] Launch Discord community to 100+ members
-- [ ] Reach 100 hours of coding (WakaTime)
-- [ ] Learn Norwegian to A2 level
 
 </details>
 
