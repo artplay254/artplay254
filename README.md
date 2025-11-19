@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 ```typescript
 
@@ -36,36 +36,31 @@ const artem = {
 
 I'm 14, teaching myself full-stack development, and building a path to Norway. Every line of code is a step toward freedom, creativity, and a life I design myself.
 
-**Journey Partner:** Shoutout to my bro [Vlad](https://github.com/vlp0werr)—same dream, same grind since kindergarten. 🤝
+**Journey Partner:** Shoutout to my bro [Vlad](https://github.com/vlp0werr)—same dream, same grind since kindergarten.
 
 ---
 
-## 🔥 Right Now
+##  Right Now
 
-📖 **Learning:** JavaScript fundamentals & Git workflows  
-🔨 **Building:** Foundation projects for my portfolio  
-📚 **Following:** [roadmap.sh/full-stack](https://roadmap.sh/full-stack)  
-⏱️ **Coding:** Daily practice on Arch Linux  
-🎯 **Next:** React, Node.js, TypeScript  
+**Learning:** HTML, CSS, JavaScript, and other web fundamentals
+**Building:** Foundation projects for my portfolio
+**Following:** [roadmap.sh/full-stack](https://roadmap.sh/full-stack)
+**Coding:** Daily practice on Arch Linux
+**Next:** React, Node.js, TypeScript
 
 ---
 
 ## 🚀 Featured Projects
 
-> 🚧 **Coming Soon!** I'm currently building my first portfolio projects. Check back in a few weeks to see what I've been working on. Projects will include HTML/CSS/JavaScript applications showcasing what I'm learning on my journey to becoming a full-stack developer.
-
-**Planned Projects:**
-- Interactive personal portfolio website
-- JavaScript-based web applications
-- Open source contributions
-
-*Star this profile to get notified when projects go live!* ⭐
+> **Coming Soon!** I'm currently building my first portfolio projects. Check back in a few weeks to see what I've been working on. Projects will include HTML/CSS/JavaScript applications showcasing what I'm learning on my journey to becoming a full-stack developer.
 
 ---
 
-## 🗺️ Norway Quest Progress
+<details>
+<summary><b>Norway Quest</b></summary>
 
 ```
+
 [██░░░░░░░░] 20% Complete
 │
 ├─ ✅ Age 14: Start coding journey (November 2024)
@@ -75,6 +70,7 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 ├─ 📍 Age 18-22: University/College (IT/CS program)
 ├─ 📍 Age 23-25: Build professional portfolio & gain experience
 └─ 🎯 Age 26: Move to Norway & start tech career
+
 ```
 
 ### 🎯 Current Phase Goals
@@ -85,6 +81,8 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 - [ ] Launch Discord community to 100+ members
 - [ ] Reach 100 hours of coding (WakaTime)
 - [ ] Learn Norwegian to A2 level
+
+</details>
 
 ---
 
