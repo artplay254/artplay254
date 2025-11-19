@@ -50,7 +50,7 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 > **Coming Soon!** I'm currently building my first portfolio projects. Check back in a few weeks to see what I've been working on. Projects will include HTML/CSS/JavaScript applications showcasing what I'm learning on my journey to becoming a full-stack developer.
 
@@ -65,17 +65,17 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 
 [██░░░░░░░░] 20% Complete
 │
-├─ ✅ Age 14: Start coding journey (November 2024)
+├─ ✅ Age 14: Start coding journey (November 2022)
 ├─ 🔄 Age 15: Complete 20 projects, master JavaScript
 ├─ 🔄 Age 16: Build 3 full-stack applications
 ├─ 📍 Age 17: Open source contributions + first internship
-├─ 📍 Age 18-22: University/College (IT/CS program)
+├─ 📍 Age 18-22: University/College
 ├─ 📍 Age 23-25: Build professional portfolio & gain experience
-└─ 🎯 Age 26: Move to Norway & start tech career
+└─ 🎯 Age 25: Move to Norway & start tech career
 
 ```
 
-### 🎯 Current Phase Goals
+### Current Phase Goals
 - [ ] Complete FreeCodeCamp Responsive Web Design Certification
 - [ ] Build 10 portfolio projects
 - [ ] Contribute to open source projects
@@ -100,7 +100,7 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
     
-### 🖥️ Daily Environment
+### Daily Environment
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
 ![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)
 ![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)
@@ -116,19 +116,11 @@ I'm 14, teaching myself full-stack development, and building a path to Norway. E
 
 ---
 
-## 📚 Learning Resources
-
-- **[FreeCodeCamp](https://freecodecamp.org)** - Responsive Web Design & JavaScript
-- **[roadmap.sh](https://roadmap.sh/full-stack)** - Full Stack Developer Roadmap
-- **[The Odin Project](https://theodinproject.com)** - Comprehensive Web Dev Course
-- **[MDN Web Docs](https://developer.mozilla.org)** - Web Development Reference
-
----
-
 <details>
-<summary><b>🌊 Beyond Code</b></summary>
+<summary><b>Beyond Code</b></summary>
 
 ```yaml
+
 experiments:
   - Blender & 3D modeling
   - Photo/Video/Audio editing
@@ -153,13 +145,15 @@ inspiration:
   - Sergio Nee
   - Goku
   - The Flash
+
 ```
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+<details>
+<summary><b>GitHub & WakaTime stats</b></summary>
 
 <div align="center">
 
@@ -169,9 +163,6 @@ inspiration:
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=artplay254&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=D08770&currStreakLabel=88C0D0)](https://git.io/streak-stats)
 
-<details>
-<summary><b>⏱️ Coding Time</b></summary>
-
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&layout=compact&theme=nord&hide_border=true&bg_color=2E3440)](https://wakatime.com/@artplay254)
 
 </details>
@@ -180,7 +171,7 @@ inspiration:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -190,18 +181,5 @@ inspiration:
 [![Wakatime](https://img.shields.io/badge/WakaTime-000000?logo=wakatime&logoColor=white)](https://wakatime.com/@artplay254)
 
 **Building a community of disciplined, growth-focused developers. Join the journey.**
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ "Discipline equals freedom. Code equals opportunity. Norway equals home." ⚡
-
----
-
-**Last Updated:** November 2025 | **Journey Started:** 2024  
-*From Lipetsk with ambition. To Norway with purpose.*
 
 </div>
