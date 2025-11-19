@@ -1,82 +1,74 @@
 # Artem Semenihin
 
-**14-year-old developer** | Lipetsk, Russia → Norway  
-Building things that matter. Learning every day. Choosing the harder path.
+**9th grader from Russia | Just started my coding journey**
+
+I'm learning web development from scratch. Currently going through freeCodeCamp and building my foundation in HTML, CSS, and JavaScript. No portfolio projects yet - I'm focusing on understanding the fundamentals properly before rushing into building things.
+
+## 🛠️ Currently Learning
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Started:** November 2025  
+**Main Resource:** freeCodeCamp
 
 ---
 
-## About Me
+<details>
+<summary><b>📚 Current Focus</b></summary>
 
-I'm a quiet introvert with loud ambition. My goal is simple: become a full-stack developer and move to Norway.
+<br>
 
-I value deep conversations, real friendships, honesty, discipline, and strength — mental and physical. I think deeply about life, the universe, and how to improve every single day.
+I'm taking the long route - learning properly rather than quickly. Right now I'm working through:
+- HTML structure and semantics
+- CSS fundamentals and responsive design
+- JavaScript basics and DOM manipulation
 
-**Core interests:** Mathematics, Physics, IT, Linux, programming, gadgets, AI, and technology.
+I learn best by understanding *why* something works, not just memorizing syntax. Once I have solid fundamentals, I'll start building projects.
 
-**Daily driver:** Arch Linux + KDE Plasma — clean, powerful, open-source, minimalistic. Built for real work.
+</details>
 
----
+<details>
+<summary><b>💻 Development Setup</b></summary>
 
-## What I Do
+<br>
 
-Since I was 12, I've been in my experimenting era:
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 
-- Blender, video editing, coding
-- Arduino projects, hardware tinkering
-- Parkour, calisthenics, martial arts, flips
-- Minecraft building, Linux customization
-- Business ideas, sports, challenges
+Daily driving Arch Linux with KDE Plasma for over a year. I value control, transparency, and FOSS philosophy. Everything is configured the way I need it - no bloat, no telemetry, just tools that work.
 
-I choose the harder path on purpose. Easy things don't interest me.
+</details>
 
----
+<details>
+<summary><b>🎯 Beyond Code</b></summary>
 
-## Lifestyle
+<br>
 
-Active. Healthy. Challenging.
+I'm not just about programming. I value:
+- **Self-development** - Always challenging myself and trying new things
+- **Active lifestyle** - Calisthenics, parkour, sports, outdoor adventures
+- **Deep thinking** - Math, physics, theories about the universe
+- **Quality over quantity** - In friendships, in tools, in everything
 
-**Physical:** Workouts, calisthenics, parkour, flips, skate/scooter/BMX tricks, volleyball, soccer, basketball, climbing.
+I'm learning English (currently B2) through full immersion. I approach everything with the same philosophy: understand it deeply, do it properly, no shortcuts.
 
-**Habits:** Cold showers, early mornings, clean eating, almost only water. No harmful habits — not from discipline, but because it's who I am.
+**Future goal:** Move to Norway for the nature, clean air, hiking, and quiet culture.
 
----
+</details>
 
-## Values
+<details>
+<summary><b>📫 Connect</b></summary>
 
-- **Honesty** — I speak directly. If something's wrong, I say it.
-- **Quality** — I respect durability, craftsmanship, and trusted brands.
-- **Real people** — I keep a few close friends I've known for 10+ years. Proven through time, loyalty, and honesty.
-- **Growth** — Always improving. Always moving. Always choosing the better road.
+<br>
 
-I don't respect fake personalities, TikTok addictions, laziness, or weakness.
+I'm just starting out, so I don't have much to show yet. But if you want to follow my journey from zero to (hopefully) competent developer, feel free to check back later.
 
----
+I'm always open to honest feedback and real conversations.
 
-## Languages
-
-- **Russian:** Native
-- **English:** B2 (self-taught through full immersion by age 14 — I think and dream in it now)
-
----
-
-## Why Norway?
-
-Nature. Mountains. Cold water. Clean air. Calm culture. Stability. Peace.
-
-It's where I see myself thriving.
+</details>
 
 ---
 
-## Fun Facts
-
-- I love Dragon Ball for its message about growth and resilience.
-- I love The Flash for its discipline and heroism.
-- I love clean design, minimalism, and clarity in everything I do.
-
----
-
-**Always respectful. Always kind. Always honest. Always myself.**
-
----
-
-> *"The harder the path, the stronger you become."*
+**Note:** This profile will actually have content once I finish learning the basics and start building real projects. For now, it's just documentation of where I'm starting from.
