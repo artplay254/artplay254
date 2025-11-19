@@ -136,16 +136,6 @@ inspiration:
 
 ---
 
-## 🎨 Featured Projects
-
-<div align="center'>
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=artplay254&repo=repo-name&theme=nord&hide_border=true&bg_color=2E3440)](https://github.com/artplay254/repo-name)
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
