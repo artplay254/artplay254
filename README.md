@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Artem
+# Hey there, I'm Artem
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
 [![Cold Showers](https://img.shields.io/badge/5AM%20COLD%20SHOWERS-88C0D0?style=for-the-badge&logo=snowflake&logoColor=2E3440)]()
