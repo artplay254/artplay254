@@ -56,7 +56,8 @@ const currentFocus = {
 };
 ```
 
-### 🗺️ Norway Quest Progress
+<details>
+<summary><b>🗺️ Norway Quest Progress</b></summary>
 
 ```
 [█░░░░░░░░░] 10% Complete
@@ -67,6 +68,8 @@ const currentFocus = {
 ├─ 📍 Age 22-24: Build portfolio & gain experience
 └─ 🎯 Age 24-26: Move to Norway & start career
 ```
+
+</details>
 
 ---
 
@@ -81,12 +84,15 @@ const currentFocus = {
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
+<details>
+<summary><b>🖥️ Daily Environment</b></summary>
 
-### Daily Environment
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
 [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
 [![Zen Browser](https://img.shields.io/badge/Zen%20Browser-F76F53?logo=zenbrowser&logoColor=fff)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+
+</details>
 
 ### Learning Next
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
@@ -96,7 +102,8 @@ const currentFocus = {
 
 ---
 
-## 🌊 Beyond Code
+<details>
+<summary><b>🌊 Beyond Code</b></summary>
 
 ```yaml
 experiments:
@@ -125,6 +132,8 @@ inspiration:
   - The Flash
 ```
 
+</details>
+
 ---
 
 ## 📊 GitHub Stats
@@ -135,15 +144,12 @@ inspiration:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9)
 
-</div>
-
----
-
-## ⏱️ Coding Time
-
-<div align="center">
+<details>
+<summary><b>⏱️ Coding Time</b></summary>
 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&display_format=time&theme=nord)](https://wakatime.com/@artplay254)
+
+</details>
 
 </div>
 
@@ -164,15 +170,17 @@ inspiration:
 
 ---
 
-## 💬 Languages
+<details>
+<summary><b>💬 Languages</b></summary>
 
 🇷🇺 **Russian** — Native  
 🇬🇧 **English** — B2  
 🇳🇴 **Norwegian** — A1 (Learning)
 
----
+</details>
 
-## 🎯 Current Goals
+<details>
+<summary><b>🎯 Current Goals</b></summary>
 
 - [ ] Complete FreeCodeCamp Responsive Web Design Certification
 - [ ] Build 10 portfolio projects
@@ -181,6 +189,8 @@ inspiration:
 - [ ] Launch Discord community to 100+ members
 - [ ] Reach 100 hours of coding (WakaTime)
 - [ ] Learn Norwegian basics
+
+</details>
 
 ---
 
