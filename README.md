@@ -124,6 +124,8 @@ Based on [roadmap.sh Full Stack Developer Roadmap](https://roadmap.sh/full-stack
 <details>
 <summary>💪 What I'm About</summary>
 
+<br>
+
 ### Things I Value
 - **Deep conversations** over small talk
 - **Real friendships** over many fake ones
@@ -153,6 +155,8 @@ Based on [roadmap.sh Full Stack Developer Roadmap](https://roadmap.sh/full-stack
 <details>
 <summary>🎯 My Philosophy</summary>
 
+<br>
+
 > **"I naturally don't like when something is easy. I try to make hard things, take harder paths. When someone gets a harder task than me, I try to swap with them."**
 
 I'm the friend who tells the truth, even if it's uncomfortable. I don't "nod blindly" to people, especially those who act fake. I believe in filters, standards, boundaries — and that people who drag you down shouldn't be in your life.
@@ -166,6 +170,8 @@ I'm the friend who tells the truth, even if it's uncomfortable. I don't "nod bli
 
 <details>
 <summary>🌟 Random Facts</summary>
+
+<br>
 
 - 🐧 Daily driving **Arch Linux + KDE Plasma** for over a year
 - 🥶 **5 AM wake ups** and **cold showers** are part of my routine
