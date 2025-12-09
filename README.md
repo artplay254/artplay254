@@ -18,7 +18,7 @@
 
 ```typescript
 const artem = {
-  age: 14,
+  age: 15,
   location: "Lipetsk, Russia",
   dream: "Norway 🇳🇴",
   mindset: "discipline > motivation",
