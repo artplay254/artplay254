@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=81a1c1&height=200&section=header&text=Artem%20Semenihin&fontSize=50&fontColor=eceff4&animation=fadeIn&fontAlignY=35&desc=Building%20My%20Path%20to%20Norway%20•%20One%20Line%20at%20a%20Time&descAlignY=55&descSize=15)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=14+y%2Fo+Developer+from+Russia;Self-Taught+Web+Developer;Arch+Linux+Enthusiast;Future+Norway+Resident;Hard+Paths+Over+Easy+Ones)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=15+y%2Fo+Developer+from+Russia;Self-Taught+Web+Developer;Arch+Linux+Enthusiast;Future+Norway+Resident;Hard+Paths+Over+Easy+Ones)](https://git.io/typing-svg)
 
 ![Arch Linux User](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![5AM Cold Showers](https://img.shields.io/badge/5AM%20Cold%20Showers-00D9FF?style=for-the-badge&logo=dropbox&logoColor=white)
