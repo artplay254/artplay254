@@ -1,215 +1,275 @@
-<div align="center">
+![capsule-header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Artem%20Semenihin&desc=15%20y/o%20·%20Lipetsk%20%7C%20Arch%20Linux%20%7C%20Learner%20%26%20Builder&fontSize=50&descSize=18)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=81a1c1&height=200&section=header&text=Artem%20Semenihin&fontSize=50&fontColor=eceff4&animation=fadeIn&fontAlignY=35&desc=Building%20My%20Path%20to%20Norway%20•%20One%20Line%20at%20a%20Time&descAlignY=55&descSize=15)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=88C0D0&center=true&vCenter=true&width=435&lines=15+y%2Fo+Developer+from+Russia;Self-Taught+Web+Developer;Arch+Linux+Enthusiast;Future+Norway+Resident;Hard+Paths+Over+Easy+Ones)](https://git.io/typing-svg)
-
-![Arch Linux User](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![5AM Cold Showers](https://img.shields.io/badge/5AM%20Cold%20Showers-00D9FF?style=for-the-badge&logo=dropbox&logoColor=white)
-[![WakaTime](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge)](https://wakatime.com/@artplay254)
-![Learning](https://img.shields.io/badge/Always-Learning-5E81AC?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Norway Quest](https://img.shields.io/badge/Norway%20Quest-2030--2032-D08770?style=for-the-badge&logo=map&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="https://github.com/artplay254"><img alt="GitHub - Artem" src="https://img.shields.io/badge/GitHub-artplay254-2e3440?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-2e3440?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
+  <img alt="KDE Plasma" src="https://img.shields.io/badge/KDE%20Plasma-88c0d0?style=for-the-badge&logo=kde&logoColor=white">
+  <img alt="Cold Showers" src="https://img.shields.io/badge/Cold%20Showers-5%20AM-81a1c1?style=for-the-badge">
+  <a href="https://wakatime.com/@artplay254"><img alt="WakaTime" src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg"></a>
+  <a href="https://discord.gg/DwrxkdJdUC"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20Community-5e81ac?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://t.me/artplay254"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@artplay254-81a1c1?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</p>
 
 ---
 
-## 👋 About Me
+# Hi — I'm **Artem Semenihin** 👋  
+**Disciplined · Curious · Introverted · Active · Tech-driven**
 
-```typescript
-const artem = {
-  age: 15,
+```ts
+// about.me (short, typed)
+const Artem = {
+  name: "Artem Semenihin",
+  born: "Dec 7, 2010",
   location: "Lipetsk, Russia",
-  dream: "Norway 🇳🇴",
-  mindset: "discipline > motivation",
-  philosophy: "choose hard paths, avoid fake people, build strength",
-  
-  dailyRoutine: {
-    morning: ["5AM wake up", "cold shower", "workout"],
-    day: ["school", "coding", "self-development"],
-    evening: ["sports", "deep conversations", "learning"],
-  },
-  
-  believes: {
-    in: ["hard work", "real friendships", "continuous growth"],
-    against: ["laziness", "fake people", "easy paths"],
-  },
-  
-  currentMission: "Build skills → Land remote job → Move to Norway",
+  age: 15,
+  mindset: ["learn fast", "choose hard paths", "value deep friendships"],
+  stacks: ["HTML", "CSS", "JavaScript", "Linux", "Git"],
+  daily: ["Arch Linux", "KDE Plasma", "VS Code", "Firefox"],
+  hobbies: ["calisthenics", "parkour", "math", "physics", "building things"]
 };
+export default Artem;
 ```
 
-I'm **Artem Semenihin** — a disciplined, curious, introverted, active, tech-driven, honest, and self-improving young creator. I choose hard paths, avoid fake people, value deep connections, and am building myself into a strong, capable person — intellectually, physically, and morally.
+> One sentence: I'm a disciplined, curious, introverted, active, tech-driven young creator who chooses hard paths, avoids fake people, values deep connections, and is building myself into a strong, capable person — intellectually, physically, and morally.
 
-Since 12, I've been in my **experimenting era**: Blender, video editing, Arduino, parkour, calisthenics, martial arts, volleyball, PC building, Linux, cold showers, business plans, and more. Now at 14, I'm focused on **web development** and building my path to Norway.
 
-**My bro [Vlad](https://github.com/vlp0werr)** and I have been together since kindergarten — 10+ years of true friendship, same goal, same path forward.
 
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🔥 Currently Using / Learning
-
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
-
-### 💻 My Daily Environment
-
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
-[![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?logo=kdeplasma&logoColor=fff)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?logo=firefoxbrowser&logoColor=white)](#)
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](#)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
-
-### 📚 What's Next on the List
-
-Based on [roadmap.sh Full Stack Developer Roadmap](https://roadmap.sh/full-stack):
-
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
-[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
-
----
-
-## 🎯 Current Goals
-
-- [ ] Get FreeCodeCamp Responsive Web Design Certification
-- [ ] Build 10 portfolio projects
-- [ ] Contribute to open source
-- [ ] Master fundamentals
-- [ ] Launch Discord community to 100+ members
-- [ ] Reach 100 hours of coding (WakaTime)
-- [ ] Learn Norwegian basics
-
----
-
-## 🗺️ Norway Quest
-
-**The 10-Level Journey to Norway** (2025 → 2030-2032)
-
-```
-Level 1  ▓▓▓▓▓▓▓▓▓░  90%  Complete 9th Grade Strong
-Level 2  ▓▓▓▓░░░░░░  40%  Master Web Development Basics
-Level 3  ░░░░░░░░░░  00%  Finish 10-11th Grades
-Level 4  ░░░░░░░░░░  00%  Enter College/University
-Level 5  ░░░░░░░░░░  00%  Build Strong Portfolio
-Level 6  ░░░░░░░░░░  00%  Start Freelancing/Remote Work
-Level 7  ░░░░░░░░░░  00%  Gain Professional Experience
-Level 8  ░░░░░░░░░░  00%  Apply to Jobs in Norway
-Level 9  ░░░░░░░░░░  00%  Get Job Offer + Visa
-Level 10 ░░░░░░░░░░  00%  🇳🇴 Move to Norway!
-```
-
-**Why Norway?** Beautiful nature, crisp air, peaceful hiking, cold lakes, stable economy, quiet culture — everything I value.
-
----
-
-## 📊 WakaTime Stats
-
-<div align="center">
-
-[![Artem's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&layout=compact&theme=nord&hide_border=true&langs_count=6)](https://wakatime.com/@artplay254)
-
-</div>
 
 ---
 
 <details>
-<summary>💪 What I'm About</summary>
+<summary><strong>About me — longer (click to expand)</strong></summary>I'm quiet by nature and love deep conversations and honest friendships. I can be goofy and I also dig deep theoretical rabbit holes — especially anything that touches math, physics, and wild universe theories.
+I care about health (I drink lots of water, eat clean), I love active life (workouts, parkour, flips, street tricks), and I enjoy tinkering with tech — from building PCs to configuring Arch Linux. I started learning English through full immersion at 13 and now operate (and think) in English a lot — it's how I learn, build, and connect with the world.
 
-<br>
-
-### Things I Value
-- **Deep conversations** over small talk
-- **Real friendships** over many fake ones
-- **Hard paths** over easy ones
-- **Self-development** and challenging myself
-- **Active lifestyle**: calisthenics, parkour, volleyball, soccer, basketball
-- **Health**: water, clean food, no bad habits
-- **Tech**: Linux, AI, hardware, programming
-- **Learning**: mathematics, physics, IT
-
-### What I Stand Against
-- TikTok scrolling addiction
-- Laziness and weakness
-- Fake friendships and fake people
-- Unnecessary "depression" culture
-- Disrespect
-
-### How I Learn
-- FreeCodeCamp
-- YouTube (Stan Browney, Magnus Midtbø, Sergio Nee)
-- Reading documentation
-- StackOverflow & X
-- Full immersion (learning English this way since 13, now B2)
+I value quality, durability, and trusted brands — whether it's software, gear, or ideas. I want to move to Europe (Norway is my main inspiration right now) for the nature, clean air, stability, and quiet culture. My plan is to finish school, study, build skills and portfolio, work remotely, travel Europe, and decide where to settle by ~2032–2035.
 
 </details>
+---
 
-<details>
-<summary>🎯 My Philosophy</summary>
+Quick facts
 
-<br>
+📍 From: Lipetsk, Russia
 
-> **"I naturally don't like when something is easy. I try to make hard things, take harder paths. When someone gets a harder task than me, I try to swap with them."**
+🎂 Born: Dec 7, 2010 (15 y/o)
 
-I'm the friend who tells the truth, even if it's uncomfortable. I don't "nod blindly" to people, especially those who act fake. I believe in filters, standards, boundaries — and that people who drag you down shouldn't be in your life.
+🧭 Current focus: Web basics — HTML, CSS, JavaScript
 
-**Inspirations:**
-- **Dragon Ball**: Get up and keep going no matter how many times you fall
-- **The Flash**: Speed and determination
-- **Arch Linux Philosophy**: Power, simplicity, and FOSS nature
+💻 Daily driver: Arch Linux + KDE Plasma
 
-</details>
+🎧 Favorite creators: Stan Browney · Magnus Midtbø · Sergio Nee
 
-<details>
-<summary>🌟 Random Facts</summary>
+🤝 Bro: Vlad (vlp0werr) — friend since kindergarten, same goals.
 
-<br>
 
-- 🐧 Daily driving **Arch Linux + KDE Plasma** for over a year
-- 🥶 **5 AM wake ups** and **cold showers** are part of my routine
-- 🎮 I like when things are **popular, high quality, and trusted**
-- 🇳🇴 Learning **Norwegian** basics for my Norway journey
-- 🎨 Design preference: **clean, minimalistic, readable, clear**
-- 👥 I only have a few friends, but we've been together **10+ years**
-- 💧 I drink **a lot of water** (almost nothing else)
-- 🏋️ **Calisthenics, parkour, volleyball** — I love active life
-- 📚 Mastered **English to B2** through full immersion since 13
-- 🎯 I'm always **respectful and kind**, but honest about my opinions
-
-</details>
 
 ---
 
-## 🤝 Let's Connect
+WakaTime — Nord-style coding card (visual)
+
+> Note: percentages below are illustrative placeholders — replace with real WakaTime language stats or link generated badges if you want live data.
+
+
 
 <div align="center">
 
-[![Discord Server](https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DwrxkdJdUC)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artplay254)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artplay254@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artplay254)
+Language	Time (approx)
 
-**Join my Discord community** — building a space for people with the same mindset: discipline, growth, and real connections.
+	40%
+	30%
+	20%
+	10%
 
-</div>
+
+</div><details>
+<summary><strong>Make this live</strong></summary>If you connect WakaTime public language badges or the "languages" share link, replace the table above with actual SVGs or a small generated card.
+
+I matched colors to a Nord-like palette to keep the theme cohesive (cool blues, soft auroras).
+
+
+</details>
+---
+
+Languages & Tools
+
+<details>
+<summary><strong>What I use / learning now</strong></summary>
+
+
+
+
+
+Learning sources: FreeCodeCamp, YouTube tutorials, docs, StackOverflow
+
+
+</details><details>
+<summary><strong>My daily environment</strong></summary>
+
+
+
+
+
+
+
+
+
+GitHub, WakaTime, terminal, dotfiles, and a good config.
+
+
+</details><details>
+<summary><strong>What's next (roadmap)</strong></summary>I'm following the Full Stack Developer roadmap to shape the "what next" list — backend basics, databases, deployment, and deeper JavaScript/TypeScript. See my next steps below. 
+
+Node.js basics → APIs → DB (Postgres, SQLite)
+
+Learn TypeScript → build typed apps
+
+Learn basics of Linux server ops & deploy small apps
+
+Explore React / Svelte — pick one for portfolio
+
+Start freelancing / remote projects
+
+
+</details>
+---
+
+Europe Quest — my path (levels)
+
+I call this my Europe Quest — the roadmap from school in Lipetsk → living calmly and working remotely in Europe (goal: Norway). Final target: travel, decide, move (2032–2035).
+
+<details>
+<summary><strong>Quest Levels</strong></summary>1. Level 1 — Finish school strong (9–11 grades).
+
+
+2. Level 2 — University / College (3–5 years).
+
+
+3. Level 3 — Build coding fundamentals (HTML/CSS/JS → advanced).
+
+
+4. Level 4 — Portfolio & freelancing (10 projects, OSS contributions).
+
+
+5. Level 5 — Remote job in Europe / internships.
+
+
+6. Level 6 — Travel across Europe (test countries, gather impressions).
+
+
+7. Level 7 — Decide & move (choose country → relocate → settle).
+
+
+
+Progress: [▮▮▯▯▯▯▯] — early stage, starting the climb.
+Final ETA: ~2032–2035 (based on school timeline and growth).
+
+</details>
+---
+
+Current Goals (short checklist)
+
+[ ] Get FreeCodeCamp Responsive Web Design Certification
+
+[ ] Build 10 portfolio projects
+
+[ ] Contribute to open source
+
+[ ] Master fundamentals (HTML, CSS, JS, data structures)
+
+[ ] Launch Discord community → 100+ members
+
+[ ] Reach 100 hours of coding (WakaTime)
+
+
 
 ---
 
-<div align="center">
+Featured projects (work in progress)
 
-### 🚀 *"Choose hard paths. Build strength. Move forward."*
+> Short list — all actively being built and improved.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=81a1c1&height=120&section=footer)
 
-</div>
+
+Portfolio v1 — personal site with dark-nord theme, responsive projects gallery (in progress)
+
+Parkour-Log — small app to track runs & tricks (idea → prototype)
+
+Linux Dotfiles — curated Arch + KDE setup (work in progress)
+
+Mini JS Utilities — useful micro-libraries for learning (in progress)
+
+
+(links will appear here as I publish them)
+
+
+---
+
+How I learn
+
+Structured free resources: freeCodeCamp (curriculum), official docs, and roadmap.sh.
+
+Deep dives: YouTube tutorials (Stan Browney, Magnus Midtbø, Sergio Nee), hands-on building, and reading other people's code.
+
+Daily habit: small builds, 5am cold shower mornings sometimes, workouts, and consistent practice.
+
+
+
+---
+
+Values & style
+
+I value truth, respect, and honest feedback.
+
+I don't follow trends for the sake of trends — I value quality and durability.
+
+I keep a small circle of real friends; we push each other to be better.
+
+
+
+---
+
+Contact & socials
+
+Discord: https://discord.gg/DwrxkdJdUC
+
+Telegram: @artplay254
+
+Email: artplay254@gmail.com
+
+GitHub: https://github.com/artplay254
+
+WakaTime: https://wakatime.com/@artplay254
+
+
+
+---
+
+Resources & inspiration
+
+Badge library & examples: md-badges (useful collection to style READMEs). 
+
+Capsule-style header/banners (used above): capsule-render — fast dynamic banners for GitHub READMEs. 
+
+Typing / animated SVGs for READMEs: readme-typing-svg / TypingSVG generators. 
+
+Roadmaps & learning path: roadmap.sh (Full Stack Developer) — my reference for next steps. 
+
+Color theme & palette inspiration: Nord theme — used for color choices and vibe. 
+
+
+
+---
+
+<details>
+<summary><strong>Notes for maintainers (me)</strong></summary>Keep badges lightweight (use SVG badges and hosted svgs) so the README loads fast on all devices.
+
+Replace placeholder WakaTime language badges with live WakaTime language-share badges when ready.
+
+Keep the capsule header text short to avoid wrapping on mobile.
+
+Keep design minimal: avoid heavy gifs or too many large images.
+
+
+</details>
+---
+
+Thanks for stopping by — if you like clear, honest work and cold mornings, say hi. ✌️
