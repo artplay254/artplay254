@@ -1,275 +1,300 @@
-![capsule-header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Artem%20Semenihin&desc=15%20y/o%20·%20Lipetsk%20%7C%20Arch%20Linux%20%7C%20Learner%20%26%20Builder&fontSize=50&descSize=18)
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/artplay254"><img alt="GitHub - Artem" src="https://img.shields.io/badge/GitHub-artplay254-2e3440?style=for-the-badge&logo=github&logoColor=white"></a>
-  <img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-2e3440?style=for-the-badge&logo=arch-linux&logoColor=1793D1">
-  <img alt="KDE Plasma" src="https://img.shields.io/badge/KDE%20Plasma-88c0d0?style=for-the-badge&logo=kde&logoColor=white">
-  <img alt="Cold Showers" src="https://img.shields.io/badge/Cold%20Showers-5%20AM-81a1c1?style=for-the-badge">
-  <a href="https://wakatime.com/@artplay254"><img alt="WakaTime" src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg"></a>
-  <a href="https://discord.gg/DwrxkdJdUC"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join%20Community-5e81ac?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://t.me/artplay254"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-@artplay254-81a1c1?style=for-the-badge&logo=telegram&logoColor=white"></a>
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:81A1C1&height=200&section=header&text=Artem%20Semenihin&fontSize=50&fontColor=ECEFF4&animation=fadeIn&fontAlignY=35&desc=Building%20Myself%20Into%20Something%20Exceptional&descAlignY=51&descAlign=50)
+
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org/)
+[![5 AM Cold Showers](https://img.shields.io/badge/5%20AM-Cold%20Showers-5E81AC?style=for-the-badge&logo=snowflake&logoColor=white)](#)
+[![WakaTime](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge)](https://wakatime.com/@artplay254)
+[![Discord](https://img.shields.io/badge/Community-Builder-88C0D0?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DwrxkdJdUC)
+[![Born 2010](https://img.shields.io/badge/Born-Dec%207%2C%202010-A3BE8C?style=for-the-badge&logo=cake&logoColor=white)](#)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&random=false&width=600&lines=15+years+old.+9th+grade.+%F0%9F%87%B7%F0%9F%87%BA+%E2%86%92+%F0%9F%87%AA%F0%9F%87%BA;Choosing+hard+paths%2C+building+real+strength;Tech+%7C+Sports+%7C+Self-Development;Discipline+%3E+Motivation" alt="Typing SVG" />
+
+</div>
 
 ---
 
-# Hi — I'm **Artem Semenihin** 👋  
-**Disciplined · Curious · Introverted · Active · Tech-driven**
+## `const aboutMe = {`
 
-```ts
-// about.me (short, typed)
-const Artem = {
+```javascript
   name: "Artem Semenihin",
-  born: "Dec 7, 2010",
-  location: "Lipetsk, Russia",
   age: 15,
-  mindset: ["learn fast", "choose hard paths", "value deep friendships"],
-  stacks: ["HTML", "CSS", "JavaScript", "Linux", "Git"],
-  daily: ["Arch Linux", "KDE Plasma", "VS Code", "Firefox"],
-  hobbies: ["calisthenics", "parkour", "math", "physics", "building things"]
+  location: "Lipetsk, Russia → Europe (soon)",
+  targetDestination: "Norway",
+  personality: ["introvert", "curious", "disciplined", "honest", "deep-thinker"],
+  
+  philosophy: {
+    approach: "Hard paths make strong people",
+    motto: "Get up and keep going, no matter how many times you fall",
+    values: ["truth", "real friendships", "self-improvement", "respect"],
+    rejects: ["fake people", "shortcuts", "laziness", "mediocrity"]
+  },
+  
+  dailyLife: {
+    os: "Arch Linux + KDE Plasma",
+    drinks: "Only water (occasionally other)",
+    habits: ["5 AM wake-ups", "cold showers", "workouts", "clean eating"],
+    badHabits: []
+  },
+  
+  interests: [
+    "Mathematics & Physics",
+    "Linux & PC Hardware", 
+    "Calisthenics & Parkour",
+    "Deep universe theories",
+    "Building & Creating"
+  ],
+  
+  currentMission: "Master web development → Build portfolio → Work remotely in Europe",
+  journeyStartDate: "January 1, 2026",
+  finalGoal: "Living peacefully in Europe (2032-2035)"
 };
-export default Artem;
 ```
 
-> One sentence: I'm a disciplined, curious, introverted, active, tech-driven young creator who chooses hard paths, avoids fake people, values deep connections, and is building myself into a strong, capable person — intellectually, physically, and morally.
-
-
-
+## `}`
 
 ---
-
-<details>
-<summary><strong>About me — longer (click to expand)</strong></summary>I'm quiet by nature and love deep conversations and honest friendships. I can be goofy and I also dig deep theoretical rabbit holes — especially anything that touches math, physics, and wild universe theories.
-I care about health (I drink lots of water, eat clean), I love active life (workouts, parkour, flips, street tricks), and I enjoy tinkering with tech — from building PCs to configuring Arch Linux. I started learning English through full immersion at 13 and now operate (and think) in English a lot — it's how I learn, build, and connect with the world.
-
-I value quality, durability, and trusted brands — whether it's software, gear, or ideas. I want to move to Europe (Norway is my main inspiration right now) for the nature, clean air, stability, and quiet culture. My plan is to finish school, study, build skills and portfolio, work remotely, travel Europe, and decide where to settle by ~2032–2035.
-
-</details>
----
-
-Quick facts
-
-📍 From: Lipetsk, Russia
-
-🎂 Born: Dec 7, 2010 (15 y/o)
-
-🧭 Current focus: Web basics — HTML, CSS, JavaScript
-
-💻 Daily driver: Arch Linux + KDE Plasma
-
-🎧 Favorite creators: Stan Browney · Magnus Midtbø · Sergio Nee
-
-🤝 Bro: Vlad (vlp0werr) — friend since kindergarten, same goals.
-
-
-
----
-
-WakaTime — Nord-style coding card (visual)
-
-> Note: percentages below are illustrative placeholders — replace with real WakaTime language stats or link generated badges if you want live data.
-
-
 
 <div align="center">
 
-Language	Time (approx)
+## 🎯 **Current Focus**
 
-	40%
-	30%
-	20%
-	10%
+**Officially starting my coding journey on January 1st, 2026**
 
+Learning the foundations of web development while staying physically and mentally strong
 
-</div><details>
-<summary><strong>Make this live</strong></summary>If you connect WakaTime public language badges or the "languages" share link, replace the table above with actual SVGs or a small generated card.
+</div>
 
-I matched colors to a Nord-like palette to keep the theme cohesive (cool blues, soft auroras).
-
-
-</details>
 ---
 
-Languages & Tools
+## 🚀 Q1 2026 Goals
+
+- [ ] Get FreeCodeCamp Responsive Web Design Certification
+- [ ] Build 10 portfolio projects
+- [ ] Contribute to open source
+- [ ] Master HTML, CSS, JavaScript fundamentals
+- [ ] Launch Discord community to 100+ members
+- [ ] Reach 100 hours of coding (WakaTime)
+
+---
+
+## 🗺️ Europe Quest
 
 <details>
-<summary><strong>What I use / learning now</strong></summary>
+<summary><b>Click to view my journey to Europe</b></summary>
 
+<br>
 
+```mermaid
+graph TD
+    A[🎓 Level 1: Finish School Strong] --> B[📚 Level 2: College/University]
+    B --> C[💻 Level 3: Self-Learn Coding]
+    C --> D[💼 Level 4: Start Freelancing/Remote Work]
+    D --> E[📦 Level 5: Build Strong Portfolio]
+    E --> F[🎯 Level 6: Apply to Full-Time Remote Jobs in Europe]
+    F --> G[✈️ Level 7: Travel Across Europe]
+    G --> H[🏔️ Level 8: Decide on Country]
+    H --> I[🏡 Final Level: Move & Live Peacefully]
+    
+    style A fill:#5E81AC,stroke:#4C566A,color:#ECEFF4
+    style B fill:#5E81AC,stroke:#4C566A,color:#ECEFF4
+    style C fill:#5E81AC,stroke:#4C566A,color:#ECEFF4
+    style D fill:#81A1C1,stroke:#4C566A,color:#ECEFF4
+    style E fill:#81A1C1,stroke:#4C566A,color:#ECEFF4
+    style F fill:#88C0D0,stroke:#4C566A,color:#2E3440
+    style G fill:#88C0D0,stroke:#4C566A,color:#2E3440
+    style H fill:#A3BE8C,stroke:#4C566A,color:#2E3440
+    style I fill:#A3BE8C,stroke:#4C566A,color:#2E3440
+```
 
-
-
-Learning sources: FreeCodeCamp, YouTube tutorials, docs, StackOverflow
-
-
-</details><details>
-<summary><strong>My daily environment</strong></summary>
-
-
-
-
-
-
-
-
-
-GitHub, WakaTime, terminal, dotfiles, and a good config.
-
-
-</details><details>
-<summary><strong>What's next (roadmap)</strong></summary>I'm following the Full Stack Developer roadmap to shape the "what next" list — backend basics, databases, deployment, and deeper JavaScript/TypeScript. See my next steps below. 
-
-Node.js basics → APIs → DB (Postgres, SQLite)
-
-Learn TypeScript → build typed apps
-
-Learn basics of Linux server ops & deploy small apps
-
-Explore React / Svelte — pick one for portfolio
-
-Start freelancing / remote projects
-
+**Current Level:** Level 1 (9th grade)  
+**Target Completion:** 2032-2035  
+**Why Norway?** Beautiful nature, clean air/water, peaceful culture, work-life balance, freedom to explore Europe
 
 </details>
+
 ---
 
-Europe Quest — my path (levels)
+## 📊 Coding Stats
 
-I call this my Europe Quest — the roadmap from school in Lipetsk → living calmly and working remotely in Europe (goal: Norway). Final target: travel, decide, move (2032–2035).
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg)](https://wakatime.com/@72b1c550-60d3-405b-ac99-8959268a85f2)
+
+[![Artem's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&layout=compact&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&text_color=D8DEE9&icon_color=81A1C1)](https://wakatime.com/@artplay254)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack & Environment
+
+### 📚 Currently Learning
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+### 💻 Daily Environment
+
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**AI Tools:**  
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+### 🎯 Next on Roadmap
 
 <details>
-<summary><strong>Quest Levels</strong></summary>1. Level 1 — Finish school strong (9–11 grades).
+<summary><b>Full Stack Developer Path (roadmap.sh)</b></summary>
 
+<br>
 
-2. Level 2 — University / College (3–5 years).
+**Frontend:**
+- React.js
+- TypeScript
+- Tailwind CSS
+- Next.js
 
+**Backend:**
+- Node.js
+- Express.js
+- RESTful APIs
+- Authentication & Authorization
 
-3. Level 3 — Build coding fundamentals (HTML/CSS/JS → advanced).
+**Database:**
+- PostgreSQL
+- MongoDB
 
-
-4. Level 4 — Portfolio & freelancing (10 projects, OSS contributions).
-
-
-5. Level 5 — Remote job in Europe / internships.
-
-
-6. Level 6 — Travel across Europe (test countries, gather impressions).
-
-
-7. Level 7 — Decide & move (choose country → relocate → settle).
-
-
-
-Progress: [▮▮▯▯▯▯▯] — early stage, starting the climb.
-Final ETA: ~2032–2035 (based on school timeline and growth).
+**DevOps & Tools:**
+- Docker
+- Linux Server Management
+- CI/CD Pipelines
+- Cloud Services (AWS/DigitalOcean)
 
 </details>
----
-
-Current Goals (short checklist)
-
-[ ] Get FreeCodeCamp Responsive Web Design Certification
-
-[ ] Build 10 portfolio projects
-
-[ ] Contribute to open source
-
-[ ] Master fundamentals (HTML, CSS, JS, data structures)
-
-[ ] Launch Discord community → 100+ members
-
-[ ] Reach 100 hours of coding (WakaTime)
-
-
 
 ---
 
-Featured projects (work in progress)
+## 🎨 Featured Projects
 
-> Short list — all actively being built and improved.
+> 🚧 **Projects in Progress** — Building my portfolio from scratch, one project at a time
 
+*Coming soon: 10 portfolio projects showcasing HTML, CSS, JavaScript fundamentals*
 
-
-Portfolio v1 — personal site with dark-nord theme, responsive projects gallery (in progress)
-
-Parkour-Log — small app to track runs & tricks (idea → prototype)
-
-Linux Dotfiles — curated Arch + KDE setup (work in progress)
-
-Mini JS Utilities — useful micro-libraries for learning (in progress)
-
-
-(links will appear here as I publish them)
-
-
----
-
-How I learn
-
-Structured free resources: freeCodeCamp (curriculum), official docs, and roadmap.sh.
-
-Deep dives: YouTube tutorials (Stan Browney, Magnus Midtbø, Sergio Nee), hands-on building, and reading other people's code.
-
-Daily habit: small builds, 5am cold shower mornings sometimes, workouts, and consistent practice.
-
-
-
----
-
-Values & style
-
-I value truth, respect, and honest feedback.
-
-I don't follow trends for the sake of trends — I value quality and durability.
-
-I keep a small circle of real friends; we push each other to be better.
-
-
-
----
-
-Contact & socials
-
-Discord: https://discord.gg/DwrxkdJdUC
-
-Telegram: @artplay254
-
-Email: artplay254@gmail.com
-
-GitHub: https://github.com/artplay254
-
-WakaTime: https://wakatime.com/@artplay254
-
-
-
----
-
-Resources & inspiration
-
-Badge library & examples: md-badges (useful collection to style READMEs). 
-
-Capsule-style header/banners (used above): capsule-render — fast dynamic banners for GitHub READMEs. 
-
-Typing / animated SVGs for READMEs: readme-typing-svg / TypingSVG generators. 
-
-Roadmaps & learning path: roadmap.sh (Full Stack Developer) — my reference for next steps. 
-
-Color theme & palette inspiration: Nord theme — used for color choices and vibe. 
-
-
+Stay tuned for updates as I build real-world projects starting January 2026!
 
 ---
 
 <details>
-<summary><strong>Notes for maintainers (me)</strong></summary>Keep badges lightweight (use SVG badges and hosted svgs) so the README loads fast on all devices.
+<summary><b>🧠 What Drives Me</b></summary>
 
-Replace placeholder WakaTime language badges with live WakaTime language-share badges when ready.
+<br>
 
-Keep the capsule header text short to avoid wrapping on mobile.
+I'm not your average 15-year-old. While most people my age are scrolling TikTok and wasting their potential, I'm:
 
-Keep design minimal: avoid heavy gifs or too many large images.
+- **Waking up at 5 AM** for cold showers and workouts
+- **Running Arch Linux** because I value freedom, power, and control
+- **Choosing hard paths** because easy ones don't build character
+- **Learning English through immersion** (B2 level, thinking in English)
+- **Staying disciplined** with clean eating, no bad habits, active lifestyle
+- **Building real friendships** that last over 10 years
 
+I experimented with everything since age 12: Blender, video editing, Arduino, parkour, calisthenics, martial arts, business planning, PC building, and more. Now I'm focused on **coding** — my path to freedom and Europe.
+
+I don't follow trends. I build myself into something **exceptional**.
+
+**Inspirations:** Dragon Ball (keep going no matter what), Stan Browney, Magnus Midtbø, Sergio Nee
 
 </details>
+
 ---
 
-Thanks for stopping by — if you like clear, honest work and cold mornings, say hi. ✌️
+<details>
+<summary><b>🤝 The Brotherhood</b></summary>
+
+<br>
+
+Shoutout to my bro **Vlad** ([@vlp0werr](https://github.com/vlp0werr)) — we've been together since kindergarten, over 10 years of true friendship. We share the same goal: **Europe**. We're building ourselves together, pushing each other to be better every single day.
+
+Real friendships are rare. This is one of them.
+
+</details>
+
+---
+
+<details>
+<summary><b>💪 Beyond Coding</b></summary>
+
+<br>
+
+I believe in balance. While I'm building my coding skills, I'm also:
+
+- **Staying physically strong:** Calisthenics, parkour, workouts, sports (volleyball, soccer, basketball)
+- **Staying mentally sharp:** Mathematics, physics, deep conversations about the universe
+- **Staying disciplined:** Clean eating, water-only drinking, no bad habits
+- **Challenging myself:** Taking harder paths, swapping easy tasks for difficult ones
+
+**Health = Wealth.** A strong body supports a strong mind.
+
+</details>
+
+---
+
+<details>
+<summary><b>🎯 My Philosophy</b></summary>
+
+<br>
+
+```javascript
+const myPhilosophy = {
+  truth: "I tell it like it is, even if it's uncomfortable",
+  standards: "Filters, boundaries, and high standards keep me surrounded by quality people",
+  discipline: "Discipline > Motivation. Always.",
+  growth: "Choose the hard path. It makes you stronger.",
+  authenticity: "No fake people, no fake friendships, no fake life"
+};
+
+// I respect everyone, but I don't tolerate mediocrity in my circle
+```
+
+</details>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Discord Server](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DwrxkdJdUC)
+[![Telegram](https://img.shields.io/badge/Telegram-@artplay254-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artplay254)
+[![Email](https://img.shields.io/badge/Email-artplay254@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artplay254@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-artplay254-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artplay254)
+[![WakaTime](https://img.shields.io/badge/WakaTime-artplay254-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@artplay254)
+
+**Join my Discord community** — building a space for people with the same mindset: disciplined, ambitious, real.
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 One Last Thing
+
+> *"I'm building myself into someone exceptional — intellectually, physically, and morally. Not because it's easy, but because it's worth it."*
+
+**The journey starts January 1st, 2026. Let's go.**
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:81A1C1,100:5E81AC&height=120&section=footer)
+
+</div>
