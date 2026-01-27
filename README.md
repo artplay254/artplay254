@@ -1,300 +1,370 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:88C0D0&height=200&section=header&text=Artem%20Semenihin&fontSize=50&fontColor=ECEFF4&animation=fadeIn&fontAlignY=35&desc=Building%20myself%20into%20something%20strong&descAlignY=51&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,50:81A1C1,100:88C0D0&height=200&section=header&text=Artem%20Semenihin&fontSize=50&fontColor=ECEFF4&animation=fadeIn&fontAlignY=38&desc=Building%20My%20Future,%20One%20Line%20at%20a%20Time&descAlignY=55&descAlign=50)
 
-[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
-[![5 AM Warrior](https://img.shields.io/badge/5%20AM-WARRIOR-5E81AC?style=for-the-badge&logo=sunrise&logoColor=white)]()
-[![Cold Showers](https://img.shields.io/badge/COLD-SHOWERS-88C0D0?style=for-the-badge&logo=snowflake&logoColor=white)]()
-[![WakaTime](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge)](https://wakatime.com/@artplay254)
-[![Journey Started](https://img.shields.io/badge/Journey%20Started-Jan%202026-A3BE8C?style=for-the-badge&logo=rocket&logoColor=white)]()
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-Daily%20Driver-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=2E3440)](https://archlinux.org/)
+[![Coding Time](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge&labelColor=2E3440&color=5E81AC)](https://wakatime.com/@artplay254)
+[![Cold Showers](https://img.shields.io/badge/5AM%20Cold%20Showers-%E2%84%83-88C0D0?style=for-the-badge&logo=snowflake&logoColor=white&labelColor=2E3440)](#)
+[![Started](https://img.shields.io/badge/Journey%20Started-Jan%201,%202026-A3BE8C?style=for-the-badge&labelColor=2E3440)](#)
+[![Age](https://img.shields.io/badge/Age-15-EBCB8B?style=for-the-badge&labelColor=2E3440)](#)
+[![Europe Quest](https://img.shields.io/badge/Europe%20Quest-In%20Progress-BF616A?style=for-the-badge&labelColor=2E3440)](#)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&multiline=true&width=600&height=100&lines=15+%7C+Russia+%E2%86%92+Europe;Introvert+%7C+Deep+Thinker+%7C+Active+Creator;Choosing+hard+paths%2C+building+strong+foundations" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=80&lines=const+developer+%3D+%7B;++name%3A+'Artem+Semenihin'%2C+mission%3A+'Europe+%F0%9F%87%AA%F0%9F%87%BA';%7D%3B)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `const artem = {`
+## 🧬 About Me
 
-```javascript
-  name: "Artem Semenihin",
+```typescript
+const artem = {
+  location: "Lipetsk, Russia 🇷🇺 → Europe 🇪🇺 (2032-2035)",
   age: 15,
-  location: "Lipetsk, Russia",
-  destination: "Europe (Norway? 🇳🇴)",
-  started: "January 1, 2026",
+  grade: 9,
+  born: new Date("2010-12-07"),
   
   identity: {
-    personality: ["introvert", "disciplined", "curious", "honest"],
-    values: ["deep conversations", "real friendships", "hard work", "growth"],
-    mindset: "If it's easy, I'll make it harder. If I fall, I get back up.",
+    personality: "Quiet-loving introvert",
+    values: ["Deep conversations", "Real friendships", "Truth over comfort"],
+    approach: "Choose hard paths, challenge myself, never settle for easy"
   },
   
-  loves: [
-    "Mathematics, Physics, IT",
-    "Arch Linux & KDE Plasma",
-    "Workouts, parkour, calisthenics",
-    "Clean code & clean living",
-    "Dragon Ball philosophy",
-    "Cold water & 5 AM sunrises"
+  mission: "Build myself into a strong, capable person — intellectually, physically, morally",
+  
+  currentFocus: [
+    "Mastering web development fundamentals",
+    "Building real projects that matter",
+    "Optimizing health & longevity (inspired by Bryan Johnson)",
+    "Training body & mind daily"
   ],
   
-  rejects: [
-    "TikTok scrolling addiction",
-    "Fake friendships",
-    "Laziness & weakness",
-    "Bad habits (smoking, drinking)"
-  ],
+  dreamDestination: "Norway 🇳🇴",
   
-  currentFocus: "Learning web development, building projects, staying active",
-  futureGoal: "Remote work in Europe, financial freedom, meaningful impact"
+  oneLiner: () => {
+    return "Disciplined. Curious. Honest. Self-improving. Choosing the hard path.";
+  }
 };
 ```
 
-## `}`
+> **I'm the friend who tells the truth, even if it's uncomfortable.**  
+> I don't "nod blindly" to people. I believe in filters, standards, boundaries — and that people who drag you down shouldn't be in your life.
 
 ---
 
-## 🎯 **About Me**
-
-I'm **Artem** — a 15-year-old developer, athlete, and deep thinker from Russia, working toward a life in Europe. I don't follow trends; I build myself intentionally. I value **truth over comfort**, **depth over surface**, and **action over words**.
-
-I'm the friend who tells you the truth even when it's uncomfortable. I don't nod blindly to people. I believe in filters, standards, and boundaries — people who drag you down don't belong in your life.
-
-I'm building myself **intellectually** (coding, math, physics), **physically** (calisthenics, parkour, cold showers), and **morally** (honesty, discipline, kindness). I started my journey on **January 1, 2026**, and I'm documenting every step.
-
-**Fun fact:** I daily drive **Arch Linux with KDE Plasma** for over a year. Why? Power, simplicity, freedom. No bloat. No telemetry. Just pure control.
-
----
-
-## 🚀 **Europe Quest** — *My 2026-2035 Journey*
+## 🚀 Europe Quest — My Roadmap to Freedom
 
 <details>
-<summary>📍 Click to expand the roadmap</summary>
+<summary><b>🗺️ Click to view the complete journey (2026-2035)</b></summary>
+
+<br>
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                     🗺️  THE EUROPE PATH                     │
-└─────────────────────────────────────────────────────────────┘
-
-📌 Level 1: Foundation (2026-2027)
-   ├─ Finish 9th grade strongly
-   ├─ Pass exams with high scores
-   └─ Build solid web development skills (HTML/CSS/JS)
-
-📌 Level 2: Skill Building (2027-2029)
-   ├─ Finish 10th-11th grades
-   ├─ Self-learn full-stack development
-   ├─ Build portfolio with real projects
-   └─ Start freelancing or remote work
-
-📌 Level 3: Higher Education (2029-2032)
-   ├─ Enter College/University (3-5 years)
-   ├─ Continue remote work
-   └─ Build professional network
-
-📌 Level 4: Professional Growth (2032-2033)
-   ├─ Apply to full-time remote jobs in Europe
-   ├─ Build strong income stream
-   └─ Gain work experience with European companies
-
-📌 Level 5: Exploration (2033-2034)
-   ├─ Start traveling across Europe
-   ├─ Experience different countries & cultures
-   ├─ Discover Norway, Sweden, Switzerland, Germany, etc.
-   └─ Find the perfect place
-
-📌 Level 6: FINAL DESTINATION (2034-2035)
-   ├─ Decide which country feels like home
-   ├─ Move there permanently
-   ├─ Start living and working peacefully
-   └─ ✅ QUEST COMPLETED
-
-Current Status: 🟢 Level 1 in progress
-Progress: ████░░░░░░░░░░░░░░░░ 15%
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  🎯 FINAL BOSS: Living & Working in Europe (2032-2035)        │
+│     ✓ Full-time remote job secured                            │
+│     ✓ Traveling across Europe completed                       │
+│     ✓ Country chosen (Norway, most likely)                    │
+│     ✓ Relocation complete — living the dream                  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+                              ▲
+                              │
+┌─────────────────────────────────────────────────────────────────┐
+│  🌍 LEVEL 7: Travel & Explore (2030-2032)                      │
+│     □ Visit multiple European countries                        │
+│     □ Experience different cultures                            │
+│     □ Find the perfect place to call home                      │
+└─────────────────────────────────────────────────────────────────┘
+                              ▲
+                              │
+┌─────────────────────────────────────────────────────────────────┐
+│  💼 LEVEL 6: Secure Remote Work (2029-2030)                    │
+│     □ Apply to full-time remote positions in Europe            │
+│     □ Land the job — start earning in EUR                      │
+│     □ Establish financial independence                         │
+└─────────────────────────────────────────────────────────────────┘
+                              ▲
+                              │
+┌─────────────────────────────────────────────────────────────────┐
+│  🎨 LEVEL 5: Build Portfolio (2027-2029)                       │
+│     □ Create impressive real-world projects                    │
+│     □ Contribute to open source                                │
+│     □ Build personal brand & reputation                        │
+└─────────────────────────────────────────────────────────────────┘
+                              ▲
+                              │
+┌─────────────────────────────────────────────────────────────────┐
+│  💰 LEVEL 4: Start Freelancing (2026-2027)                     │
+│     □ Begin taking freelance projects                          │
+│     □ Gain real client experience                              │
+│     □ Build initial professional network                       │
+└─────────────────────────────────────────────────────────────────┘
+                              ▲
+                              │
+┌─────────────────────────────────────────────────────────────────┐
+│  📚 LEVEL 3: College/University (2026-2031)                    │
+│     □ Get accepted into college/university                     │
+│     □ Study while continuing self-education                    │
+│     □ Balance academics with coding practice                   │
+└─────────────────────────────────────────────────────────────────┘
+                              ▲
+                              │
+┌─────────────────────────────────────────────────────────────────┐
+│  🎓 LEVEL 2: Finish School Strong (2024-2026)                  │
+│     ✓ Complete 9th grade                                       │
+│     □ Excel in 10th grade                                      │
+│     □ Crush 11th grade & final exams                           │
+└─────────────────────────────────────────────────────────────────┘
+                              ▲
+                              │
+┌─────────────────────────────────────────────────────────────────┐
+│  🔥 LEVEL 1: Self-Learning Journey [CURRENT LEVEL]             │
+│     ✓ Started January 1, 2026                                  │
+│     ▶ Learning HTML, CSS, JavaScript fundamentals              │
+│     ▶ Building projects & practicing daily                     │
+│     ▶ Growing skills through immersion                         │
+└─────────────────────────────────────────────────────────────────┘
 ```
+
+**Progress:** Level 1/7 — Foundation Phase 🔥  
+**Time to Goal:** 6-9 years  
+**Commitment:** 100%
 
 </details>
 
 ---
 
-## 🎯 **Q1 2026 Goals**
-
-- [ ] Complete freeCodeCamp Responsive Web Design Certification
-- [ ] Build 3 portfolio-worthy projects (personal website, interactive tool, creative experiment)
-- [ ] Reach 100+ hours on WakaTime
-- [ ] Read 3 books (technical + self-development)
-- [ ] Maintain daily workout routine (calisthenics, parkour)
-- [ ] Keep 5 AM wake-up streak for 60+ days
-- [ ] Write 10 technical blog posts / documentation
-- [ ] Grow Discord community to 50+ members
-
----
-
-## 📊 **WakaTime Stats**
+## 📊 Coding Stats
 
 <div align="center">
 
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&layout=compact&theme=nord&hide_border=true&langs_count=6)](https://wakatime.com/@artplay254)
+[![wakatime](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg)](https://wakatime.com/@72b1c550-60d3-405b-ac99-8959268a85f2)
+
+[![Artem's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&theme=nord&layout=compact&custom_title=Coding+Time+Distribution&langs_count=8&border_color=5E81AC&title_color=88C0D0&text_color=D8DEE9&bg_color=2E3440&icon_color=81A1C1)](https://wakatime.com/@artplay254)
 
 </div>
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## 🛠️ Languages & Tools
 
-### **Currently Using**
+### 🎯 What I'm Using & Learning Now
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-### **Daily Environment**
+### 💻 My Daily Environment
 
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logo=anthropic&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 
-### **Next on the List** — *[roadmap.sh/full-stack](https://roadmap.sh/full-stack)*
+> **Why Arch + Plasma?**  
+> Arch for its rolling release, power, simplicity, and freedom. Plasma because it has literally every feature you'll ever need, looks beautiful, and just works — built to get stuff done, not waste time ricing.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+### 📚 What's Next on the Roadmap
+
+Based on the [Full Stack Developer Roadmap](https://roadmap.sh/full-stack):
+
+<details>
+<summary><b>Frontend Track</b></summary>
+
+- **Advanced JavaScript**: ES6+, async/await, promises
+- **React.js**: Components, hooks, state management
+- **TypeScript**: Type safety & better DX
+- **Responsive Design**: Mobile-first, CSS Grid, Flexbox
+- **Build Tools**: Webpack, Vite
+- **Package Managers**: npm, yarn, pnpm
+
+</details>
+
+<details>
+<summary><b>Backend Track</b></summary>
+
+- **Node.js**: Server-side JavaScript
+- **Express.js**: Backend framework
+- **Databases**: PostgreSQL (SQL), MongoDB (NoSQL)
+- **RESTful APIs**: Design & implementation
+- **Authentication**: JWT, OAuth
+- **Testing**: Jest, Mocha
+
+</details>
+
+<details>
+<summary><b>DevOps & Deployment</b></summary>
+
+- **Docker**: Containerization
+- **CI/CD**: GitHub Actions, automated deployment
+- **Cloud Platforms**: AWS / Vercel / Netlify
+- **Linux Server Management**: nginx, security
+
+</details>
 
 ---
 
-## 💼 **Featured Projects**
+## 🎯 Q1 2026 Goals (Jan-Mar)
 
-> 🚧 **Building in progress...** Real projects coming soon. Check back in Q1 2026.
+- [ ] Complete FreeCodeCamp Responsive Web Design Certification
+- [ ] Build & deploy 3 real projects (portfolio site, landing page, web app)
+- [ ] Master JavaScript fundamentals (arrays, objects, functions, DOM manipulation)
+- [ ] Contribute to 2 open-source projects
+- [ ] Write 5 technical blog posts/dev logs
+- [ ] Reach 100+ hours of coding time on WakaTime
+- [ ] Establish consistent 5 AM wake-up routine with cold showers
+- [ ] Maintain 6-day/week workout split (calisthenics + parkour)
+- [ ] Read 3 tech/self-development books
+
+---
+
+## 🚧 Featured Projects
+
+> **Note:** These projects are currently in progress. I'm building them from scratch to learn and showcase real skills.
 
 <div align="center">
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🌐 **Personal Portfolio** | Modern, responsive portfolio website | 🔨 In Progress |
-| 🎮 **Interactive Tool** | Creative web experiment (TBA) | 📋 Planning |
-| 📝 **Documentation Site** | Technical writing & learning notes | 🔨 In Progress |
+### 🔨 Coming Soon
+
+**WorkoutFlow** — Mobile app for tracking calisthenics, parkour, and athletic training  
+*Stack: React Native, TypeScript, Node.js*
+
+**Personal Portfolio** — Clean, minimalistic showcase of my journey  
+*Stack: HTML, CSS, JavaScript*
+
+**EuroVision Board** — Interactive roadmap tracker for my Europe Quest  
+*Stack: React, Tailwind CSS*
 
 </div>
 
 ---
 
+## 🌱 What I'm Into
+
+### 💪 Active Life
+- **Calisthenics & Parkour** — Building strength, control, and freedom of movement
+- **Flips & Tricks** — Skate, scooter, BMX, trampoline
+- **Sports** — Volleyball, soccer, basketball, climbing
+- **Morning Routine** — 5 AM wake-ups + cold showers for discipline & focus
+
+### 🧠 Intellectual Pursuits
+- **Math, Physics, IT** — The logic that powers everything
+- **Deep Conversations** — Philosophy, space theories, meaning of existence
+- **Self-Development** — Constantly experimenting, challenging myself, growing
+- **English Mastery** — B2-C1 through full immersion (even dream in English now)
+
+### 🎬 Inspiration
+- **Dragon Ball** — Get up and keep going, no matter how many times you fall
+- **The Flash** — Speed, resilience, never giving up
+- **Bryan Johnson** — Don't die. Optimize health, longevity, performance
+- **Stan Browney, Magnus Midtbø, Sergio Nee** — Peak athleticism & dedication
+
+### 🎨 Design Philosophy
+Clean. Minimalistic. Readable. Beautiful. Clear.  
+*Function over form, but form matters.*
+
+---
+
+## 🤝 My Bro & Co-Founder
+
+Shoutout to **[Vlad](https://github.com/vlp0werr)** — we've been together since kindergarten (10+ years), went through everything together, and we're on the same mission: **Europe Quest**.  
+
+True friendship. Same goal. Different paths. One destination.
+
+---
+
+## 💭 Philosophy
+
 <details>
-<summary>🌌 <b>The Experimenting Era (2022-2026)</b></summary>
+<summary><b>What I Stand Against</b></summary>
 
-Since I was 12, I've tried everything I could get my hands on. I believe in **experience over theory** and **action over hesitation**.
+<br>
 
-**What I've explored:**
+**Gen Z/Alpha Problems I Reject:**
+- TikTok scrolling addiction & dopamine death spirals
+- Laziness, weakness, excuses
+- Fake friendships & surface-level connections
+- Disrespecting everyone & everything
+- "Depression" over nothing (real struggles deserve empathy, but victimhood culture doesn't)
 
-- 🎨 **Creative:** Blender, photo editing, video editing, audio editing
-- 💻 **Tech:** Coding, Arduino, PC building, Linux
-- 🏃 **Physical:** Parkour, calisthenics, martial arts, trampoline tricks, climbing
-- ⚽ **Sports:** Volleyball, soccer, basketball
-- 🛹 **Extreme:** Skate/scooter/BMX tricks
-- 🧊 **Discipline:** Cold showers, 5 AM wake-ups, daily workouts
-- 💼 **Business:** Creating business plans, studying company histories
-- 🎮 **Creative Building:** Minecraft architecture
+I filter my life. I choose hard things. I respect people who do the same.
 
-**Philosophy:** If I haven't tried it, I don't have an opinion. If I've tried it, I know whether it's for me.
+</details>
+
+<details>
+<summary><b>What I Believe In</b></summary>
+
+<br>
+
+- **Truth over comfort** — I tell you what you need to hear, not what you want to hear
+- **Discipline > Motivation** — Motivation fades. Systems stay.
+- **Quality over quantity** — In friends, in products, in everything
+- **Hard paths build strong people** — I naturally take the harder route
+- **Respect is earned, not given** — But I start with kindness
 
 </details>
 
 ---
 
-<details>
-<summary>💪 <b>Why I Choose Hard Paths</b></summary>
-
-I naturally don't like when something is easy. When someone gets a harder task than me, I try to swap with them.
-
-**Why?** Because:
-
-- Easy things don't teach you anything
-- Comfort kills growth
-- The harder the challenge, the stronger you become
-- I want to be capable, not comfortable
-
-**Inspired by:**
-
-- **Dragon Ball** — Get up, no matter how many times you fall
-- **Stan Browney, Magnus Midtbø, Sergio Nee** — Masters of discipline & progression
-- **Bryan Johnson** — Don't die. Optimize everything.
-
-</details>
-
----
-
-<details>
-<summary>🧘 <b>Health & Lifestyle</b></summary>
-
-I don't believe in "motivation." I believe in **systems** and **discipline**.
-
-**My daily habits:**
-
-- 💧 Drink almost only water (rare exceptions with friends)
-- 🥗 Eat clean and healthy (not discipline, just preference)
-- 🏋️ Daily workouts (calisthenics, parkour, sports)
-- 🧊 Cold showers
-- 🌅 5 AM wake-ups
-- 🚭 **Zero bad habits** — No smoking, no drinking, no drugs
-
-**Why?** Because I want to be **strong, sharp, and capable** — physically and mentally. I want to live long, feel good, and have energy to create.
-
-I condemn smoking, drinking, and other destructive behaviors. Your body is your only true home — treat it like one.
-
-</details>
-
----
-
-<details>
-<summary>🌍 <b>Why Europe? Why Norway?</b></summary>
-
-**What I'm looking for:**
-
-- 🏔️ Beautiful nature, crisp air, cold lakes
-- 🧘 Quiet culture, deep conversations
-- 💼 Work-life balance, world-class healthcare
-- 🛡️ Economic & geopolitical stability
-- 🌍 Freedom to travel across European countries
-- 🎿 Hiking, climbing, swimming in peace
-
-**Why Norway specifically (for now)?**
-
-- Nature that feels alive
-- Clean air & water
-- Safety and stability
-- Quiet, introverted-friendly culture
-- High quality of life
-
-But I'll travel first. Experience different countries. Then decide.
-
-</details>
-
----
-
-## 🤝 **My Bro — Vlad**
-
-Shoutout to my brother **[Vlad](https://github.com/vlp0werr)** — we've been together since kindergarten, went through everything possible, and we share the same goal: **Europe**. Real friendship isn't common. This one is.
-
----
-
-## 📫 **Connect With Me**
+## 📫 Connect With Me
 
 <div align="center">
 
-[![Discord Server](https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DwrxkdJdUC)
-[![Telegram](https://img.shields.io/badge/Telegram-artplay254-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artplay254)
-[![Email](https://img.shields.io/badge/Email-artplay254@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artplay254@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-artplay254-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artplay254)
-[![WakaTime](https://img.shields.io/badge/WakaTime-artplay254-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@artplay254)
+[![Discord](https://img.shields.io/badge/Discord_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/DwrxkdJdUC)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artplay254)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:artplay254@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/artplay254)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@artplay254)
 
-**💬 Join my Discord community** — for people with the same mindset: growth, discipline, honesty, and building something real.
+</div>
+
+> **Join my Discord** — Building a community of disciplined, ambitious people who choose growth over comfort. No fake vibes. Just real progress.
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Artem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nord&hide_border=false&border_color=5E81AC&title_color=88C0D0&text_color=D8DEE9&bg_color=2E3440&icon_color=81A1C1)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=artplay254&layout=compact&theme=nord&hide_border=false&border_color=5E81AC&title_color=88C0D0&text_color=D8DEE9&bg_color=2E3440)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=nord&hide_border=false&border=5E81AC&stroke=88C0D0&ring=81A1C1&fire=BF616A&currStreakLabel=88C0D0&sideLabels=D8DEE9&currStreakNum=D8DEE9&sideNums=D8DEE9&dates=D8DEE9&background=2E3440)
+
+</div>
+
+---
+
+## 🌊 My Journey in Numbers
+
+<div align="center">
+
+| 📅 **Journey Started** | 🎯 **Current Focus** | 🌍 **Dream Country** | 💻 **Coding Since** |
+|:--:|:--:|:--:|:--:|
+| Jan 1, 2026 | Web Development | Norway 🇳🇴 | 2026 |
+
+| 🏋️ **Workout Days/Week** | ⏰ **Wake-Up Time** | 🚿 **Cold Showers** | 📚 **English Level** |
+|:--:|:--:|:--:|:--:|
+| 6 days | 5:00 AM | Daily | B2-C1 |
+
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+*Dragon Ball soundtracks & high-energy workout music*  
+*Focus music while coding late at night*
 
 </div>
 
@@ -302,8 +372,16 @@ Shoutout to my brother **[Vlad](https://github.com/vlp0werr)** — we've been to
 
 <div align="center">
 
-### **"If I fall, I get back up. If it's easy, I make it harder. If it's comfortable, I choose the unknown."**
+### 💬 "Choose the hard path. That's where growth lives."
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:5E81AC&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,50:81A1C1,100:88C0D0&height=120&section=footer)
+
+---
+
+<sub>Built with discipline, caffeine, and late-night coding sessions 🌙</sub>  
+<sub>Last updated: January 2026</sub>
+
+⭐ **If you believe in choosing hard paths and real growth, star this profile**  
+🤝 **Let's connect and build the future together**
 
 </div>
