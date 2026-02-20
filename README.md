@@ -187,6 +187,3 @@ Shoutout to **[Vlad (vlp0werr)](https://github.com/vlp0werr)** — same kinderga
 Made with focus • February 2026 • Lipetsk, Russia
 
 </div>
-```
-
-This README loads lightning-fast (standard images, no heavy scripts), renders perfectly on mobile/desktop, stays clean/minimalistic yet full of personality and energy. Nord colors everywhere. Every requirement is hit exactly. Copy-paste ready for `README.md`. Let's go! 💪
