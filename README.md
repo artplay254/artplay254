@@ -1,239 +1,179 @@
 <div align="center">
 
-<!-- Dynamic Header with Typing Effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5E81AC&height=200&section=header&text=Artem%20Semenihin&fontSize=50&fontColor=ECEFF4&animation=fadeIn&fontAlignY=38&desc=Building%20myself%20into%20something%20extraordinary&descAlignY=55&descAlign=50" />
+<!-- CAPSULE RENDER HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5E81AC,81A1C1,88C0D0&height=160&section=header&text=Artem%20Semenihin&fontSize=42&fontColor=ECEFF4&fontAlignY=45&desc=Builder.%20Curious%20Mind.%20Hard%20Path%20Enjoyer.&descAlignY=68&descSize=16&descColor=D8DEE9&animation=fadeIn" width="100%" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=15+year+old+Full+Stack+Developer;Arch+Linux+Enthusiast+%F0%9F%90%A7;Self-Improvement+Driven;Building+the+Future+%F0%9F%9A%80;Hard+Paths+Only+%E2%9A%A1" alt="Typing SVG" /></a>
+<!-- TYPING SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=800&color=88C0D0&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Self-teaching+full-stack+dev+from+Russia+%F0%9F%87%B7%F0%9F%87%BA;Arch+Linux+%2F+KDE+Plasma+%2F+open-source+enjoyer;Building+hard+things+because+easy+is+boring." alt="Typing SVG" />
 
-</div>
+<br/>
 
----
-
-<!-- Personal Badges Row -->
-<div align="center">
-
-![Arch Linux](https://img.shields.io/badge/Daily%20Driver-Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=2E3440)
-![5AM Club](https://img.shields.io/badge/5AM-Cold%20Showers%20%E2%9D%84-88C0D0?style=for-the-badge&labelColor=2E3440)
-![WakaTime](https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=for-the-badge&labelColor=2E3440)
-![Age](https://img.shields.io/badge/Age-15-5E81AC?style=for-the-badge&labelColor=2E3440)
-![Journey](https://img.shields.io/badge/Journey%20Started-Jan%202026-A3BE8C?style=for-the-badge&labelColor=2E3440)
-![Don't Die](https://img.shields.io/badge/Philosophy-Don't%20Die%20%F0%9F%92%AA-BF616A?style=for-the-badge&labelColor=2E3440)
+<!-- PERSONAL BADGES -->
+<img src="https://img.shields.io/badge/OS-Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/DE-KDE%20Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white" />
+<img src="https://img.shields.io/badge/Wake%20Up-5%3A00%20AM%20%E2%9A%A1-BF616A?style=flat-square" />
+<img src="https://img.shields.io/badge/Cold%20Showers-Daily%20%F0%9F%A7%8A-81A1C1?style=flat-square" />
+<img src="https://img.shields.io/badge/English-B2%E2%80%93C1%20%F0%9F%87%AC%F0%9F%87%A7-A3BE8C?style=flat-square" />
+<img src="https://img.shields.io/badge/Journey%20Started-Jan%201%2C%202026-EBCB8B?style=flat-square" />
+<a href="https://wakatime.com/@artplay254"><img src="https://wakatime.com/badge/user/72b1c550-60d3-405b-ac99-8959268a85f2.svg?style=flat-square&color=5E81AC" /></a>
 
 </div>
 
 ---
 
-## 👨‍💻 `About Me`
+## `> whoami`
 
 ```typescript
-const artem = {
-  name: "Artem Semenihin",
-  location: "Lipetsk, Russia → Europe/US 🌍",
-  age: 15,
-  grade: 9,
-  
-  identity: {
-    personality: ["quiet-loving introvert", "deep thinker", "disciplined"],
-    values: ["real friendships", "hard paths", "honesty", "self-improvement"],
-    motto: "I don't like when something is easy. I take harder paths.",
-  },
-  
-  currentlyReading: "📖 Atomic Habits by James Clear",
-  
-  inspiration: [
-    "Stan Browney", "Magnus Midtbø", "Sergio Nee", 
-    "Dragon Ball (never give up)", "Bryan Johnson (don't die)"
-  ],
-  
-  dailyDrive: {
-    os: "Arch Linux (btw)",
-    de: "KDE Plasma",
-    editor: "Visual Studio Code",
-    browser: "Firefox",
-    philosophy: "Power, simplicity, freedom, no bloat"
-  },
-  
-  lifePhilosophy: {
-    health: "Optimizing sleep, nutrition, exercise for longevity",
-    mindset: "Choose discomfort. Growth lives outside comfort zones.",
-    friends: "Few but true. 10+ years of real brotherhood.",
-    standards: "No fake people. No nodding blindly. Truth > comfort."
-  }
+const artem: Developer = {
+  name:      "Artem Semenihin",
+  age:       15,
+  location:  "Lipetsk, Russia → Europe / US (someday)",
+  grade:     "9th grade",
+  started:   "January 1, 2026",
+
+  personality: ["introverted", "curious", "disciplined", "honest", "goofy + deep"],
+  dailyDriver: ["Arch Linux", "KDE Plasma", "VSCode", "Firefox"],
+  currentlyLearning: ["HTML", "CSS", "JavaScript"],
+
+  credo: `
+    I don't take the easy path.
+    If someone gets a harder task than me — I swap with them.
+    I value real friendships over a crowd of fake ones.
+    I tell the truth, even if it's uncomfortable.
+  `,
+
+  goal: "Build myself — intellectually, physically, morally — into someone worth becoming."
 };
 ```
 
----
-
-## 🎯 The Quest: From Zero to Freedom
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Level 1: 9th Grade] -->|2026| B[Level 2: Strong Foundation]
-    B -->|2027-2028| C[Level 3: 10-11th Grade]
-    C -->|2028| D[Level 4: College/University Entry]
-    D -->|2029-2033| E[Level 5: Portfolio Building]
-    E -->|2033-2034| F[Level 6: Full-Time Remote Work]
-    F -->|2034-2035| G[Level 7: World Explorer]
-    G --> H[Level 8: Choose Your Kingdom]
-    H --> I[FINAL LEVEL: Freedom & Impact]
-    
-    style A fill:#5E81AC,stroke:#D8DEE9,stroke-width:2px,color:#ECEFF4
-    style E fill:#88C0D0,stroke:#D8DEE9,stroke-width:2px,color:#2E3440
-    style I fill:#A3BE8C,stroke:#D8DEE9,stroke-width:2px,color:#2E3440
-```
-
-</div>
-
-### 🗺️ The Path
-
-1. **Finish school strongly** (9-11 grades) → Pass exams with excellence
-2. **College/University** → Formal education while building real skills
-3. **Self-learn coding** → Constant upskilling (the real university)
-4. **Start freelancing/remote work** → Build experience and portfolio
-5. **Land full-time remote job** → Financial freedom unlocked
-6. **Travel & discover** → Experience different countries and cultures
-7. **Choose my kingdom** → Decide where I want to build my life
-8. **Move & thrive** → Start living and working in my chosen country
-
----
-
-## 🎖️ Q1 2026 Goals
-
-<details open>
-<summary><b>Click to view my current quarter goals</b></summary>
+<details>
+<summary><b>📖 A bit more about me</b></summary>
 <br>
 
-- [x] **Start the journey** - Officially began January 1, 2026 ✅
-- [ ] **Master HTML & CSS fundamentals** - Build 5 responsive landing pages
-- [ ] **JavaScript proficiency** - Complete 50+ challenges on freeCodeCamp
-- [ ] **First portfolio project** - Create personal portfolio website
-- [ ] **Git & GitHub mastery** - 100+ commits, contribute to open source
-- [ ] **Fitness milestone** - Achieve 20 consecutive pull-ups
-- [ ] **Reading goal** - Finish "Atomic Habits" + 1 more book
-- [ ] **Community building** - Grow Discord server to 50+ like-minded people
-- [ ] **Workout app MVP** - Launch alpha version with friends
+I'm 15, from Russia, building my path toward becoming a full-stack developer and eventually relocating to Europe or the US. I'm not in a rush — I'm doing it right.
+
+Since 12 I've been in what I call my **experimenting era** — I've tried Blender, Arduino, parkour, martial arts, calisthenics, PC building, cold showers, business planning, Minecraft architecture, video/audio editing, and a dozen other things. That era never really ended.
+
+I daily drive **Arch Linux + KDE Plasma** (over a year now) and I'm proud of it. Not because it's trendy — because it aligns with my values: open-source, no bloat, no telemetry, full control.
+
+I'm inspired by **Bryan Johnson** (longevity & optimization), **Stan Browney & Magnus Midtbø** (calisthenics & climbing), **Wim Hof** (resilience), **Nick Pro** (parkour), and **Dragon Ball** (get up. keep going. no matter what.).
+
+I have only a few friends — but we've been together since kindergarten. 10+ years, through everything. That's what real friendship looks like.
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Languages & Tools
 
-### 💻 Currently Using / Learning
+### ✅ Currently Using / Learning
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2E3440)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2E3440)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=2E3440)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2E3440)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440)
-
-</div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
 
 ### 🖥️ My Daily Environment
 
-<div align="center">
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
+<img src="https://img.shields.io/badge/KDE%20Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox-browser&logoColor=white" />
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white&labelColor=2E3440)
-![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white&labelColor=2E3440)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=2E3440)
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white&labelColor=2E3440)
+### 🔜 Next on the Roadmap ([roadmap.sh/full-stack](https://roadmap.sh/full-stack))
 
-</div>
-
-### 🤖 AI Tools
-
-<div align="center">
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white&labelColor=2E3440)
-![Claude](https://img.shields.io/badge/Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=2E3440)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white&labelColor=2E3440)
-![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=2E3440)
-
-</div>
-
-### 🎯 Next on the Roadmap
-
-Based on [roadmap.sh Full Stack Developer](https://roadmap.sh/full-stack):
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=2E3440)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=2E3440)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=2E3440)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=2E3440)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=2E3440)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=2E3440)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=2E3440)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2E3440)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=2E3440)
-
-</div>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux%20%2F%20CLI-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
 ---
 
-## 📊 Coding Stats
+## ⏱️ WakaTime Stats
 
 <div align="center">
 
-<!-- WakaTime Stats Card -->
 <a href="https://wakatime.com/@artplay254">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&theme=nord&layout=compact&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=5E81AC&text_color=D8DEE9" alt="WakaTime Stats" />
+  <img src="https://wakatime.com/share/@artplay254/languages.svg" width="440" alt="WakaTime Language Stats" style="border-radius:8px;" />
 </a>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🗺️ The Quest — My Path
 
-<div align="center">
+> *Started: Jan 1, 2026 · Final goal: ~2032–2035*
 
-> **Note:** All projects are currently in development. Building something real takes time, and I'm committed to doing it right.
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  ARTEM'S FULL STACK QUEST — PROGRESS MAP                        ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  [✅] LVL 1 · START THE JOURNEY           (Jan 1, 2026)         ║
+║        └─ Commit. No looking back.                              ║
+║                                                                  ║
+║  [🔄] LVL 2 · MASTER WEB BASICS           (2026)                ║
+║        └─ HTML · CSS · JavaScript · Git                         ║
+║                                                                  ║
+║  [ ]  LVL 3 · FINISH 9TH–11TH GRADE       (2026–2028)          ║
+║        └─ Pass exams. Stay sharp.                               ║
+║                                                                  ║
+║  [ ]  LVL 4 · ENTER COLLEGE / UNI         (2028–2029)          ║
+║        └─ Computer Science track                                ║
+║                                                                  ║
+║  [ ]  LVL 5 · FULL STACK DEVELOPER        (2028–2030)          ║
+║        └─ React · Node.js · TypeScript · Databases · APIs       ║
+║                                                                  ║
+║  [ ]  LVL 6 · FIRST FREELANCE INCOME      (2029–2030)          ║
+║        └─ Real clients. Real feedback. Real growth.             ║
+║                                                                  ║
+║  [ ]  LVL 7 · BUILD A STRONG PORTFOLIO    (2030–2031)          ║
+║        └─ Projects that speak louder than a CV                  ║
+║                                                                  ║
+║  [ ]  LVL 8 · LAND REMOTE JOB             (2031–2032)          ║
+║        └─ Work from anywhere                                    ║
+║                                                                  ║
+║  [ ]  LVL 9 · TRAVEL & DISCOVER           (2032–2034)          ║
+║        └─ Countries, cultures, perspectives                     ║
+║                                                                  ║
+║  [ ]  LVL 10 · CHOOSE HOME · MOVE · LIVE  (2034–2035)          ║
+║        └─ 🏆 FINAL BOSS: Find your place in the world          ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-</div>
+---
 
-<details>
-<summary><b>🏋️ Workout Tracking App</b> (In Progress - Alpha Stage)</summary>
-<br>
+## 🎯 Q1 2026 Goals
 
-**The Problem:** Current workout apps are either too complicated, filled with ads, or don't align with the mindset of serious athletes.
+> *January → March 2026*
 
-**The Solution:** Building a clean, distraction-free workout tracker for people who actually train hard. Features progress tracking, customizable routines, and community challenges.
+- [ ] Complete HTML & CSS foundations (FreeCodeCamp Responsive Web Design cert)
+- [ ] Ship first real JavaScript project (not a tutorial clone)
+- [ ] Launch a clean personal portfolio website
+- [ ] Contribute first meaningful commit to the workout app with Vlad
+- [ ] Maintain daily workout streak → 90+ days
+- [ ] Keep sleep, nutrition & recovery protocol consistent
+- [ ] Read **Atomic Habits** fully and apply at least 3 systems from it
 
-**Tech Stack:** Planning to use React Native + Node.js + MongoDB
+---
 
-**Team:** Working with my childhood friends who share the same vision
+## 🚧 Featured Projects
 
-**Status:** 🔨 Active Development
+> These are in active development. Real things. Real progress.
 
-</details>
+### 💪 Workout App *(in progress)*
+> A mobile app built with my best friend **[Vlad](https://github.com/vlp0werr)** — something someone like *me* would genuinely love to use. Focused on workouts, tracking, and an active lifestyle. If this sounds like your thing and you want to collaborate — reach out.
 
-<details>
-<summary><b>💼 Personal Portfolio</b> (Coming Soon)</summary>
-<br>
-
-A clean, minimalistic portfolio website showcasing my journey, projects, and skills. Built with pure HTML, CSS, and JavaScript before moving to React.
-
-**Status:** 📋 Planning Phase
-
-</details>
-
-<details>
-<summary><b>🌐 Other Ideas in the Pipeline</b></summary>
-<br>
-
-- **DevQuest:** A gamified learning platform for developers
-- **CodeBuddy:** Study accountability app for programmers
-- **MindfulDev:** Break reminder + health tips for developers
-
-**Status:** 💡 Ideation
-
-</details>
+### 🌐 Personal Portfolio *(in progress)*
+> My corner of the web. Clean, minimal, fast — built from scratch to show who I am and what I build.
 
 ---
 
@@ -241,158 +181,41 @@ A clean, minimalistic portfolio website showcasing my journey, projects, and ski
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────┐
-│  📖 Atomic Habits                           │
-│  by James Clear                             │
-│                                             │
-│  "You do not rise to the level of your     │
-│   goals. You fall to the level of your     │
-│   systems."                                 │
-│                                             │
-│  Progress: ████████░░░░ 65%                │
-└─────────────────────────────────────────────┘
-```
+| 📖 Book | Author | Why |
+|---|---|---|
+| **Atomic Habits** | James Clear | Systems > goals. Building habits that compound. |
 
 </div>
 
 ---
 
-## 💪 Beyond Coding
+## 🤝 My Bro
 
-<details>
-<summary><b>Physical Training & Sports</b></summary>
-<br>
-
-I believe in a strong body for a strong mind. My training includes:
-
-- **Calisthenics & Workouts** - Building functional strength
-- **Parkour & Flips** - Pushing physical boundaries
-- **Skate / Scooter / BMX Tricks** - Creativity in movement
-- **Volleyball / Soccer / Basketball** - Team sports and competition
-- **Martial Arts** - Discipline and self-defense
-
-**Philosophy:** Bryan Johnson inspired - optimizing sleep, nutrition, and exercise for longevity.
-
-</details>
-
-<details>
-<summary><b>Experimenting Era (Age 12-15)</b></summary>
-<br>
-
-Since I turned 12, I've been in my "try everything" phase. Some highlights:
-
-✅ **Digital Creation:** Blender, photo editing, video editing, audio editing  
-✅ **Tech:** Arduino, PC building, Linux (daily driving Arch for 1+ year)  
-✅ **Physical:** Parkour, calisthenics, martial arts, trampoline tricks, climbing  
-✅ **Sports:** Volleyball, soccer, basketball  
-✅ **Lifestyle:** Cold showers, 5 AM wake-ups, self-optimization  
-✅ **Business:** Creating business plans, studying company strategies  
-✅ **Creative:** Minecraft builds, game development concepts  
-
-**Lesson learned:** Trying many things helps you discover what truly matters.
-
-</details>
-
-<details>
-<summary><b>Design Philosophy</b></summary>
-<br>
-
-I value things that are:
-
-- **Clean & Minimalistic** - No unnecessary complexity
-- **High Quality** - Built to last
-- **Popular & Trusted** - Battle-tested by real users
-- **Functional First** - Form follows function
-
-This applies to everything: code, tools, clothes, OS choices.
-
-</details>
+> **[Vlad](https://github.com/vlp0werr)** — we've been together since kindergarten. Same energy, same goal. We're building the workout app together. Some friendships don't need to be explained.
 
 ---
 
-## 🌍 Why I'm Building This
+## 📬 Connect
 
 <div align="center">
 
-### The Vision
-
-```
-I want to move to Europe or the US.
-
-Europe = Beautiful nature, stability, work-life balance, freedom to travel
-US = Opportunities, English everywhere, entrepreneurship culture
-
-But first, I must build the skills, the portfolio, the experience.
-Remote work = Freedom to live anywhere.
-
-The goal isn't just to move countries.
-It's to build a life of freedom, impact, and meaning.
-```
+<a href="mailto:artplay254@gmail.com"><img src="https://img.shields.io/badge/Email-artplay254%40gmail.com-BF616A?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/artplay254"><img src="https://img.shields.io/badge/Telegram-artplay254-81A1C1?style=flat-square&logo=telegram&logoColor=white" /></a>
+<a href="https://discord.gg/DwrxkdJdUC"><img src="https://img.shields.io/badge/Discord-Community%20Server-5E81AC?style=flat-square&logo=discord&logoColor=white" /></a>
+<a href="https://wakatime.com/@artplay254"><img src="https://img.shields.io/badge/WakaTime-artplay254-88C0D0?style=flat-square&logo=wakatime&logoColor=white" /></a>
 
 </div>
 
----
-
-## 🤝 The Brotherhood
-
-**Special shoutout to [@vlp0werr](https://github.com/vlp0werr) (Vlad)** - My bro since kindergarten. We've been together for 10+ years, through everything. We share the same goal: building ourselves into something extraordinary, mastering our craft, and creating the life we envision.
-
-True friendship isn't about having many friends. It's about having the RIGHT friends who push you to become better.
-
----
-
-## 🧭 My Core Values
-
-```python
-def my_approach_to_life():
-    values = {
-        "hard_paths": "I naturally don't like when something is easy",
-        "honesty": "I'm the friend who tells the truth, even if uncomfortable",
-        "no_fake_people": "I don't nod blindly, especially to fake behavior",
-        "deep_conversations": "Small talk < Real discussions about life and ideas",
-        "standards": "Filters, boundaries, and high standards in everything",
-        "self_improvement": "Constantly experimenting and challenging myself",
-        "respect": "Always kind and respectful to everyone",
-    }
-    
-    return "Choosing hard paths, avoiding weak people, building something real"
-```
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-[![Discord Server](https://img.shields.io/badge/Join_My_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2E3440)](https://discord.gg/DwrxkdJdUC)
-[![Telegram](https://img.shields.io/badge/Telegram-@artplay254-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2E3440)](https://t.me/artplay254)
-[![Email](https://img.shields.io/badge/Email-artplay254@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2E3440)](mailto:artplay254@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-artplay254-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2E3440)](https://github.com/artplay254)
-
-</div>
+> 💬 *Discord server is for people who share the same mindset — active, honest, self-improving, curious. You know who you are.*
 
 ---
 
 <div align="center">
 
-### 💭 "I'm not trying to be average. I'm building myself into someone capable, strong, and free."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5E81AC,81A1C1,88C0D0&height=100&section=footer&fontColor=ECEFF4&animation=fadeIn" width="100%" />
 
-**Join me on this journey. Let's build something real together.**
+*"It's not about how many times you fall. It's about how many times you get back up."*
 
----
-
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=artplay254&show_icons=true&theme=nord&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=5E81AC&text_color=D8DEE9" alt="GitHub Stats" />
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=artplay254&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=BF616A&currStreakLabel=88C0D0" alt="GitHub Streak" />
-
-<!-- Profile Views -->
-![Profile Views](https://komarev.com/ghpvc/?username=artplay254&style=for-the-badge&color=5E81AC&labelColor=2E3440)
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=5E81AC&height=100&section=footer" />
+**— Dragon Ball taught me that. I live by it.**
 
 </div>
