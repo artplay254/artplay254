@@ -96,6 +96,7 @@ const artem = {
 |---|---|---|---|
 | **PowerHub** | React Native, Expo, Firebase | 🔨 Building MVP | DBZ-style workout & life tracker app. Power up IRL. |
 | **Portfolio** | HTML, CSS, JS | 🔨 In Progress | Personal site to showcase my journey and work. |
+| **VPN Agent** | Python, Shell | First version pushed! | CLI for Linux (Arch/Ubuntu) that manages WireGuard and AmneziaWG connections with intelligent fallback and auto-recovery logic. |
 
 > 💡 *If you're someone who'd love a Dragon Ball Z fitness tracker — connect with me. I'm looking for builders.*
 
