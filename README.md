@@ -36,13 +36,12 @@ const artem = {
   browser:    "Firefox",
   learning:   ["HTML", "CSS", "JavaScript"],
   nextUp:     ["React", "Node.js", "Git workflows", "TypeScript"],
-  goal:       "Remote fullstack job → move to Germany",
+  goal:       "Remote fullstack job → travel Europe → settle somewhere great",
   mindset:    "Hard paths only. No shortcuts. No fake people.",
   currentRead:"📖 Atomic Habits — James Clear",
   building:   ["PowerHub — DBZ-style fitness tracker app (React Native + Firebase)"],
-  channel:    "[https://www.youtube.com/@artplay254](https://www.youtube.com/@artplay254)",
+  channel:    "https://www.youtube.com/@artplay254",
 };
-
 ```
 
 ## `}`
@@ -53,13 +52,39 @@ const artem = {
 
 ### ⚡ Currently Using / Learning
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+
 ### 🖥 Daily Environment
 
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=flat-square&logo=firefox&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Tools-Claude_%7C_GPT_%7C_Grok-5E81AC?style=flat-square)
+
 ### 🗺 Next on the Roadmap *(via [roadmap.sh/full-stack](https://roadmap.sh/full-stack))*
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
 ## ⏱ Coding Activity
+
+<div align="center">
+
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=artplay254&layout=compact&theme=nord&hide_border=true&langs_count=8)](https://wakatime.com/@artplay254)
+
+</div>
 
 ---
 
@@ -68,7 +93,7 @@ const artem = {
 > All currently in active development — watching these grow in real time.
 
 | Project | Stack | Status | Description |
-| --- | --- | --- | --- |
+|---|---|---|---|
 | **PowerHub** | React Native, Expo, Firebase | 🔨 Building MVP | DBZ-style workout & life tracker app. Power up IRL. |
 | **Portfolio** | HTML, CSS, JS | 🔨 In Progress | Personal site to showcase my journey and work. |
 | **VPN Agent** | Python, Shell | First version pushed! | CLI for Linux (Arch/Ubuntu) that manages WireGuard and AmneziaWG connections with intelligent fallback and auto-recovery logic. |
@@ -92,8 +117,7 @@ const artem = {
 [ LEVEL 8 ] ⬜  University           CS / related field · Keep coding
 [ LEVEL 9 ] ⬜  First Full-Time      Remote fullstack developer job
 [ LEVEL 10] ⬜  Travel Mode          Explore Europe · Work remotely · Discover
-[ LEVEL 11] ⬜  Final Boss           Relocate to Germany · Build a life · Stay.
-
+[ LEVEL 11] ⬜  Final Boss           Choose a country · Build a life · Stay.
 ```
 
 > *"It's not about how many times you fall. It's about getting up every single time." — Dragon Ball*
@@ -102,15 +126,20 @@ const artem = {
 
 ## 🎯 Q2 2026 Goals
 
-* [ ] Complete freeCodeCamp Responsive Web Design certification
-* [ ] Build and ship a working personal portfolio site
-* [ ] Hit 100+ hours on WakaTime
-* [ ] Launch first PowerHub prototype (internal)
-* [ ] Post first YouTube video documenting the journey
-* [ ] Read 2 books (currently: *Atomic Habits*)
-* [ ] Maintain 5 AM morning routine (workout + cold shower) consistently
+- [ ] Complete freeCodeCamp Responsive Web Design certification
+- [ ] Build and ship a working personal portfolio site
+- [ ] Hit 100+ hours on WakaTime
+- [ ] Launch first PowerHub prototype (internal)
+- [ ] Post first YouTube video documenting the journey
+- [ ] Read 2 books (currently: *Atomic Habits*)
+- [ ] Maintain 5 AM morning routine (workout + cold shower) consistently
 
 ---
+
+<details>
+<summary><strong>👤 About Me — the full picture</strong></summary>
+
+<br/>
 
 I'm a 15-year-old from Lipetsk, Russia. Introvert. But not the quiet-sad kind — the *I'd rather have one real conversation than twenty shallow ones* kind.
 
@@ -126,37 +155,68 @@ I speak Russian natively and have pushed my English to B2–C1 through full imme
 
 **Friends:** I have very few, but they're the real ones. We've been together since kindergarten. That's not friendship — that's family.
 
+</details>
+
+<details>
+<summary><strong>🏃 Active Life — outside the screen</strong></summary>
+
+<br/>
+
 I don't just code. The discipline I apply to learning fullstack, I apply to my body too.
 
-* **Calisthenics** — push-ups, pull-ups, dips, progressions
-* **Parkour** — movement, flow, creativity, controlled risk (inspired by Nick Pro)
-* **Street climbing** — finding lines, trusting your hands
-* **Cold showers at 5 AM** — non-negotiable daily reset
-* **Volleyball / Soccer / Basketball** — team energy, competition
-* **Flips, trampoline** — because why not
-* **Sleep, nutrition, recovery** — optimized like software, inspired by Bryan Johnson
+- **Calisthenics** — push-ups, pull-ups, dips, progressions
+- **Parkour** — movement, flow, creativity, controlled risk (inspired by Nick Pro)
+- **Street climbing** — finding lines, trusting your hands
+- **Cold showers at 5 AM** — non-negotiable daily reset
+- **Volleyball / Soccer / Basketball** — team energy, competition
+- **Flips, trampoline** — because why not
+- **Sleep, nutrition, recovery** — optimized like software, inspired by Bryan Johnson
 
 Health isn't a hobby. It's infrastructure.
 
-* I can go from *"okay hear me out, what if time isn't linear"* to making a dumb joke in 5 seconds flat
-* Dragon Ball has been running in my head since childhood. Goku's philosophy — fall down, get up, get stronger — is basically my life motto
-* I recently got into The Flash — speed, consequence, identity. Good stuff.
-* I daily drive **Arch Linux + KDE Plasma** for over a year. Not because I want to suffer. Because I want power, control, and no telemetry. Plasma just works.
-* I prefer things that are popular *because they're genuinely great* — not just trendy
-* I'm reading **Atomic Habits** right now and it's already changing how I structure things
+</details>
+
+<details>
+<summary><strong>🐉 Fun / Personality Corner</strong></summary>
+
+<br/>
+
+- I can go from *"okay hear me out, what if time isn't linear"* to making a dumb joke in 5 seconds flat
+- Dragon Ball has been running in my head since childhood. Goku's philosophy — fall down, get up, get stronger — is basically my life motto
+- I recently got into The Flash — speed, consequence, identity. Good stuff.
+- I daily drive **Arch Linux + KDE Plasma** for over a year. Not because I want to suffer. Because I want power, control, and no telemetry. Plasma just works.
+- I prefer things that are popular *because they're genuinely great* — not just trendy
+- I'm reading **Atomic Habits** right now and it's already changing how I structure things
+
+</details>
 
 ---
 
 ## 👥 Building with
 
 **Vlad** — [@vlp0werr](https://github.com/vlp0werr)
-
 > My closest friend since kindergarten. Same goals, same mindset. We've been through everything together. Now we're building together too.
 
 ---
 
 ## 📡 Connect
 
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@artplay254)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/artplay254)
+[![Discord Server](https://img.shields.io/badge/Discord_Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/DwrxkdJdUC)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:artplay254@gmail.com)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=flat-square&logo=wakatime&logoColor=white)](https://wakatime.com/@artplay254)
+
+</div>
+
 ---
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5E81AC,81A1C1&height=100&section=footer&fontColor=ECEFF4" width="100%"/>
+
 *"Hard paths only. No shortcuts. Build yourself."*
+
+</div>
