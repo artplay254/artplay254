@@ -1,4 +1,4 @@
-# ⚡ Hey, I'm [Your Name / Handle]
+# ⚡ Hey, I'm Artem
 
 > **Building, breaking, and exploring — from low-level systems to physical endurance.**
 
